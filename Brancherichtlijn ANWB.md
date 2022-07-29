@@ -2,11 +2,11 @@
 
 <h3><strong>Inhoudsopgave:</strong></h3>
 
-<a href="h1"><strong>1   -   Inleiding</strong></a><br />
-<a href="h2"><strong>2   -   Wet en Regelgeving</strong></a><br />
-<a href="h3"><strong>3   -   Toepassingsbereik</strong></a><br />
-<a href="h4"><strong>4   -   Uitvoering</strong></a><br />
-<a href="h5"><strong>5   -   Gedragscode en afwijken</strong></a><br />
+<a href="#h1"><strong>1   -   Inleiding</strong></a><br />
+<a href="#h2"><strong>2   -   Wet en Regelgeving</strong></a><br />
+<a href="#h3"><strong>3   -   Toepassingsbereik</strong></a><br />
+<a href="#h4"><strong>4   -   Uitvoering</strong></a><br />
+<a href="#h5"><strong>5   -   Gedragscode en afwijken</strong></a><br />
 
 ***
 
