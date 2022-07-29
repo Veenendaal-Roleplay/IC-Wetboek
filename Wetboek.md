@@ -2,53 +2,54 @@
 **Inhoudsopgave:**
 
 
-#### **Hoofdstuk 1 - Definities en beginselen**	
-	1.1 - Algemene bepalingen	
-	1.2 - Beginselen van de wet	
-#### **Hoofdstuk 2 - Strafrecht**	
-	2.1 - Bepalingen strafrecht	
-	2.2 - Sanctie vormen	
-	2.3 - Strafuitsluitingsgronden	
-	2.4 - Verzwarende en verzachtende omstandigheden	
-	2.5 - Misdrijven	
-	2.6 - Overtredingen	
-#### **Hoofdstuk 3 - Opsporing en strafvordering**	
-	3.1 - Algemene bepalingen	
-	3.2 - Opsporing
-	3.3 - Bevoegdheid tot strafvordering	
-#### **Hoofdstuk 4 - Wegen- en verkeerswet**	
-	4.1 - Verkeer op de weg	
-		4.1.1 - Auto	
-			4.1.1.1 - Eisen aan bestuurder	
-			4.1.1.2 - Eisen aan voertuig	
-			4.1.1.3 - Keuringsbewijs (APK)	
-			4.1.1.4 - Kenteken	
-			4.1.1.5 - Verkeersborden	
-			4.1.1.6 - Verkeersregels	
-		4.1.2 - Motorfiets	
-			4.1.2.1 - Eisen aan bestuurder	
-		4.1.3 - Voetganger	
-	4.2 - Openbaar vervoer	
-	4.3 - Openbare orde	
-	4.4 - Overig	
+<a href="#h1">**Hoofdstuk 1 - Definities en beginselen**</a><br><br>
+   <a href="#h1.1">1.1 - Algemene bepalingen</a><br>
+   <a href="#h1.2">1.2 - Beginselen van de wet</a><br><br>
+<a href="#h2">**Hoofdstuk 2 - Strafrecht**</a><br><br>
+   <a href="#h2.1">2.1 - Bepalingen strafrecht</a><br> 
+   <a href="#h2.2">2.2 - Sanctie vormen</a><br>
+   <a href="#h2.3">2.3 - Strafuitsluitingsgronden</a><br>
+   <a href="#h2.4">2.4 - Verzwarende en verzachtende omstandigheden</a><br>
+   <a href="#h2.5">2.5 - Misdrijven</a><br>
+   <a href="#h2.6">2.6 - Overtredingen</a><br><br>
+<a href="#h3">**Hoofdstuk 3 - Opsporing en strafvordering**</a><br><br>
+   <a href="#h3.1">3.1 - Algemene bepalingen</a><br>
+   <a href="#h3.2">3.2 - Opsporing</a><br>
+   <a href="#h3.3">3.3 - Bevoegdheid tot strafvordering</a><br><br>
+<a href="#h4">**Hoofdstuk 4 - Wegen- en verkeerswet**</a><br><br>
+<a href="#h4.1">4.1 - Verkeer op de weg</a><br>
+	<a href="#h4.1.1">4.1.1 - Auto</a><br>
+		<a href="#h4.1.1.1">4.1.1.1 - Eisen aan bestuurder</a><br>
+		<a href="#h4.1.1.2">4.1.1.2 - Eisen aan voertuig</a><br>
+		<a href="#h4.1.1.3">4.1.1.3 - Keuringsbewijs (APK)</a><br>
+		<a href="#h4.1.1.4">4.1.1.4 - Kenteken</a><br>
+		<a href="#h4.1.1.5">4.1.1.5 - Verkeersborden</a><br>
+		<a href="#h4.1.1.6">4.1.1.6 - Verkeersregels</a><br>
+	<a href="#h4.1.2">4.1.2 - Motorfiets</a><br>
+		<a href="#h4.1.2.1">4.1.2.1 - Eisen aan bestuurder</a><br>
+	<a href="#h4.1.3">4.1.3 - Voetganger</a><br>
+   <a href="#h4.2">4.2 - Openbaar vervoer</a><br>
+   <a href="#h4.3">4.3 - Openbare orde</a><br>
+   <a href="#h4.4">4.4 - Overig</a><br>
 ***
 
-## **Hoofdstuk 1 - Definities en beginselen**
+<h2 id="h1"><strong>Hoofdstuk 1 - Definities en beginselen</strong></h2>
 
-### **1.1 - Algemene bepalingen**
+<h3 id="h1.1"><strong>1.1 - Algemene bepalingen</strong></h3>
 
-**Artikel 1 - Juridische vervolging en sancties**   
+**Artikel 1 - Juridische vervolging en sancties**    
 Wanneer dit wetboek gebroken wordt, behoudt eenieder het recht juridische stappen te ondernemen. Onder het behouden recht valt het insturen van een formele klacht of het aanvragen van een gerechtelijke procedure.
 
-**Artikel 2 - Reducering van alle sancties**   
+**Artikel 2 - Reducering van alle sancties**    
 Indien enige gegeven sanctie door de Nationale Politie, Ministerie van Justitie of de Koninklijke Marechaussee als buiten proportioneel geacht wordt door de Directeur Juridische Zaken, Staatssecretaris of Minister van Justitie, kunnen deze de opgelegde sanctie reduceren, aanpassen of nietig verklaren.
 
 
 
-### **1.2 - Beginselen van de wet**   
-**Artikel 3 - Legaliteitsbeginsel**    
-1. De staat mag uitsluitend beperkingen leggen aan de vrijheid van burgers als deze opgelegde regels voor iedereen gelden en door het Ministerie van Justitie, in samenspraak met de regering zijn opgesteld en in de wetten zijn vastgelegd. 
-2. Een uitzondering op lid 1 kan gemaakt worden in bijzondere situaties waarin de burger in kwestie door middel van een speciale regeling, waartoe door de staat en/of van door hen daartoe bevoegde organen of personen besloten is, uitgesloten is van het zich houden aan de opgestelde wet of regel.
+<h3 id="h1.2"><strong>1.2 - Beginselen van de wet</strong></h3> 
+   
+**Artikel 3 - Legaliteitsbeginsel**       
+1. De staat mag uitsluitend beperkingen leggen aan de vrijheid van burgers als deze opgelegde regels voor iedereen gelden en door het Ministerie van Justitie, in samenspraak met de regering zijn opgesteld en in de wetten zijn vastgelegd.     
+2. Een uitzondering op lid 1 kan gemaakt worden in bijzondere situaties waarin de burger in kwestie door middel van een speciale regeling, waartoe door de staat en/of van door hen daartoe bevoegde organen of personen besloten is, uitgesloten is van het zich houden aan de opgestelde wet of regel.     
 
 **Artikel 4 - Gelijkheidsbeginsel**   
 1. Binnen Veenendaal dient eenieder onderling als gelijkwaardig behandeld te worden. Ongeacht zijn/haar functie of baan. Onder gelijkwaardig wordt verstaan dat een ieder met respect behandeld wordt en zelf ook een ieder met respect behandelt. Met gelijkwaardigheid wordt niet bedoeld de bij de functie of baan bepaalde privileges, taken en eisen. Deze zijn door de staat en het Ministerie van Justitie vastgesteld in de wetten en regels. 
@@ -63,9 +64,10 @@ Indien enige gegeven sanctie door de Nationale Politie, Ministerie van Justitie 
 2. Uitzonderingen op lid 1 zijn mogelijk, mits dit duidelijk aangegeven staat bij het desbetreffende artikel. 
 3. Een bijzondere uitzondering betreft het eiland ten zuidoosten van het vaste land. Deze heeft haar eigen regels en wetten dewelke niet beschreven zijn in dit document. 
 
-## **Hoofdstuk 2 - Strafrecht**   
+<h2 id="h2"><strong>Hoofdstuk 2 - Strafrecht</strong></h2>  
 
-### **2.1 - Bepalingen strafrecht**   
+<h3 id="h2.1"><strong>2.1 - Bepalingen strafrecht</strong></h3>   
+
 **Artikel 7 - Nulla poena-beginsel**   
 Men kan alleen bestraft worden volgens de bestaande regelgeving op het moment van de gepleegde feiten.
 
@@ -83,7 +85,8 @@ Met privé sfeer, wordt bedoeld een gesprek, hetzij één op één, hetzij met e
 **Artikel 10 - Ne bis in idem beginsel**   
 Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zijn, kan niemand andermaal worden vervolgd wegens een feit waarover door een rechter of strafopleggings ambtenaar onherroepelijk is beslist.
 
-## **2.2 - Sanctie vormen**   
+<h3 id="h2.2"><strong>2.2 - Sanctie vormen</strong></h3>   
+ 
 **Artikel 11 - Sancties**   
 1. Strafbare feiten kunnen volgens de gegeven maximumstraffen respectievelijk met de volgende sancties bestraft worden:   
 	a. Verbale waarschuwing   
@@ -100,7 +103,8 @@ Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zij
 3. De beschreven sancties kunnen gecombineerd worden, rekening houdend met de proportionaliteit tot de strafbare feiten. 
 
 
-### **2.3 - Strafuitsluitingsgronden**   
+<h3 id="h2.3"><strong>2.3 - Strafuitsluitingsgronden</strong></h3>   
+
 **Artikel 12 - Definitie strafuitsluitingsgronden**   
 Strafuitsluitingsgronden zijn redenen waardoor gezegd kan worden dat de verdachte wederrechtelijk of niet verwijtbaar heeft gehandeld. Hierdoor kunnen strafbare feiten hem/haar niet of slechts in mindere mate worden verweten, waardoor deze wel schuldig kan worden bevonden maar niet of minder kan worden gesanctioneerd. 
 
@@ -135,7 +139,8 @@ Niet strafbaar is de overschrijding van de grenzen van de noodzakelijke verdedig
 
 
 
-### **2.4 - Verzwarende en verzachtende omstandigheden**   
+<h3 id="h2.4"><strong>2.4 - Verzwarende en verzachtende omstandigheden</strong></h3>      
+   
 **Artikel 19 - Definitie verzwarende en verzachtende omstandigheden**   
 Verzwarende en verzachtende omstandigheden zijn omstandigheden dewelke, indien aanwezig tijdens het plegen van strafbare feiten, respectievelijk tot strafverhoging en/of strafvermindering kunnen leiden.
 
@@ -158,9 +163,8 @@ Wanneer individuen, dewelke betrokken zijn bij strafbare feiten, actief meewerke
 2. Wanneer dezelfde strafbare feiten een vierde of vijfde keer gesanctioneerd wordt, kan de maximum sanctie verdubbeld worden.
 3. Wanneer dezelfde strafbare feiten voor een zesde of zevende keer gesanctioneerd wordt, kan de maximum sanctie verdubbeld worden en daarnaast een proces verbaal openen tegen de verdachte.
 
+<h3 id="h2.5"><strong>2.5 - Misdrijven</strong></h3>   
 
-
-### **2.5 - Misdrijven**   
 **Artikel 25 - Aanslag tegen de koning**   
 1. Met aanslag tegen de koning wordt omschreven als de aanslag ondernomen met het oogmerk om de Koning, de regerende Koningin of de Regent van het leven of de vrijheid te beroven of tot het regeren ongeschikt te maken.
 2. Voor dit misdrijf is een maximaal opgelegde sanctie van 180 maanden celstraf.
@@ -316,7 +320,8 @@ Hij die een beroep of een gewoonte maakt van het kopen van goederen met het oogm
 	– afkomstig is uit enig misdrijf.   
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
-### **2.6 - Overtredingen**   
+<h3 id="h2.6"><strong>2.6 - Overtredingen</strong></h3>   
+
 **Artikel 55 - Hinderlijk volgen**   
 Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan een ander tegen diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
@@ -330,9 +335,10 @@ Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wo
 Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, bevindt of daar vee laat lopen, wordt gestraft met geldboete van de eerste categorie.
 
 
-## **Hoofdstuk 3 - Opsporing en strafvordering**   
+<h2 id="h3"><strong>Hoofdstuk 3 - Opsporing en strafvordering</strong></h2>       
 
-### **3.1 - Algemene bepalingen**   
+<h3 id="h3.1"><strong>3.1 - Algemene bepalingen</strong></h3>   
+
 **Artikel 59 - Vrijspraak**   
 Wanneer de rechter, de instantie of het individu die een strafrechtelijke zaak behandelt wettig en overtuigend bewezen acht dat de verdachte ten laste gelegde strafbare feit(en) heeft begaan wordt de verdachte vrijgesproken. Bij vrijspraak wordt de verdachte wettig onschuldig bevonden.
 
@@ -375,7 +381,7 @@ Een rechter, instantie en individu die een strafrechtelijke zaak behandelt behou
 
 
 
-### **3.2 - Opsporing**   
+<h3 id="h3.2"><strong>**3.2 - Opsporing</strong></h3>   
 
 **Artikel 68 - Opsporingsinstanties**   
 1. Elke opsporingsinstantie mag autonoom onderzoek voeren naar feiten en/of verdenkingen volgens de wettelijk vastgestelde onderzoeks machtigingen mits deze feiten en/of verdenkingen primair binnen hun onderzoeksgebied vallen.
@@ -414,7 +420,8 @@ Een rechter, instantie en individu die een strafrechtelijke zaak behandelt behou
 **Artikel 72 - Anonimiteit**   
 Elk individu dat betrokken is bij een onderzoek kan volledige of gedeeltelijke anonimiteit aanvragen bij de opsporingsinstantie in ruil voor waardevolle bewijsstukken en/of getuigenis. 
 
-### **3.3 - Bevoegdheid tot strafvordering**   
+<h3 id="h3.3"><strong>3.3 - Bevoegdheid tot strafvordering</strong></h3>   
+
 **Artikel 73 - Bevoegdheid tot strafvordering door de Nationale Politie**   
 De Nationale Politie is bevoegd tot het sanctioneren van individuen voor overtredingen. Ook zijn deze bevoegd tot het uitdelen van ten hoogste 80 maanden gevangenisstraf en geldboetes tot en met categorie drie zonder tussenkomst van het Ministerie van Justitie.
 
@@ -430,10 +437,11 @@ De speciale functionaris (SF) is bevoegd tot het sanctioneren van individuen, bu
 3. Bij het nietig verklaren van een uitspraak kan de instantie of individu die de nietigverklaring uitspreekt een compensatie uitspreken in verhouding met de nadelen dewelke de beklaagde heeft geleden ten gevolge van de vorige uitspraak(en), wanneer deze dat nodig acht.
 
 
-## **Hoofdstuk 4 - Wegen- en verkeerswet**   
-### **4.1 - Verkeer op de weg**   
-#### **4.1.1 - Auto**   
-##### **4.1.1.1 - Eisen aan bestuurder**   
+<h2 id="h4"><strong>Hoofdstuk 4 - Wegen- en verkeerswet</strong></h2>     
+<h3 id="h4.1"><strong>4.1 - Verkeer op de weg</strong></h3>   
+<h4 id="h4.1.1"><strong>4.1.1 - Auto</strong></h4>   
+<h5 id="h4.1.1.1"><strong>4.1.1.1 - Eisen aan bestuurder</strong></h5>   
+
 **Artikel 77 - Geen gebruik maken van autogordel**   
 Het niet dragen van de autogordel in de auto kan bestraft worden met een maximale geldboete van 150 euro.
 
@@ -461,7 +469,8 @@ Het onnodig geluid of lawaai veroorzaken kan bestraft worden met een maximale ge
 
 
 
-##### **4.1.1.2 - Eisen aan voertuig**   
+<h5 id="h4.1.1.2"><strong>4.1.1.2 - Eisen aan voertuig</strong></h5>   
+
 **Artikel 84 - Ondeugdelijk voertuig**   
 1. Het hebben van een ondeugdelijke band op het voertuig kan bestraft worden met een maximale geldboete van 150 euro en een WOK-Status op het voertuig.
 2. Het hebben van twee ondeugdelijke banden op het voertuig kan bestraft worden met een maximale geldboete van 220 euro en een WOK-Status op het voertuig.
@@ -491,12 +500,14 @@ Wanneer voorwerpen het zicht op of voor de ruiten belemmeren kan dit bestraft wo
 **Artikel 90 - De voorruit en/of zijruiten naast de bestuurder laten te weinig licht door**   
 Wanneer de voorruit en/of de zijruiten naast de bestuurder te weinig licht doorlaten onder de grens van <55% zal dit beboet worden met een maximale geldboete van 250 euro en een WOK-Status. 
 
-##### **4.1.1.3 - Keuringsbewijs (APK)**
+<h5 id="h4.1.1.3"><strong>4.1.1.3 - Keuringsbewijs (APK)</strong></h5>   
+
 **Artikel 91 - Geen of ongeldig keuringsbewijs**   
 Het niet hebben van een geldig algemeen periodiek keuringsbewijs tijdens het besturen van een auto op de openbare weg kan beboet worden met een maximale geldboete van 150 euro en een WOK-Status op het voertuig.
 
 
-##### **4.1.1.4 - Kenteken**   
+<h5 id="h4.1.1.4"><strong>4.1.1.4 - Kenteken</strong></h5>   
+
 **Artikel 92 - Geen geldig kentekenbewijs/niet kunnen tonen kentekenbewijs**   
 Het niet hebben van een geldig kentekenbewijs tijdens het besturen van een auto op de openbare weg of het niet kunnen tonen van een kentekenbewijs kan beboet worden met een maximale geldboete van 410 euro en inbeslagname van het voertuig.
 
@@ -504,7 +515,8 @@ Het niet hebben van een geldig kentekenbewijs tijdens het besturen van een auto 
 Het hebben van geen of ondeugdelijke kentekenplaten op het voertuig kan beboet worden conform dit artikel met een maximale geldboete van 150 euro en een WOK-Status op het voertuig. 
 
 
-##### **4.1.1.5 - Verkeersborden**   
+<h5 id="h4.1.1.5"><strong>4.1.1.5 - Verkeersborden</strong></h5>   
+
 **Artikel 94 - Overschrijding van gewicht - C20, C21**   
 Het overschrijden van het maximale gewicht aangegeven door de borden C20 of C21 kan beboet worden met een maximale geldboete van 1100 euro. 
 
@@ -546,7 +558,8 @@ Het negeren van de verplichte rijrichting conform borden D1 t/m D7 kan beboet wo
 Het niet voorrang verlenen bij een stopbord wanneer dit moet kan beboet worden met een maximale geldboete van 250 euro.
 
 
-##### **4.1.1.6 - Verkeersregels**   
+<h5 id="h4.1.1.6"><strong>4.1.1.6 - Verkeersregels</strong></h5>   
+
 **Artikel 107 - Geen voorrang verlenen bij haaientanden**   
 Het overtreden van dit artikel kan beboet worden met een maximale geldboete van 250 euro.
 
@@ -658,8 +671,9 @@ De volgende feiten vallen onder dit artikel en zijn strafbaar conform dit artike
 	j. signalen geven op niet toegestane wijze.   
 Deze kunnen individueel beboet worden op verschillende bedragen die vast zijn gezet door het Ministerie van Justitie en Veiligheid.   
 
-#### **4.1.2 - Motorfiets**   
-##### **4.1.2.1 - Eisen aan bestuurder**   
+<h4 id="h4.1.2"><strong>4.1.2 - Motorfiets</strong></h4>   
+<h5 id="h4.1.2.1"><strong>4.1.2.1 - Eisen aan bestuurder</strong></h5>   
+
 **Artikel 128 - Rijbewijs**   
 1. Tijdens het besturen van een motorfiets is het verplicht om een rijbewijs te bezitten van de juiste categorie. Het niet bezitten van een motorrijbewijs kan beboet worden met een maximale geldboete van 370 euro bij een eerste overtreding.
 2. De overtreding van lid 1 kan met een derde verhoogd worden bij een tweede overtreding.
@@ -677,7 +691,8 @@ Alle artikelen van een auto die ook betrekking hebben op een motorfiets zijn gel
 Het niet dragen van een passende helm tijdens het besturen van een motorfiets kan beboet worden met een maximale geldboete van 150 euro. Het is niet toegestaan om verder te rijden na het ontvangen van een boete conform dit artikel.
 
 
-#### **4.1.3 - Voetganger**
+<h4 id="h4.1.3"><strong>4.1.3 - Voetganger</strong></h4>   
+
 **Artikel 131 - Door rood verkeerslicht lopen**   
 Het is niet toegestaan om door een rood verkeerslicht te lopen als voetganger. Dit kan beboet worden met een maximale geldboete van 75 euro.
 
@@ -694,7 +709,8 @@ Het negeren van een stopteken conform dit artikel als voetganger kan beboet word
 Het negeren van een aanwijzing kan beboet worden met een geldboete van 120 euro.
 
 
-### **4.2 - Openbaar vervoer**
+<h3 id="h4.2"><strong>4.2 - Openbaar vervoer</strong></h3>   
+
 **Artikel 136 - Zonder geldig vervoersbewijs in het openbaar vervoer**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
@@ -719,7 +735,8 @@ Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100
 **Artikel 143 - Zonder geldig vervoersbewijs gebruik maken van voorzieningen van het openbaar vervoer.**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.   
 
-### **4.3 - Openbare orde**   
+<h3 id="h4.3"><strong>4.3 - Openbare orde</strong></h3>   
+
 **Artikel 144 - Niet opvolgen van regels in verband met het coronavirus**   
 1. Het overtreden van dit artikel kan beboet worden met een maximale geldboete van 410 euro.
 2. Minderjarigen kunnen bij een eerste overtreding doorverwezen worden naar Halt.
@@ -773,7 +790,8 @@ Overtreding van dit artikel kan beboet worden met een maximale geldboete van 150
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
 
-### **4.4 - Overig**   
+<h3 id="h4.4"><strong>4.4 - Overig</strong></h3>   
+
 **Artikel 161 - Taxivervoer**      
 1. Als taxivervoerder gelden de volgende maatregelen:   
 	a. Taxivervoer verrichten zonder goedkeuring van de auto in het kentekenregister is
@@ -808,12 +826,12 @@ Het hinderen of verstoren van de openbare orde door middel van geluidsoverlast k
 3. Een uitzondering op lid 2 kan gemaakt worden voor een voertuig dat volgens diens opgestelde en goedgekeurde brancherichtlijnen zich hier mag bevinden.
 
 
-
-Zoals opgesteld in juli 2022 door het Ministerie van Justitie en Veiligheid en ondertekend door:   
-Dear Leader, 	toenmalig interim Minister van Justitie en Veiligheid   
-Paradox!,	toenmalig interim Staatssecretaris van Justitie en Veiligheid   
-floesjke, 	toenmalig Eerste Hoofdcommissaris Nationale Politie   
-Nullified,	toenmalig interim Commandant Koninklijke Marechaussee   
+<i>
+Zoals opgesteld in juli 2022 door het Ministerie van Justitie en Veiligheid en ondertekend door:<br />   
+Dear Leader, 	toenmalig interim Minister van Justitie en Veiligheid   <br />
+Paradox!,	toenmalig interim Staatssecretaris van Justitie en Veiligheid   <br />
+floesjke, 	toenmalig Eerste Hoofdcommissaris Nationale Politie   <br />
+Nullified,	toenmalig interim Commandant Koninklijke Marechaussee  <br /> </i>
    
 
 
