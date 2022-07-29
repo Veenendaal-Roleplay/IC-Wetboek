@@ -430,39 +430,39 @@ De speciale functionaris (SF) is bevoegd tot het sanctioneren van individuen, bu
 3. Bij het nietig verklaren van een uitspraak kan de instantie of individu die de nietigverklaring uitspreekt een compensatie uitspreken in verhouding met de nadelen dewelke de beklaagde heeft geleden ten gevolge van de vorige uitspraak(en), wanneer deze dat nodig acht.
 
 
-Hoofdstuk 4 - Wegen- en verkeerswet
-4.1 - Verkeer op de weg
-4.1.1 - Auto
-4.1.1.1 - Eisen aan bestuurder
-Artikel 77 - Geen gebruik maken van autogordel
+## **Hoofdstuk 4 - Wegen- en verkeerswet**   
+### **4.1 - Verkeer op de weg**   
+#### **4.1.1 - Auto**   
+##### **4.1.1.1 - Eisen aan bestuurder**   
+**Artikel 77 - Geen gebruik maken van autogordel**   
 Het niet dragen van de autogordel in de auto kan bestraft worden met een maximale geldboete van 150 euro.
 
-Artikel 78 - Verlopen rijbewijs
+**Artikel 78 - Verlopen rijbewijs**   
 Het besturen van een auto op de openbare weg met een verlopen rijbewijs kan bestraft worden met een maximale geldboete van 370 euro.
 
-Artikel 79 - Niet kunnen tonen rijbewijs
+**Artikel 79 - Niet kunnen tonen rijbewijs**   
 Het niet kunnen tonen van het rijbewijs wanneer hierom door een bevoegd persoon of orgaan naar gevraagd wordt kan bestraft worden met een maximale geldboete van 100 euro.
 
-Artikel 80 - Rijden onder invloed
+**Artikel 80 - Rijden onder invloed**   
 Het besturen van een auto op de openbare weg wanneer onder de invloed van alcohol kan bestraft worden met een maximale geldboete van 300 euro. 
 
-Artikel 81 - Niet meewerken aan voorlopige alcoholcontrole
+**Artikel 81 - Niet meewerken aan voorlopige alcoholcontrole**   
 1. Het niet meewerken aan een alcoholcontrole uitgevoerd door een daarvoor bevoegde instantie of personen kan bestraft worden met een maximale geldboete van 250 euro. 
 2. De verdachte kan aangehouden worden voor het niet meewerken na drie maal blazen conform dit artikel. Deze is dan verplicht om op het bureau een definitieve ademanalyse of de bloedproef uit te voeren om het promillage te testen.
 3. Het niet meewerken aan de definitieve ademanalyse of de bloedproef is een misdrijf. Hier staat een maximale gevangenisstraf op van 20 maanden.
 4. Als toegevoegde sanctie kan conform dit artikel het rijbewijs ingenomen worden.
 
-Artikel 82 - Claxonneren op niet toegestane wijze
+**Artikel 82 - Claxonneren op niet toegestane wijze**   
 1. Het claxonneren op een niet toegestane wijze kan bestraft worden met een maximale geldboete van 150 euro.
 2. Als toegevoegde sanctie kan conform dit artikel het voertuig een WOK-Status opgelegd krijgen.
 
-Artikel 83 - Onnodig geluid/lawaai veroorzaken
+**Artikel 83 - Onnodig geluid/lawaai veroorzaken**   
 Het onnodig geluid of lawaai veroorzaken kan bestraft worden met een maximale geldboete van 250 euro. 
 
 
 
-4.1.1.2 - Eisen aan voertuig
-Artikel 84 - Ondeugdelijk voertuig
+##### **4.1.1.2 - Eisen aan voertuig**   
+**Artikel 84 - Ondeugdelijk voertuig**   
 1. Het hebben van een ondeugdelijke band op het voertuig kan bestraft worden met een maximale geldboete van 150 euro en een WOK-Status op het voertuig.
 2. Het hebben van twee ondeugdelijke banden op het voertuig kan bestraft worden met een maximale geldboete van 220 euro en een WOK-Status op het voertuig.
 3. Het hebben van drie ondeugdelijke banden op het voertuig kan bestraft worden met een maximale geldboete van 330 euro en een WOK-Status op het voertuig.
@@ -471,349 +471,350 @@ Artikel 84 - Ondeugdelijk voertuig
 6. Een uitzondering op lid 5 kan gemaakt worden wanneer de persoon zelf reparaties of afsleep kan regelen.
 7. Het hebben van ondeugdelijke verlichting op het voertuig kan beboet worden met een maximale geldboete van 150 euro en een WOK-Status op het voertuig.
 
-Artikel 85 - Foute afmeting van het voertuig
+**Artikel 85 - Foute afmeting van het voertuig**   
 Wanneer men dingen heeft toegevoegd aan of op het voertuig en deze niet meer de fabrieks afmetingen heeft kan dit met een maximale geldboete van 150 euro en een WOK-Status bestraft worden.
 
-Artikel 86 - Ondeugdelijke claxon
+**Artikel 86 - Ondeugdelijke claxon**   
 Het hebben van een ondeugdelijke claxon kan bestraft worden met een maximale geldboete van 100 euro en een WOK-Status op het voertuig.
 
-Artikel 87 - Te zwaar beladen
+**Artikel 87 - Te zwaar beladen**   
 1. Wanneer een auto te zwaar beladen is kan dit bestraft worden met een maximale geldboete van 330 euro.
 2. Wanneer dit artikel gebruikt wordt kan de auto staande gehouden worden tot het probleem van de te zware lading is opgelost.
 
-Artikel 88 - Belemmerd zicht door voorwerpen voor/op ruiten
+**Artikel 88 - Belemmerd zicht door voorwerpen voor/op ruiten**   
 Wanneer voorwerpen het zicht op of voor de ruiten belemmeren kan dit bestraft worden met een maximale geldboete van 150 euro en een WOK-Status.
 
-Artikel 89 - Noodzakelijk vereiste spiegel/spiegels ontbreken
+**Artikel 89 - Noodzakelijk vereiste spiegel/spiegels ontbreken**   
 1. Het niet hebben van alle vereiste spiegels kan bestraft worden met een maximale geldboete van 150 euro en een WOK-Status. 
 2. Het is niet toegestaan voor een auto om door te rijden wanneer deze beboet is conform dit artikel.
 
-Artikel 90 - De voorruit en/of zijruiten naast de bestuurder laten te weinig licht door
+**Artikel 90 - De voorruit en/of zijruiten naast de bestuurder laten te weinig licht door**   
 Wanneer de voorruit en/of de zijruiten naast de bestuurder te weinig licht doorlaten onder de grens van <55% zal dit beboet worden met een maximale geldboete van 250 euro en een WOK-Status. 
 
-4.1.1.3 - Keuringsbewijs (APK)
-Artikel 91 - Geen of ongeldig keuringsbewijs
+##### **4.1.1.3 - Keuringsbewijs (APK)**
+**Artikel 91 - Geen of ongeldig keuringsbewijs**   
 Het niet hebben van een geldig algemeen periodiek keuringsbewijs tijdens het besturen van een auto op de openbare weg kan beboet worden met een maximale geldboete van 150 euro en een WOK-Status op het voertuig.
 
 
-4.1.1.4 - Kenteken
-Artikel 92 - Geen geldig kentekenbewijs/niet kunnen tonen kentekenbewijs
+##### **4.1.1.4 - Kenteken**   
+**Artikel 92 - Geen geldig kentekenbewijs/niet kunnen tonen kentekenbewijs**   
 Het niet hebben van een geldig kentekenbewijs tijdens het besturen van een auto op de openbare weg of het niet kunnen tonen van een kentekenbewijs kan beboet worden met een maximale geldboete van 410 euro en inbeslagname van het voertuig.
 
-Artikel 93 - Ondeugdelijke kentekenplaten
+**Artikel 93 - Ondeugdelijke kentekenplaten**   
 Het hebben van geen of ondeugdelijke kentekenplaten op het voertuig kan beboet worden conform dit artikel met een maximale geldboete van 150 euro en een WOK-Status op het voertuig. 
 
 
-4.1.1.5 - Verkeersborden
-Artikel 94 - Overschrijding van gewicht - C20, C21
+##### **4.1.1.5 - Verkeersborden**   
+**Artikel 94 - Overschrijding van gewicht - C20, C21**   
 Het overschrijden van het maximale gewicht aangegeven door de borden C20 of C21 kan beboet worden met een maximale geldboete van 1100 euro. 
 
-Artikel 95 - Overschrijding van afmeting - C17 t/m C19
+**Artikel 95 - Overschrijding van afmeting - C17 t/m C19**   
 Het overschrijden van de maximale afmeting aangegeven door de borden C17 t/m C19 kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 96 - Inhalen waar verboden - F1
+**Artikel 96 - Inhalen waar verboden - F1**   
 Wanneer iemand inhaalt waar dit niet is toegestaan conform bord F1 kan deze beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 97 - Niet stoppen bij stopgebod - F10
+**Artikel 97 - Niet stoppen bij stopgebod - F10**   
 Wanneer iemand niet stopt bij een stopgebod zoals bord F10 kan deze beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 98 - Parkeren op taxistandplaats
+**Artikel 98 - Parkeren op taxistandplaats**   
 Het is niet toegestaan om te parkeren op een taxistandplaats tenzij de bestuurder van het betreffende voertuig een taxibestuurder is in een bedrijfsauto met een geldig identificatiebewijs op zich met een geldige taxipas. Wanneer dit niet zo is, kan dit beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 99 - Parkeren waar alleen laden/lossen mag
+**Artikel 99 - Parkeren waar alleen laden/lossen mag**   
 Het is niet toegestaan om te parkeren waar alleen laden en lossen mag. Dit kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 100 - Parkeren waar verboden - E1
+**Artikel 100 - Parkeren waar verboden - E1**   
 Het is niet toegestaan om te parkeren op een plaats waar dit wordt verboden conform bord E1. Dit kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 101 - Stilstaan waar verboden - E2
+**Artikel 101 - Stilstaan waar verboden - E2**   
 Het is niet toegestaan om stil te staan op een plaats waar dit wordt verboden conform bord E2. Dit kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 102 - Inrijden waar verboden - C1, C2, C12
+**Artikel 102 - Inrijden waar verboden - C1, C2, C12**   
 Het is niet toegestaan om in te rijden waar verboden conform borden C1, C2 en C12. Dit kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 103 - Keren waar verboden - F7
+**Artikel 103 - Keren waar verboden - F7**   
 Het is niet toegestaan te keren waar dit conform bord F7 is verboden, dit kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 104 - Tegen rijrichting inrijden - C2, C3, C4
+**Artikel 104 - Tegen rijrichting inrijden - C2, C3, C4**   
 1. Het is niet toegestaan om tegen de rijrichting in te rijden conform borden C2, C3 en C4. Dit kan beboet worden met een maximale geldboete van 150 euro.  
 2. Op autoweg of autosnelweg (spookrijden) dagvaarding. Eis ter zitting geldboete en rijontzegging (OBM)
 
-Artikel 105 - Verplichte rijrichting negeren - D1 t/m D7
+**Artikel 105 - Verplichte rijrichting negeren - D1 t/m D7**   
 Het negeren van de verplichte rijrichting conform borden D1 t/m D7 kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 106 - Geen voorrang verlenen bij stopbord - B7
+**Artikel 106 - Geen voorrang verlenen bij stopbord - B7**   
 Het niet voorrang verlenen bij een stopbord wanneer dit moet kan beboet worden met een maximale geldboete van 250 euro.
 
 
-4.1.1.6 - Verkeersregels
-Artikel 107 - Geen voorrang verlenen bij haaientanden
+##### **4.1.1.6 - Verkeersregels**   
+**Artikel 107 - Geen voorrang verlenen bij haaientanden**   
 Het overtreden van dit artikel kan beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 108 - Niet stoppen voor stopstreep
+**Artikel 108 - Niet stoppen voor stopstreep**   
 Het overtreden van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 109 - Niet voorsorteren op de voorsorteerstrook
+**Artikel 109 - Niet voorsorteren op de voorsorteerstrook**   
 Het overtreden van dit artikel kan beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 110 - Op de busbaan rijden
+**Artikel 110 - Op de busbaan rijden**   
 Het is niet toegestaan om op de busbaan te rijden wanneer niet bevoegd daartoe. Dit kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 111 - Overschrijden doorgetrokken streep
+**Artikel 111 - Overschrijden doorgetrokken streep**   
 Het is niet toegestaan om de doorgetrokken streep te overschrijden wanneer niet bevoegd daartoe. Dit kan beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 112 - Niet stoppen bij stopteken, rode lamp, vlag etc
+**Artikel 112 - Niet stoppen bij stopteken, rode lamp, vlag etc**   
 Het niet stoppen voor een stopteken gegeven door een daartoe bevoegd persoon of instantie kan beboet worden met een maximale geldboete van 410 euro.
 
-Artikel 113 - Niet opvolgen van aanwijzingen van verkeersregelaar/bevoegd ambtenaar
+**Artikel 113 - Niet opvolgen van aanwijzingen van verkeersregelaar/bevoegd ambtenaar**   
 Het overtreden van dit artikel kan beboet worden met een maximale geldboete van 410 euro.
 
-Artikel 114 - Bumperkleven
+**Artikel 114 - Bumperkleven**   
 Het niet tot stilstand kunnen brengen van zijn/haar voertuig binnen een veilige afstand kan beboet worden met een maximale geldboete van 650 euro.
 
-Artikel 115 - Geen richtingaanwijzer gebruiken waar nodig
+**Artikel 115 - Geen richtingaanwijzer gebruiken waar nodig**   
 Het niet gebruiken van de richtingaanwijzer waar nodig kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 116 - Kruispunt blokkeren
+**Artikel 116 - Kruispunt blokkeren**   
 Het blokkeren van een kruispunt kan beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 117 - Niet rechts houden op de weg
+**Artikel 117 - Niet rechts houden op de weg**   
 Onnodig links blijven rijden kan beboet worden met een maximale geldboete van 250 euro. 
 
-Artikel 118 - Niet rijden op de daarvoor bestemde rijbaan
+**Artikel 118 - Niet rijden op de daarvoor bestemde rijbaan**   
 Het niet rijden op de daarvoor bestemde rijbaan kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 119 - Door rood rijden
+**Artikel 119 - Door rood rijden**   
 1. Het is niet toegestaan om door een rood verkeerslicht te rijden. Dit kan beboet worden met een maximale geldboete van 250 euro.
 2. Het is niet toegestaan om door een rood licht/knipperlicht bij een brug te rijden. Dit kan beboet worden met een maximale geldboete van 250 euro.
 3. Het is niet toegestaan om door een rood knipperlicht bij een overweg te rijden. Dit kan beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 120 - Geen voorrang verlenen
-1. Wanneer men niet voorrang verleent aan iemand die daar recht op heeft kan dit beboet worden met een geldboete. Het gaat hier om het niet voorrang verlenen aan:
-	a. een bus bij een bushalte;
-	b. een persoon die zich moeilijk voortbeweegt;
-	c. een blinde met blindenstok;
-	d. een tram;
-	e. in- of uitstappende passagiers van het openbaar vervoer;
-	f. overig verkeer bij achteruitrijden;
-	g. overig verkeer bij keren;
-	h. overig verkeer bij wegrijden;
-	i. overig verkeer bij wisselen van rijstrook;
-	j. overig verkeer komende uit een uitrit;
-	k. overig verkeer oprijden inrit;
-	l. trein/overweg blokkeren;
-m. voetganger op/bij zebrapad;
-	n. militaire kolonne doorsnijden;
-	o. waar dat verplicht is.
+**Artikel 120 - Geen voorrang verlenen**   
+1. Wanneer men niet voorrang verleent aan iemand die daar recht op heeft kan dit beboet worden met een geldboete. Het gaat hier om het niet voorrang verlenen aan:   
+	a. een bus bij een bushalte;   
+	b. een persoon die zich moeilijk voortbeweegt;   
+	c. een blinde met blindenstok;   
+	d. een tram;   
+	e. in- of uitstappende passagiers van het openbaar vervoer;   
+	f. overig verkeer bij achteruitrijden;   
+	g. overig verkeer bij keren;   
+	h. overig verkeer bij wegrijden;   
+	i. overig verkeer bij wisselen van rijstrook;   
+	j. overig verkeer komende uit een uitrit;   
+	k. overig verkeer oprijden inrit;   
+	l. trein/overweg blokkeren;   
+	m. voetganger op/bij zebrapad;   
+	n. militaire kolonne doorsnijden;   
+	o. waar dat verplicht is.   
 2. Wanneer een van de eerder aangegeven feiten in lid 1 wordt overtreden kan dit beboet worden met een maximale geldboete van 250 euro.
 
 
-Artikel 121 - Handheldbellen
+**Artikel 121 - Handheldbellen**   
 Het bellen tijdens het besturen van een niet-stilstaand voertuig met de telefoon in de hand kan beboet worden met een maximale geldboete van 350 euro.
 
-Artikel 122 - Inhalen vlak voor of op een zebrapad
+**Artikel 122 - Inhalen vlak voor of op een zebrapad**   
 Het is niet toegestaan om binnen 5 meter van een zebrapad in te halen. Dit kan beboet worden met een maximale geldboete van 410 euro.
 
-Artikel 123 - Rechts inhalen
+**Artikel 123 - Rechts inhalen**   
 Het rechts inhalen waar dit niet is toegestaan kan beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 124 - Fout parkeren
-1. Het is niet toegestaan om fout te parkeren, hieronder vallen de volgende situaties:
-	a. fout parkeren;
-	b. fout parkeren bij blauwe streep;
-	c. parkeren op invalidenparkeerplaats;
-	d. stilstaan met mogelijk gevaar voor anderen;
-	e. parkeren zonder geld in de parkeermeter te doen.
+**Artikel 124 - Fout parkeren**   
+1. Het is niet toegestaan om fout te parkeren, hieronder vallen de volgende situaties:   
+	a. fout parkeren;   
+	b. fout parkeren bij blauwe streep;   
+	c. parkeren op invalidenparkeerplaats;   
+	d. stilstaan met mogelijk gevaar voor anderen;   
+	e. parkeren zonder geld in de parkeermeter te doen.   
 2. De gegeven punten hierboven kunnen beboet worden met een maximale geldboete van 100 euro. 
 
-Artikel 125 - Rijsnelheden
+**Artikel 125 - Rijsnelheden**   
 Het is niet toegestaan om harder te rijden dan de maximaal toegestane snelheid na een correctie van 5 km/h. Dit kan afhankelijk van de snelheid berekend worden aan de hand van de boetebase van het openbaar ministerie.
 
-Artikel 126 - Snelweg/autoweg
-De volgende dingen zijn niet toegestaan conform dit artikel op of rond de autosnelweg/autoweg:
-	a. achteruitrijden;
-	b. gebruik maken van de berm;
-	c. keren;
-	d. over de vluchtstrook rijden;
-	e. over de vluchthaven rijden;
-	f. op de vluchtstrook stilstaan;
-	g. op de vluchthaven stilstaan;
-	h. stilstaan op de rijbaan;
-	i. rijden in een voertuig dat niet sneller kan rijden dan 60 km/h;
-	j. niet rechts houden;
-	k. op rijstrook rijden in strijd met rood kruis: rijstrooksignalering.
-Deze kunnen individueel beboet worden voor verschillende bedragen die vast zijn gezet door het Ministerie van Justitie en Veiligheid.
+**Artikel 126 - Snelweg/autoweg**   
+De volgende dingen zijn niet toegestaan conform dit artikel op of rond de autosnelweg/autoweg:   
+	a. achteruitrijden;   
+	b. gebruik maken van de berm;   
+	c. keren;   
+	d. over de vluchtstrook rijden;   
+	e. over de vluchthaven rijden;   
+	f. op de vluchtstrook stilstaan;   
+	g. op de vluchthaven stilstaan;   
+	h. stilstaan op de rijbaan;   
+	i. rijden in een voertuig dat niet sneller kan rijden dan 60 km/h;   
+	j. niet rechts houden;   
+	k. op rijstrook rijden in strijd met rood kruis: rijstrooksignalering.   
+Deze kunnen individueel beboet worden voor verschillende bedragen die vast zijn gezet door het Ministerie van Justitie en Veiligheid.   
 
-Artikel 127 - Verlichting
-De volgende feiten vallen onder dit artikel en zijn strafbaar conform dit artikel en betreft de volgende feiten:
-	a. geen achterlicht bij nacht buiten bebouwde kom;
-	b. geen achterlicht bij nacht in bebouwde kom;
-	c. geen achterlicht overdag bij belemmerd zicht;
-	d. geen dim of grootlicht bij nacht buiten bebouwde kom;
-	e. geen dim of grootlicht bij nacht in bebouwde kom;
-	f. geen verlicht achterkentekenplaat bij nacht etc;
-	g. groot licht voeren wanneer verboden / overdag etc;
-	h. mistachterlicht voeren als dit niet is toegestaan;
-	i. onbevoegd voeren blauw zwaai- of knipperlicht;
-	j. signalen geven op niet toegestane wijze.
-Deze kunnen individueel beboet worden op verschillende bedragen die vast zijn gezet door het Ministerie van Justitie en Veiligheid.
+**Artikel 127 - Verlichting**   
+De volgende feiten vallen onder dit artikel en zijn strafbaar conform dit artikel en betreft de volgende feiten:   
+	a. geen achterlicht bij nacht buiten bebouwde kom;   
+	b. geen achterlicht bij nacht in bebouwde kom;   
+	c. geen achterlicht overdag bij belemmerd zicht;   
+	d. geen dim of grootlicht bij nacht buiten bebouwde kom;   
+	e. geen dim of grootlicht bij nacht in bebouwde kom;   
+	f. geen verlicht achterkentekenplaat bij nacht etc;   
+	g. groot licht voeren wanneer verboden / overdag etc;   
+	h. mistachterlicht voeren als dit niet is toegestaan;   
+	i. onbevoegd voeren blauw zwaai- of knipperlicht;   
+	j. signalen geven op niet toegestane wijze.   
+Deze kunnen individueel beboet worden op verschillende bedragen die vast zijn gezet door het Ministerie van Justitie en Veiligheid.   
 
-4.1.2 - Motorfiets
-4.1.2.1 - Eisen aan bestuurder
-Artikel 128 - Rijbewijs
+#### **4.1.2 - Motorfiets**   
+##### **4.1.2.1 - Eisen aan bestuurder**   
+**Artikel 128 - Rijbewijs**   
 1. Tijdens het besturen van een motorfiets is het verplicht om een rijbewijs te bezitten van de juiste categorie. Het niet bezitten van een motorrijbewijs kan beboet worden met een maximale geldboete van 370 euro bij een eerste overtreding.
 2. De overtreding van lid 1 kan met een derde verhoogd worden bij een tweede overtreding.
-3. Overige overtredingen betrekken:
-	a. het rijden met een verlopen rijbewijs;
-	b. het niet kunnen tonen van een rijbewijs;
-	c. het niet inleveren van het rijbewijs na vordering van de officier van justitie;
-	d. het rijden terwijl het rijbewijs is ingevorderd;
-	e. het zonder rijbewijs rijden.
+3. Overige overtredingen betrekken:   
+	a. het rijden met een verlopen rijbewijs;   
+	b. het niet kunnen tonen van een rijbewijs;   
+	c. het niet inleveren van het rijbewijs na vordering van de officier van justitie;   
+	d. het rijden terwijl het rijbewijs is ingevorderd;   
+	e. het zonder rijbewijs rijden.   
 
-Artikel 129 - Overlap met auto
+**Artikel 129 - Overlap met auto**   
 Alle artikelen van een auto die ook betrekking hebben op een motorfiets zijn geldig voor de motorfiets conform dit artikel en kunnen bestraft worden volgens dezelfde normen als de auto.
 
-Artikel 130 - Geen passende helm dragen
+**Artikel 130 - Geen passende helm dragen**   
 Het niet dragen van een passende helm tijdens het besturen van een motorfiets kan beboet worden met een maximale geldboete van 150 euro. Het is niet toegestaan om verder te rijden na het ontvangen van een boete conform dit artikel.
 
 
-4.1.3 - Voetganger
-Artikel 131 - Door rood verkeerslicht lopen
+#### **4.1.3 - Voetganger**
+**Artikel 131 - Door rood verkeerslicht lopen**   
 Het is niet toegestaan om door een rood verkeerslicht te lopen als voetganger. Dit kan beboet worden met een maximale geldboete van 75 euro.
 
-Artikel 132 - Door rood knipperlicht bij brug of overweg lopen
+**Artikel 132 - Door rood knipperlicht bij brug of overweg lopen**   
 Het is niet toegestaan om door een rood (knipperend) licht te lopen bij een brug of overweg als voetganger. Dit kan beboet worden met een maximale geldboete van 75 euro.
 
-Artikel 133 - Lopen waar het verboden is - C16
+**Artikel 133 - Lopen waar het verboden is - C16**   
 Het is volgens dit artikel conform bord C16 verboden om te lopen waar dit verboden is. Dit kan beboet worden met een maximale geldboete van 30 euro.
 
-Artikel 134 - Niet stoppen bij stopteken op aanwijzing van politie bij rode lamp of vlag
+**Artikel 134 - Niet stoppen bij stopteken op aanwijzing van politie bij rode lamp of vlag**   
 Het negeren van een stopteken conform dit artikel als voetganger kan beboet worden met een maximale geldboete van 120 euro.
 
-Artikel 135 - Niet opvolgen van aanwijzingen van verkeersregelaar/bevoegd ambtenaar
+**Artikel 135 - Niet opvolgen van aanwijzingen van verkeersregelaar/bevoegd ambtenaar**   
 Het negeren van een aanwijzing kan beboet worden met een geldboete van 120 euro.
 
 
-4.2 - Openbaar vervoer
-Artikel 136 - Zonder geldig vervoersbewijs in het openbaar vervoer
+### **4.2 - Openbaar vervoer**
+**Artikel 136 - Zonder geldig vervoersbewijs in het openbaar vervoer**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 137 - Roken in het openbaar vervoer of op het station, waar dit verboden is
+**Artikel 137 - Roken in het openbaar vervoer of op het station, waar dit verboden is**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 138 - Stoffen of voorwerpen uit het vervoermiddel gooien
+**Artikel 138 - Stoffen of voorwerpen uit het vervoermiddel gooien**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 139 - Als reiziger dronken of onder invloed van verdovende middelen zijn
+**Artikel 139 - Als reiziger dronken of onder invloed van verdovende middelen zijn**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 140 - Na sluitingstijd op het station zijn
+**Artikel 140 - Na sluitingstijd op het station zijn**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 141 - Verstoren bedrijfsgang / belemmeren in het openbaar vervoer
+**Artikel 141 - Verstoren bedrijfsgang / belemmeren in het openbaar vervoer**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 142 - Op of langs de spoorweg lopen
+**Artikel 142 - Op of langs de spoorweg lopen**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 143 - Zonder geldig vervoersbewijs gebruik maken van voorzieningen van het openbaar vervoer.
-Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
-4.3 - Openbare orde
-Artikel 144 - Niet opvolgen van regels in verband met het coronavirus
+**Artikel 143 - Zonder geldig vervoersbewijs gebruik maken van voorzieningen van het openbaar vervoer.**   
+Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.   
+
+### **4.3 - Openbare orde**   
+**Artikel 144 - Niet opvolgen van regels in verband met het coronavirus**   
 1. Het overtreden van dit artikel kan beboet worden met een maximale geldboete van 410 euro.
 2. Minderjarigen kunnen bij een eerste overtreding doorverwezen worden naar Halt.
 
-Artikel 145 - Niet opvolgen van een bevel van de politie
+**Artikel 145 - Niet opvolgen van een bevel van de politie**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 410 euro.
 
-
-Artikel 146 - Als straatartiest, of tekenaar optreden waar dit niet mag
+**Artikel 146 - Als straatartiest, of tekenaar optreden waar dit niet mag**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 200 euro. 
 
-Artikel 147 - Zonder toestemming flyeren
+**Artikel 147 - Zonder toestemming flyeren**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 148 - Graffiti aanbrengen
+**Artikel 148 - Graffiti aanbrengen**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 149 - Op of aan de weg een voertuig, tent  of soortgelijks als slaapplaats gebruiken
+**Artikel 149 - Op of aan de weg een voertuig, tent  of soortgelijks als slaapplaats gebruiken**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 150 - Klimmen of zich bevinden op daarvoor niet bestemd straatmeubilair
+**Artikel 150 - Klimmen of zich bevinden op daarvoor niet bestemd straatmeubilair**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 151 - Zodanig ophouden waardoor weggebruikers of omwonenden overlast of hinder wordt veroorzaakt.
+**Artikel 151 - Zodanig ophouden waardoor weggebruikers of omwonenden overlast of hinder wordt veroorzaakt.**   
 Overtreding van dit artikel kan beboet worden voor een maximale geldboete van 150 euro.
 
-Artikel 152 - Wildplassen/poepen
+**Artikel 152 - Wildplassen/poepen**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 153 - Zonder redelijk doel rondhangen
+**Artikel 153 - Zonder redelijk doel rondhangen**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 154 - Valse identiteit opgeven
+**Artikel 154 - Valse identiteit opgeven**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 410 euro.
 
-Artikel 155 - Zonder toestemming bekladden
+**Artikel 155 - Zonder toestemming bekladden**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 156 - Baldadigheid plegen op de openbare weg
+**Artikel 156 - Baldadigheid plegen op de openbare weg**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 157 - Vervoeren van werktuigen waarmee ingebroken kan worden
+**Artikel 157 - Vervoeren van werktuigen waarmee ingebroken kan worden**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 158 - Bedelen
+**Artikel 158 - Bedelen**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 159 - Zonder toestemming goederen aanbieden
+**Artikel 159 - Zonder toestemming goederen aanbieden**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 160 - Op terrein van een ander zich niet houden aan de toegangsvoorwaarden
+**Artikel 160 - Op terrein van een ander zich niet houden aan de toegangsvoorwaarden**   
 Overtreding van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
 
 
-4.4 - Overig
-Artikel 161 - Taxivervoer
-1. Als taxivervoerder gelden de volgende maatregelen:
+### **4.4 - Overig**   
+**Artikel 161 - Taxivervoer**      
+1. Als taxivervoerder gelden de volgende maatregelen:   
 	a. Taxivervoer verrichten zonder goedkeuring van de auto in het kentekenregister is
-	niet toegestaan.
+	niet toegestaan.   
 	b. Als bestuurder van een auto waarmee taxivervoer wordt verricht niet in bezit zijn
-	van een geldige chauffeurskaart.
-	c. Als vervoerder taxivervoer aanbieden zonder geldige vergunning.
-	d. Als bestuurder taxivervoer aanbieden zonder geldige vergunning.
-2. Deze feiten kunnen beboet worden conform dit artikel en kunnen beboet worden door een rechter van het Ministerie van Justitie en Veiligheid.
+	van een geldige chauffeurskaart.   
+	c. Als vervoerder taxivervoer aanbieden zonder geldige vergunning.   
+	d. Als bestuurder taxivervoer aanbieden zonder geldige vergunning.   
+2. Deze feiten kunnen beboet worden conform dit artikel en kunnen beboet worden door een rechter van het Ministerie van Justitie en Veiligheid.   
 
-Artikel 162 - Niet tonen van een identificatiebewijs
+**Artikel 162 - Niet tonen van een identificatiebewijs**   
 Het niet kunnen tonen van een identificatiebewijs aan een instantie of persoon bevoegd tot het vorderen van een, kan beboet worden met een maximale geldboete van 100 euro.
 
-Artikel 163 - Als getuige niet verschijnen
+**Artikel 163 - Als getuige niet verschijnen**   
 Het niet verschijnen als getuige wanneer opgeroepen kan beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 164 - Zonder geldige reden niet verschijnen na oproep om gehoord te worden
+**Artikel 164 - Zonder geldige reden niet verschijnen na oproep om gehoord te worden**   
 Het overtreden van dit artikel kan beboet worden met een maximale geldboete van 250 euro.
 
-Artikel 165 - Winkelwagentje zonder toestemming meenemen
+**Artikel 165 - Winkelwagentje zonder toestemming meenemen**   
 Het overtreden van dit artikel kan beboet worden met een maximale geldboete van 100 euro.
-Artikel 166 - Brandstichting
+
+**Artikel 166 - Brandstichting**   
 Het is niet toegestaan om andermans goed in de brand te steken. Dit kan beboet worden tot het niveau van de schade die gedaan is door de brandstichting. Het geld van deze boete dient naar het slachtoffer te gaan van de brandstichting.
 
-Artikel 167 - Geluidshinder
+**Artikel 167 - Geluidshinder**   
 Het hinderen of verstoren van de openbare orde door middel van geluidsoverlast kan beboet worden met behulp van burengerucht, nachtrustverstoring of overlast veroorzaken voor omgeving d.m.v. toestellen of geluidsapparatuur kan beboet worden met een maximale geldboete van 150 euro.
 
-Artikel 168 - Groenvoorziening
+**Artikel 168 - Groenvoorziening**   
 1. Het is niet toegestaan om zich onbevoegd op te houden op bijvoorbeeld buiten paden in een park. Dit kan beboet worden met een maximale geldboete van 50 euro.
 2. Het is niet toegestaan om met een voertuig te rijden door een park of plantsoen. Dit kan beboet worden met een maximale geldboete van 150 euro voor een motorvoertuig met twee of meer wielen. 
 3. Een uitzondering op lid 2 kan gemaakt worden voor een voertuig dat volgens diens opgestelde en goedgekeurde brancherichtlijnen zich hier mag bevinden.
 
 
 
-Zoals opgesteld in juli 2022 door het Ministerie van Justitie en Veiligheid en ondertekend door:
-Dear Leader, 	toenmalig interim Minister van Justitie en Veiligheid
-Paradox!,	toenmalig interim Staatssecretaris van Justitie en Veiligheid
-floesjke, 	toenmalig Eerste Hoofdcommissaris Nationale Politie
-Nullified,	toenmalig interim Commandant Koninklijke Marechaussee
-
+Zoals opgesteld in juli 2022 door het Ministerie van Justitie en Veiligheid en ondertekend door:   
+Dear Leader, 	toenmalig interim Minister van Justitie en Veiligheid   
+Paradox!,	toenmalig interim Staatssecretaris van Justitie en Veiligheid   
+floesjke, 	toenmalig Eerste Hoofdcommissaris Nationale Politie   
+Nullified,	toenmalig interim Commandant Koninklijke Marechaussee   
+   
 
 
 
