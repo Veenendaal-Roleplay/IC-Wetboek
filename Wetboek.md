@@ -31,6 +31,15 @@
    <a href="#h4.2">4.2 - Openbaar vervoer</a><br>
    <a href="#h4.3">4.3 - Openbare orde</a><br>
    <a href="#h4.4">4.4 - Overig</a><br>
+<a href="#h5">**Hoofdstuk 5 - Strafprocesrecht</a><br><br>
+<a href="#h5.1">5.1 - Hoofdpersonen in strafrecht</a><br>
+<a href="#h5.2">5.2 - Procedure in het strafrecht</a><br>
+	<a href="#h5.2.1">5.2.1 - De rechtbank</a><br>
+	<a href="#h5.2.2">5.2.2 - Het gerechtshof</a><br>
+	<a href="#h5.2.3">5.2.3 - De Hoge Raad</a><br>
+	<a href="#h5.2.4">5.2.4 - Alternatieve procedures</a><br>
+	<a href="#h5.2.5">5.2.5 - Beslissing van de rechter</a><br>   
+
 ***
 
 **Voorwoord**   
@@ -850,12 +859,201 @@ Het hinderen of verstoren van de openbare orde door middel van geluidsoverlast k
 3. Een uitzondering op lid 2 kan gemaakt worden voor een voertuig dat volgens diens opgestelde en goedgekeurde brancherichtlijnen zich hier mag bevinden.
 
 
+<h2 id="h5"><strong>Hoofdstuk 5 - Strafprocesrecht</strong></h2>   
+<h3 id="h5.1"><strong>5.1 - Hoofdpersonen in het strafrecht</strong></h3>    
+
+**Artikel 170 - Rechten van een slachtoffer**   
+1. Het slachtoffer van een strafbaar feit moet zo snel mogelijk aangifte doen bij de politie. De officier van jusitie zal vervolgens de zaak voorleggen an de rechter. Vaak heeft het slachtoffer schade geleden. Hij kan proberen deze schade vergoed te krijgen door aan de officier van justitie te vragen zijn schade bij de rechter te claimen. Dit is vastgelegd in artikel 172. Een slachtoffer kan een voegingsformulier invullen om zijn vordering tot schadevergoeding in het proces mee te laten nemen. 
+2. Winkeliers kunnen ook gebruik maken van dit artikel in het geval van winkeldiefstal. Ook als de winkelier de gestolen spullen terug heeft kan deze op basis van artikel 171 een vergoeding claimen.        
+3. Een slachtoffer kan ook zelf een burgerlijk proces starten tegen de verdachte. Ook wanneer de rechter vindt dat behandeling van de claim van het slachtoffer het strafproces onredelijk zou vertragen, kan deze beslissen dat die claim in een civiele procedure moet worden ingebracht, en niet in de strafzaak wordt behandeld.     
+4. Een uitzondering op lid 3 kan gemaakt worden wanneer de rechter een voorschot op de claim toe wil wijzen of wanneer het slachtoffer een aanvraag doet op een eenmalige uitkering van het schadefonds geweldsmisdrijven.      
+5. Slachtoffers hebben ook het recht tot het afleggen van een verklaring conform artikel 173 en 173bis.     
+6. Als slachtoffer ben je een procesdeelnemer en wordt deze dus niet een zelfstandige procespartij zoals het OM en de verdachte(n) dat zijn.    
+
+**Artikel 171 - Onrechtmatige daad**         
+1. Een onrechtmatige daad is een generiek rechtsfeit binnen het burgerrecht en is de gedraging de dader toe te rekenen, dan wordt ook wel gesproken van een fout. Het betreft een handelen of nalaten waarmee iemand op onwettige of onbehoorlijke wijze een ander schade toebrengt. Uit de onrechtmatige daad vloeit een verbintenis voort; het recht van het slachtoffer op een schadevergoeding, en de verplichting van de dader om deze te voldoen. De rechtsbetrekking tussen de dader en het slachtoffer wordt in dit geval omschreven als een onrechtmatige daad.      
+2. Men kan bestraft worden voor het uitvoeren van een onrechtmatige daad met een geldboete ten hoogste twee maal het bedrag van de geleden schade van het slachtoffer waarvan de helft van die geldboete naar het slachtoffer gaat.     
+3. Een uitzondering wordt gemaakt op lid 2 wanneer iemand een rechtmatige daad pleegd. Hiermee wordt bedoeld een daad die voort komt uit schade geleden door het niet naleven van een overeenkomst. Een voorbeeld hiervan is wanprestatie.      
+
+**Artikel 172 - Voegrecht**     
+Als slachtoffer in een strafzaak heb je recht op voegen. Dit houdt in dat je als slachtoffer schade vergoed kan laten krijgen via de officier van justitie bij een rechter. Dit wordt gedaan door een voegingsformulier in te vullen om een vordering tot schadevergoeding in het proces mee te laten nemen.     
+
+**Artikel 173 - Spreekrecht**     
+Als slachtoffer in een strafzaak heb je recht van spreken wanneer deze een slachtoffer zijn van ernstige misdrijven om een verklaring af te leggen tijdens de rechtszaak. Ouders van een minderjarig slachtoffer hebben dit niet. Dit spreekrecht is verruimd in artikel 173bis.      
+
+**Artikel 173bis - Onbeperkt spreekrecht**     
+Het onbeperkt spreekrecht is sinds 2016 geintroduceerd en maakt het mogelijk dat slachtoffers van ernstige misdrijven een kans hebben om hun verhaal te doen in de rechtszaal. Zij kunnen voortaan ook zeggen wat ze bijvoorbeeld vinden van de schuld van de verdachte(n) en wat de straf zou moeten worden. Voorheen mochten slachtoffers zich alleen uitlaten over wat het misdrijf voor hen persoonlijk betekende.      
+
+**Artikel 174 - De politie in het strafrecht**     
+1. Het is de taak van de politie een verslag te maken van de aangifte van een slachtoffer. Dat verslag heet een proces-verbaal.      
+2. De politie doet vervolgens zelf onderzoek om strafbare feiten op te sporen en bewijzen te verzamelen.      
+3. Het proces-verbaal en eventuele bewijsstukken stuurt de politie door naar de officier van justitie. Deze bepaalt of hij een zaak aan de rechter wil voorleggen of niet. Hij moet er ook voor zorgen dat uitspraken van de strafrechter worden uitgevoerd. Zowel de politie als de officier van justitie kunnen dwangmiddelen toepassen. Bekende dwangmiddelen zijn bijvoorbeeld iemand fouilleren of vasthouden op het politiebureau. Zij moeten zich daarbij wel houden aan de daarvoor opgestelde regels binnen de Politiewet 2012. De rechter controleert of deze regels goed worden toegepast.      
+
+**Artikel 175 - Rechter-commissaris**     
+Wanneer een officier van justitie een diepgaand onderzoek moet doen om een strafbaar feit te kunnen bewijzen moet hij toestemming vragen aan een rechter-commissaris. Dat is de rechter die het onderzoek leidt. De rechter-commissaris kan speciale zware dwangmiddelen toepassen zoals het aftappen van de telefoon. Ook kan hij getuigen en deskundigen horen.      
+
+**Artikel 176 - Strafrechter**    
+Als de officier van justitie niet zelf een strafbeschikking uitvaardigt en besluit een zaak voor de strafrechter te brengen, dan komt er een zitting. De verdachte wordt opgeroepen door middel van een dagvaarding met daarin de tenlastelegging.    
+
+**Artikel 177 - Formele vragen**     
+De strafrechter zoals in artikel 176 beschreven leidt het onderzoek ter terechtzitting. Eerst gaat hij na of aan alle formele eisen (formele vragen) is voldaan. Deze staan hieronder vermeld. Al na de eerste ondervraging door de strafrechter en de cautie mag de verdachte of zijn advocaat een zogeheten preliminair verweer indienen om de nietigheid van de dagvaarding, onbevoegdheid van de rechtbank of niet-onafhankelijkheid van de officier van justitie aan te geven in de gevallen waarin dit zonder onderzoek van de zaak zelf kan blijken. Hierop kan de officier van justitie ook antwoord geven tegenover de rechter.      
+
+1. Is de dagvaarding geldig?      
+
+Of de dagvaarding geldig is, wordt beoordeeld aan de hand van artikel 178. Hierin staat vermeld welke gegevens de tenlastelegging (als onderdeel van de dagvaarding) moet bevatten. Het delict moet omschreven staan onder vermelding van de omstandigheden waaronder het is begaan. Verder moeten de tijd en plaats van het delict worden vermeld. Tevens is het verplicht te vermelden wat de wettelijke strafbepaling is waarop het strafbare feit betrekking heeft en moeten dus ook in de tenlastelegging terug te vinden zijn.      
+
+Wanneer de dagvaarding niet geldig is zal de rechter een nietigheid van de dagvaarding uitspreken.       
+
+Als een verdachte gedetineerd is zal deze uitreiking in persoon op het adres waar hij/zij gedetineerd is plaatsvinden. Wanneer een persoon niet gedetineerd is, geschiedt de uitreiking van de dagvaarding eveneens in persoon. De betekening vindt in eerste instantie plaats op het adres waar de verdachte staat ingeschreven in de basisregistratie personen. Als de verdachte geen adres heeft vindt deze plaats wanneer er contact is gemaakt met de verdachte op een andere manier.      
+
+2. Is de zaak aangebracht voor de juiste rechter?      
+
+Dit gaat over de absolute en relatieve competentie van de strafrechter. De absolute competentie betekent welk soort gerecht bevoegd is en de relatieve competentie gaat over de vraag waar het bevoegde gerecht gevestigd is.      
+
+3. Zijn er geen redenen waarom deze zaak eigenlijk niet had mogen worden voorgelegd, met andere woorden: is het Openbaar Ministerie ontvankelijk?      
+
+Bij verjaring is het Openbaar Ministerie niet-ontvanklijk. Ook als de verdachte eerder al onherroepelijk is veroordeeld door een strafrechter, mag hij niet voor de tweede keer voor ditzelfde feit worden veroordeeld. Dit verwijst direct terug naar artikel 10.  Niet-ontvankelijkheid van het O.M. wordt ook vaak uitgesproken als er sprake is geweest van een schikking.      
+
+Een belangrijke reden waardoor het O.M. niet-ontvankelijk kan worden verklaard, is het gebruik van ongeoorloofde opsporingsmethodes door de opsporingsambtenaren. Verder is het O.M. niet-ontvankelijk als de verdachte is overleden of wanneer de verdachte(n) nog niet de leeftijd van 12 jaar hadden bereikt tijdens het gepleegde feit. Naast de bovenstaande wettelijke gronden van niet-ontvankelijkheid van het Openbaar Ministerie zijn er de volgende ongeschreven gronden:     
+a. Het vertrouwensbeginsel; als door een strafvorderlijk verantwoordelijke instantie een toezegging wordt gedaan aan de verdachte en deze belofte niet wordt nagekomen is het Openbaar Ministerie niet-ontvankelijk.      
+b. Het gelijkheidsbeginsel; gebaseerd op artikel 1 uit de grondwet.     
+c. Zuiverheid van oogmerk/misbruik van recht; Een voorbeeld van misbruik van recht door het Openbaar Ministerie is, wanneer een Officier van Justitie snel een dagvaarding laat betekenen uitsluitend om een naderende verjaring te sluiten en deze dagvaarding vervolgens weer intrekt. Het Openbaar Ministerie is in dergelijke gevallen niet-ontvankelijk.      
+d. Belangenverstrengeling; Het Openbaar Ministerie maakt een afweging of deze een verstrengeling hebben van belangen binnen deze zaak en kunnen daar zichzelf niet-ontvankelijk verklaren.      
+
+4. Is er reden om de zaak te schorsen?     
+
+De redenen van schorsing waarop een zaak geschorst kan worden zijn onder andere de strafrechter die de vervolging kan schorsen als de behandeling afhangt van een geschilpunt op het gebied van civiel recht. Ook kan een vervolging geschorst worden als de verdachte krankzinnig is geworden.    
+
+
+**Artikel 178 - Uitdrukkelijk voorgedragen verweren**         
+1. Wanneer een verdachte, al dan niet zijn advocaat, tevergeefs (via een uitdrukkelijk voorgedragen verweer) ter terechtzitting een beroep doet op het ontbreken van een of meer van de vier bovenstaande (formele) vereisten, dus wanneer de verdachte bijvoorbeeld de geldigheid van de dagvaarding of de bevoegdheid van de rechter betwist, dan is de rechter verplicht om in zijn schriftelijke uitspraak (vonnis of arrest) een beslissing op het verweer op te nemen. Deze beslissing moet door de rechter in zijn vonnis worden gemotiveerd.          
+2. Wanneer een rechter ten onrechte een uitdrukkelijk voorgedragen verweer verwerpt, zonder daar een afzonderlijke beslissing op te nemen, of zonder deze beslissing te motiveren, dan levert dat grond op voor nietigheid van het vonnis.      
+3. Een uitzondering op lid 2 wordt gemaakt als er een preliminair verweer over de formele vereisten is gevoerd. De rechter neemt dan direct, tijdens het proces, een beslissing die dan in het proces-verbaal van de zitting wordt opgenomen. De beslissing op, en motivering van, de verwerping hoeft dan niet nog eens in de schriftelijke uitspraak (vonnis of arrest) worden opgenomen.      
+
+**Artikel 179 - Materiële vragen**     
+1. Is het ten laste gelegde bewezen?     
+
+Het strafbare feit moet wettig en overtuigend bewezen zijn. Belangrijk hierbij is dat de bekentenis van de verdachte niet als enig bewijs mag dienen. Kan het feit niet worden bewezen, dan volgt vrijspraak.      
+
+2. Is het bewezen verklaarde strafbaar?     
+
+Als de strafrechter heeft geconstateerd dat het feit wettig en overtuigend bewezen is, controleert hij vervolgens of het feit strafbaar is. Hiervan is geen sprake als het feit niet te kwalificeren is als strafbaar feit en niet volledig aan de delictsomschrijving van het betreffende delict voldoet. Een andere reden dat een feit niet strafbaar is, is dat de overtreden regel onverbindend is wegens bijvoorbeeld strijdigheid met een 'hogere regel' van een hoger wetgevend orgaan of algemeen rechtsbeginsel.      
+
+Tot slot kan het feit niet strafbaar zijnwegens aanwezigheid van een rechtvaardigingsgrond, die wederrechtelijk en daarmee de strafbaarheid van het feit wegneemt. Als de rechter van oordeel is dat het feit niet strafbaar is, spreekt hij ontslag van alle rechtsvervolging (OVAR) wegens niet-strafbaarheid feit uit.     
+
+Let op: de rechter spreekt alleen 'ontslag van alle rechtsvervolging wegens niet-strafbaarheid feit' uit, wanneer de term 'wederrechtelijkheid' geen onderdeel uitmaakt van de delictsomschrijving en dus geen bestandsdeel is maar een element van het strafbare feit. Staat het woord 'wederrechtelijkheid' wel letterlijk in de delictsomschrijving, dan volgt vrijspraak.      
+
+3. Is de verdachte strafbaar?      
+
+Als het feit bewezen is en de strafrechter van oordeel is dat het feit ook strafbaar is, controleert hij of de dader strafbaar is. De dader is niet strafbaar als er sprake is van een schulduitsluitingsgrond. Als de rechter van oordeel is dat de dader niet strafbaar is, spreekt hij ontslag van alle rechtsvervolging (OVAR) wegens niet-strafbaarheid dader uit.      
+
+Let op: de rechter spreekt alleen 'ontslag van alle rechtsvervolging wegens niet-strafbaarheid dader' uit als de term 'schuld' niet letterlijk in de delictsomschrijving staat en geen bestanddeel is maar een element. Staat het woord 'schuld' wel in de delictsomschrijving, dan is het wel een bestanddeel, en dan volgt vrijspraak, omdat het feit dan niet kan worden bewezen (zie eerste materiële vraag).     
+
+4. Welke straf moet worden opgelegd?     
+
+Dit is de veroordeling. Bij elk strafrechtelijk artikel staat bijgeschreven wat de maximaal oplegbare sanctie is. Ook kan hij de uitspraak doen dat de verdachte wel schuldig is maar dat hij hem geen straf oplegt vanwege de geringe ernst van het strafbare feit, de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan. Wanneer de straf is bepaald, wordt de strafmaat bepaald (hoogte van de straf).     
+
+De officier van justitie (OvJ) kan getuigen en deskundigen oproepen om op de zitting verklaringen af te leggen over de feiten en/of de verdachte. De verdachte en zijn advocaat kunnen de officier van justitie vragen om oproeping van getuigen en deskundigen Als zo'n verzoek tijdig is gedaan, is de officier van justitie verplicht daaraan te voldoen, tenzij duidelijk is, dat de gevraagde getuigen of deskundigen niets relevants kunnen bijdragen. De rechter spreekt direct na de zitting of uiterlijk veertien dagen daarna het vonnis uit.
+
+     
+**Artikel 180 - Bewijzen van schuld**     
+Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door de rechter slechts worden aangenomen, indien hij daarvan uit het onderzoek op de terechtzitting door de inhoud van wettige bewijsmiddelen de overtuiging heeft bekomen.     
+
+**Artikel 181 - Verklaring van de verdachte**     
+1. Onder verklaring van de verdachte wordt verstaan zijne bij het onderzoek op de terechtzitting gedane opgave van feiten of omstandigheden, hem uit eigen wetenschap bekend.      
+2. Zodanige opgave, elders dan ter terechtzitting gedaan, kan tot het bewijs, dat de verdachte het telastegelegde feit begaan heeft, medewerken, indien daarvan uit enig wettig bewijsmiddel blijkt.     
+3. Zijne opgaven kunnen alleen te zijnen aanzien gelden.     
+4. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door de rechter niet uitsluitend worden aangenomen op de opgaven van de verdachte.      
+
+**Artikel 182 - Ontslag van alle rechtsvervolging**     
+Ontslag van alle rechtsvervolging is een materiële einduitspraak van de rechter in het strafrecht en bij ontslag van rechtsvervolging acht de rechter het aan de verdachte ten laste gelegde feit wel bewezen, maar de bewezenverklaring levert geen strafbaar feit op of er is een omstandigheid die de strafbaarheid van de dader uitsluit. Het verschilt van een vrijspraak, doordat daar het ten laste gelegde feit niet bewezen verklaard wordt. Wanneer deze uitspraak is gedaan geldt artikel 10 weder op de gepleegde feiten en kan dit later niet vervolgd worden.     
+
+**Artikel 183 - De verdachte en zijn advocaat**     
+Als de politie of de officier van justitie een redelijk vermoeden heeft dat iemand een strafbaar feit heeft gepleegd, dan spreken we over een verdachte. Een verdachte is nog geen dader. Onder 'dader' wordt verstaan degene die een strafbaar feit heeft gepleegd, en het strafproces dient er juist toe vast te stellen of de verdachte dat heeft gedaan. Wie wordt verdacht van een strafbaar feit, doet er over het algemeen verstandig aan een advocaat in te schakelen. De advocaat (in dit verband vaak raadsman (raadsvrouw) genoemd), verdedigt de rechten van de verdachten tegenover politie en justitie en verdedigt de verdachte op de zitting. Iedereen heeft het recht zich te laten bijstaan door een advocaat. Wie zelf geen advocaat kan betalen, krijgt een advocaat toegewezen door de Raad voor Rechtsbijstand. Dit wordt gesubsidieerd door diezelfde, zodat het geen kosten heeft voor de verdachte.     
+
+**Artikel 184 - De getuige**     
+Een getuige is iemand die iets kan vertellen over een bepaalde strafzaak. Dat kan bijvoorbeeld iemand zijn die een belangrijke verdachte heeft gezien. Een getuige die ten nadele van de verdachte verklaard heeft noemt men een getuige à charge. Zij leggen meestal een belastende verklaring af voor de verdachte. Getuigen die ontlastend verklaren voor de verdachte worden getuige à décharge genoemd.     
+
+**Artikel 185 - De veroordeling**     
+De rechter heeft bij de straftoemeting een grote vrijheid en daarom is de motivering van de straf zo belangrijk. Dit blijkt uit het feit dat de rechter verplicht is de wettelijke voorschriften die van toepassing zijn, te vermelden bij de strafoplegging (art. 358 lid 4 Wetboek van Strafvordering). Er wordt in het strafrecht verschil gemaakt tussen het reguliere strafrecht en jeugdstrafrecht. De aard van straffen die worden gegeven aan minderjarigen zijn gericht dat de persoon leert van haar fouten. De maximale duur van de straffen is lager dan bij het reguliere strafrecht. Minderjarigen tot 16 jaar kunnen bijvoorbeeld maximaal één jaar jeugddetentie krijgen.     
+
+**Artikel 186 - De reclassering**     
+De reclassering helpt mensen die met het strafrecht in aanraking komen. Op verzoek van de rechter onderzoeken medewerkers van de reclassering bijvoorbeeld hoe een verdachte woont, of hij werkt en of hij familie heeft. Soms bemiddelt de reclassering tussen dader en slachtoffer. Zij begeleidt verder mensen die door de rechter zijn veroordeeld.     
+
+
+<h3 id="h5.2"><strong>5.2 - Procedure in het strafrecht</strong></h3>      
+
+**Artikel 187 - Algemeen**    
+Degene die in een strafproces is verwikkeld, krijgt vaak met verschillende rechterlijke instanties te maken. In Veenendaal houden drie instanties zich met strafrechtprocedures bezig:    
+a. de rechtbank (waartoe ook behoort de kantonrecht),   
+b. het gerechtshof,   
+c. de Hoge Raad.   
+Lang niet alle strafzaken worden aan de rechter voorgelegd: in het strafrecht bestaan ook andere procedures. De politie kan sommige zaken bijvoorbeeld zelf helemaal afhandelen. Dat kan ook de officier van justitie.    
+ 
+<h4 id="h5.2.1"><strong>5.2.1 - De rechtbank</strong></h4>      
+  
+**Artikel 188 - Kantonrechter**
+De sector kanton van de rechtbank (de kantonrechter) behandelt alleen overtredingen en een misdrijf stroperij. Vaak gaat het om zaken waarin de politie of de officier van justitie een schikkingsvoorstel heeft gedaan. Als de verdachte niet op zo’n voorstel ingaat, komt de zaak bij de kantonrechter. De verdachte ontvangt dan een dagvaarding waarin precies staat waarvan hij wordt verdacht.
+
+Behalve door dagvaarding, kan de verdachte ook op andere wijze bij de kantonrechter ontboden worden en wel door oproeping. Een oproeping wordt uitgereikt door de verbalisant die de verdachte bij het feit heeft geverbaliseerd. Een oproeping wordt ingevuld op de mini-bon die de verdachte van de verbalisant ontvangt. De overhandiging van deze mini-bon geldt dan als uitreiking van de oproeping. De weigering van de verdachte om de mini-bon in ontvangst te nemen wordt eveneens als uitreiking beschouwd. Daarvan moet door de verbalisant dan wel melding worden gemaakt. Oproeping kan enkel bij de kantonrechter en niet voor alle feiten. Er zijn voorts nog enkele regels aan gebonden, waarvan misschien wel de belangrijkste is dat een oproeping enkel kan worden uitgereikt wanneer de verdachte door de verbalisant op heterdaad wordt betrapt.
+
+De oproeping maakt voor een verdachte nog altijd niet duidelijk waarvan hij/zij wordt verdacht. Het Openbaar Ministerie verzendt daarom standaard aan de verdachte voorafgaand aan de zitting een op een dagvaarding lijkend document; de aanvulling/verbetering oproeping. Dit document heeft vanaf dat moment dezelfde werking als een dagvaarding zou hebben gehad; het is de grondslag van het geding voor de kantonrechter.
+
+Oproepingen worden doorgaans uitgereikt aan verdachten waarvan de politie vermoedt dat zij moeilijk traceerbaar zullen zijn en derhalve misschien geen dagvaarding zouden kunnen ontvangen. Denk hierbij aan mensen zonder vaste woon- of verblijfplaats of aan buitenlandse toeristen. Zo bezien is het oproepingsysteem in het belang van de (rechtsbescherming van) de verdachte. Toch wordt ook aan 'reguliere' verdachten regelmatig een oproeping uitgereikt.
+
+Oproepingen worden voorts ook vaak ingetrokken, in de meeste gevallen omdat het Openbaar Ministerie er niet in slaagt de zaak op tijd rond te krijgen voor de zittingsdatum. De verdachte krijgt daarvan schriftelijk bericht, onder toezegging dat hij/zij t.z.t. een dagvaarding zal ontvangen.
+
+Ook in een oproepingszaak kan de verdachte nog schikkingsvoorstellen ontvangen.
+
+Kantonrechterzittingen zijn vaak 'bulkzittingen'. In sommige arrondissementen is het gebruikelijk dat meer dan 100 verdachten op de zittingslijst staan (dat wil zeggen gedagvaard of opgeroepen zijn om op die dag voor de kantonrechter te verschijnen) Omdat het merendeel van de verdachten niet verschijnt ter zitting, levert dit doorgaans geen grote problemen op. Maar incidenteel kan zulks natuurlijk wel leiden tot een extreem lange zitting, met lange wachttijden voor de verdachten als gevolg.
+
+Anders dan bij de politierechter en meervoudige kamer worden de verdachten bij de kantonrechter meestal niet een voor een naar binnen geroepen. Alle verschenen verdachten moeten gewoon in de zittingzaal plaatsnemen, nadat zij zich hebben gemeld bij de deurwaarder in de zittingzaal. De deurwaarder roept vervolgens de naam van de partij welke aan de beurt is.
+
+Ter zitting zal de kantonrechter eerstens de personalia van de verschenen persoon controleren. Vervolgens dient de verdachte te worden gewezen op zijn of haar zwijgrecht (de cautie) en vaak benadrukken rechters ook dat de verdachte goed moet opletten wat er gebeurt. Anders dan bij de politierechter en de meervoudige kamer, draagt de officier van justitie de zaak bij de kantonrechter niet voor (wat eigenlijk neerkomt op het voorlezen van de dagvaarding). De kantonrechter deelt de verdachte simpelweg mede waarvan hij/zij wordt verdacht.
+
+De rechter onderzoekt op de zitting of de verdachte veroordeeld dient te worden of niet, en zo ja, welke straf dient te worden opgelegd. De officier van justitie geeft zijn of haar mening over de zaak en vordert de op te leggen straf in het requisitoir. De verdachte kan zich tegen de beschuldiging(en) verdedigen en mag daarbij zelfs liegen. Op straffe van nietigheid van het geding mag de verdachte altijd als laatste nog iets zeggen (laatste woord). De kantonrechter sluit vervolgens het onderzoek ter terechtzitting en doet dan meestal direct mondeling uitspraak. Tegen de meeste uitspraken is hoger beroep mogelijk bij het gerechtshof.
+
+Niet-kantonzaken (sommige overtredingen en alle misdrijven, behalve stroperij) komen voor de politierechter of de meervoudige strafkamer van de rechtbank.
+
+**Artikel 189 - Minnelijke schikking**    
+Een minnelijke regeling is het bereiken van een akkoord tussen twee partijen zonder tussenkomst van de rechter. Wanneer er een geschil is en er wordt een minnelijke regeling bereikt, voorkomt dit een vervelende en tijdrovende procedure. De partijen komen er samen uit, meestal in overleg door het sluiten van een compromis.   
+
+**Artikel 190 - Politierechter en meervoudige kamer**   
+Eenvoudige zaken worden door één rechter behandeld, de politierechter genoemd. Het Openbaar Ministerie bepaalt zelf of het een zaak bij de politierechter of bij de meervoudige kamer aanbrengt. De politierechter kan tot één jaar gevangenisstraf opleggen en doet meestal meteen mondeling uitspraak. Moeilijkere of zwaardere zaken worden door drie rechters bekeken. Ook nu komt eerst de officier van justitie aan het woord en daarna de verdachte of diens advocaat. De rechters bij de rechtbank doen veertien dagen na de zitting uitspraak. Tegen die uitspraken is in principe hoger beroep mogelijk bij het gerechtshof. Bij de rechtbank werkt een aantal gespecialiseerde rechters. De economische politierechter houdt zich bezig met economische vergrijpen, bijvoorbeeld overtreding van de Winkelsluitingswet of de Warenwet. De kinderrechter behandelt zaken waarin kinderen worden verdacht van het plegen van strafbare feiten. Daarnaast zetelt in Arnhem de militaire kamer die zaken behandelt waarbij de verdachte militair is, of was tijdens het begaan van het feit. De politierechter kan een zaak naar de meervoudige kamer verwijzen indien hij de zaak te zwaar vindt voor behandeling door de politierechter. De meervoudige kamer kan zaken naar de politierechter verwijzen.    
+    
+<h4 id="h5.2.2"><strong>5.2.2 - Het gerechtshof</strong></h4>   
+
+**Artikel 191 - Definitie**    
+De raadsheren van het gerechtshof behandelen in het algemeen alleen zaken in hoger beroep. Zij bekijken nog eens wat er precies is gebeurd en luisteren opnieuw naar de verhalen van het Openbaar Ministerie en de verdachte. Het gerechtshof hoeft geen rekening te houden met de uitspraak van de rechtbank. Iemand die in eerste instantie is veroordeeld, kan dus worden vrijgesproken, maar ook een hogere straf krijgen.
+
+<h4 id="h5.2.3"><strong>5.2.3 - De Hoge Raad</strong></h4>    
+
+**Artikel 192 - Definitie**   
+Partijen die het niet eens zijn met een uitspraak kunnen bij de Hoge Raad in cassatie gaan. De raadsheren van de Hoge Raad kijken dan niet opnieuw naar de feiten van een strafzaak, maar onderzoeken alleen of de lagere rechter (zoals het gerechtshof) alle rechtsregels goed heeft toegepast. Als dat niet zo is, casseert de Hoge Raad dat wil zeggen vernietigt hij de beslissing en kan hij een andere rechter aanwijzen, die dan opnieuw naar de zaak moet kijken met inachtneming van de uitspraak van de Hoge Raad.    
+
+**Artikel 193 - Cassatie**   
+Cassatie is de vernietiging van een beslissing door het hoogste rechtsprekend orgaan van het land. In cassatie gaan is beroep aantekenen bij het hoogste rechtsprekend orgaan tegen een uitspraak van een lagere rechter. Dit orgaan houdt dan alleen rekening met de wijze waarop de lagere rechter de wet heeft toegepast. Een cassatierechter treedt dus niet in beoordeling van de feiten zelf.   
+
+<h4 id="h5.2.4"><strong>5.2.4 - Alternatieve procedures</strong></h4>   
+
+**Artikel 194 - Definitie**   
+Zowel de politie als de officier van justitie kunnen in bepaalde gevallen de zaak zelf af te handelen. De verdachte en het slachtoffer kunnen soms ook samen een afspraak maken over de manier waarop de zaak moet worden afgehandeld. We noemen dit ‘dading’. Bij sommige strafbare feiten, bijvoorbeeld bij voetbalvandalisme, wordt vaak snelrecht toegepast. Dat betekent dat de verdachten binnen een paar dagen voor de rechter moeten verschijnen en hun eventuele straf meteen moeten uitzitten. We praten in deze gevallen over lik-op-stukbeleid.
+
+<h4 id="h5.2.5"><strong>5.2.5 - Beslissing van de rechter</strong></h4>   
+
+**Artikel 195 - Beslissing rechter**     
+Een rechter kan in een strafzaak verschillende beslissingen nemen. Als niet wettig en overtuigend bewezen is dat de verdachte het ten laste gelegde feit heeft gepleegd, wordt de verdachte vrijgesproken. Is het ten laste gelegde feit wel bewezen, maar is het niet strafbaar, of is de verdachte niet strafbaar omdat hij bijvoorbeeld uit noodweer heeft gehandeld of omdat hij ontoerekeningsvatbaar is, dan wordt de verdachte ontslagen van alle rechtsvervolging. Als de rechter vindt dat iemand wel schuldig is en daarvoor ook moet worden gestraft, dan kan hij verschillende soorten straffen opleggen. Hij kan een gevangenisstraf of een geldboete opleggen of iemand veroordelen tot een taakstraf. Een taakstraf betekent dat een dader een tijd onbetaald werk moet doen. Als de rechter vindt dat iemand schuldig is maar geen straf verdient kan hij die persoon schuldig verklaren zonder oplegging van straf. In de wet staat bij elk strafbaar feit welke straf een rechter maximaal op kan leggen. Een rechter kan verder onvoorwaardelijk of voorwaardelijk straffen. Onvoorwaardelijk betekent dat iemand meteen zijn straf moet ondergaan. Voorwaardelijk betekent dat de straf niet ten uitvoer wordt gelegd, tenzij de veroordeelde binnen een proeftijd opnieuw een delict begaat. In dat geval kan de officier van justitie de tenuitvoerlegging van de voorwaardelijke straf vorderen. Hierover beslist opnieuw de rechtbank, meestal tegelijk met de berechting van het nieuwe delict. Daarnaast kunnen aan een voorwaardelijke straf bijzondere voorwaarden worden verbonden, bijvoorbeeld dat de veroordeelde zich aan de aanwijzingen van de Reclassering houdt. Indien de veroordeelde zich niet aan de bijzondere voorwaarde(n) houdt kan de officier eveneens de tenuitvoerlegging vorderen. Naast straffen kent Nederland ook zogenaamde maatregelen. Voorbeelden van maatregelen zijn ontzegging van de rijbevoegdheid en de terbeschikkingstelling (tbs).     
+  
+  
+
 <i>
 Zoals opgesteld in juli 2022 door het Ministerie van Justitie en Veiligheid en ondertekend door:<br />   
 Dear Leader, 	toenmalig interim Minister van Justitie en Veiligheid   <br />
 Paradox!,	toenmalig interim Staatssecretaris van Justitie en Veiligheid   <br />
 floesjke, 	toenmalig Eerste Hoofdcommissaris Nationale Politie   <br />
 Nullified,	toenmalig interim Commandant Koninklijke Marechaussee  <br /> </i>
+
+
    
 
 
