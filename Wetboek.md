@@ -33,6 +33,10 @@
    <a href="#h4.4">4.4 - Overig</a><br>
 ***
 
+**Voorwoord**   
+<i>Artikelen binnen het wetboek worden gesorteerd aan de hand van het bijbehorende hoofdstuk. Het initiele wetboek zal daarom numeriek kloppen en daarin zullen de artikelen genummeerd zijn op logische volgorde. Wanneer een nieuw artikel toegevoegd wordt, komt deze aan het einde van de daarbij horende categorie met een nieuw nummer of wordt deze met behulp van een latijns telbijwoord toegevoegd aan een ander artikel mits deze betrekking heeft tot het artikel. Voor meer informatie omtrent dit systeem, contacteer de huidige Minister van Justitie en Veiligheid.
+</i>
+
 <h2 id="h1"><strong>Hoofdstuk 1 - Definities en beginselen</strong></h2>
 
 <h3 id="h1.1"><strong>1.1 - Algemene bepalingen</strong></h3>
@@ -143,6 +147,15 @@ Niet strafbaar is de overschrijding van de grenzen van de noodzakelijke verdedig
    
 **Artikel 19 - Definitie verzwarende en verzachtende omstandigheden**   
 Verzwarende en verzachtende omstandigheden zijn omstandigheden dewelke, indien aanwezig tijdens het plegen van strafbare feiten, respectievelijk tot strafverhoging en/of strafvermindering kunnen leiden.
+
+**Artikel 19bis - Poging tot**
+1. Een poging tot het plegen van een strafbaar feit, waarbij redelijkerwijs gedacht kan worden dat de persoon dit feit uit had kunnen voeren mits de situatie anders was gelopen, leidt ertoe dat de maximale sanctie voor het desbetreffende artikel halveert. 
+2. Geldboetes kunnen niet worden gehalveerd en gaan daarom bij het gebruiken van dit artikel naar beneden met èèn categorie.
+
+**Artikel 19ter - Medeplichtigheid**
+1. Medeplichtig zijn degenen die opzettelijk behulpzaam zijn bij een delict en degenen die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf en kan men bestraft worden met een maximale sanctie ten hoogstens èèn derde van de maximaal toegewezen sanctie aan het desbetreffende artikel. 
+2. Een uitzondering kan gemaakt worden wanneer aangetoond was dat het betreffende misdrijf ook uitgevoerd had kunnen worden zonder de bijdrage van deze persoon.
+3. Dit artikel is enkel geldig op misdrijven. Het is niet mogelijk medeplichtig te zijn aan een overtreding.
 
 **Artikel 20 - Kwetsbaarheid**   
 1. Strafbare feiten gepleegd tegenover kwetsbare individuen, waarbij ook redelijkerwijs misbruik is gemaakt van deze kwetsbaarheid, kunnen leiden tot een strafverhoging van de vastgestelde maximum straf met een derde. 
@@ -333,6 +346,17 @@ Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wo
 
 **Artikel 58 - Verboden toegang als de rechthebbende dit laat blijken**   
 Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, bevindt of daar vee laat lopen, wordt gestraft met geldboete van de eerste categorie.
+
+**Artikel 169 - Verbod op gezichtsbedekkende kleding**   
+1. Wanneer men zich bevindt in: onderwijsinstellingen; zorginstellingen; het openbaar vervoer of overheidsgebouwen is het niet toegestaan om onder andere een integraalhelm, een bivakmuts of een nikab te dragen. Het verbod op gezichtsbedekkende kleding geldt voor iedereen. Denk hierbij aan bezoekers, medewerkers, docenten, leerlingen en patiënten. 
+2. Op andere plekken en op straat is het wel toegestaan om gezichtsbedekkende kleding te dragen tenzij de politie u verzoekt deze af te doen wanneer dat nodig is voor identificatie. 
+3. Een uitzondering op lid 1 wordt gemaakt voor mensen voor wie het noodzakelijk is om hun lichaam te beschermen. Zoals het veiligheidsmasker van een lasser.
+4. Dit artikel is niet van toepassing op cliënten, patiënten of hun bezoekers in woongedeelten van zorginstellingen, waar mensen voor een langere tijd blijven. Bijvoorbeeld een seniorencomplex. Dit wordt beschouwd als privédomein van cliënten of patiënten.
+5. Dit artikel is niet van toepassing op feestelijke en culturele activiteiten die plaatsvinden waar het verbod geldt. Deze kleding moet naar de maatschappelijke opvattingen passend zijn en geldt alleen als de kleding onlosmakend onderdeel is van het feest. Bijvoorbeeld maskers of andere gezichtsbedekking tijdens een sinterklaasviering of carnavalsfeest op school. Of een bruidssluier tijdens een bruiloft in het stadhuis.
+6. Dit artikel is niet van toepassing op mondmaskers die enkel het gebied onder de ogen bedekken ter gevolge van het coronavirus. 
+7. Dit artikel wordt gehandhaafd door de politie. Ook medewerkers van de locatie waar het verbod geldt, hebben een rol bij de naleving van het verbod. Het uitgangspunt is dat medewerkers van deze locaties weten dat het verbod er is en dat zij mensen hierop kunnen wijzen. De medewerker kan iemand vragen om de locatie te verlaten of om de gezichtsbedekkende kleding af te doen. Als diegene dit niet doet kan de politie worden ingeschakeld en riskeert de betrokkene een boete. 
+8. Onder overheidsgebouwen wordt gevat: Politiebureau's, Grensposten, Ziekenhuizen, Locaties van de ANWB, Taxibureau's, Banken en het jobcenter. 
+
 
 
 <h2 id="h3"><strong>Hoofdstuk 3 - Opsporing en strafvordering</strong></h2>       
