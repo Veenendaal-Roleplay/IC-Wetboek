@@ -374,7 +374,7 @@ Vervolging: vordering voorlopige hechtenis.
 1. In dit artikel worden alle verboden handelingen beschreven met drugs en de precursors om die te maken. Deze handelingen zijn als volgt:     
 a. Het vervaardigen, telen, bereiden etc zoals weergegeven in artikel 197ter.   
 b. Het gebruiken van harddrugs, zoals beschreven in artikel 196, in het openbaar.    
-c. Het bezitten van precursors voor het maken van drugs boven het limiet gesteld in artikel 197.   
+c. Het bezitten van precursors voor het maken van drugs boven het limiet gesteld in artikel 197ter.   
     
   
 <h3 id="h2.6"><strong>2.6 - Overtredingen</strong></h3>   
