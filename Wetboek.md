@@ -365,7 +365,7 @@ Vervolging: vordering voorlopige hechtenis.
 
 **Artikel 197ter - Vervaardigen, telen, bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken en vervoeren**    
 1. Men is strafbaar wanneer deze heterdaad betrapt worden op het vervaardigen, telen, bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken en vervoeren van drugs zoals benoemd in artikel 196.      
-2. De maximale sanctie die daarop geven kan worden is een celstraf geschaald aan de hoeveelheid drugs of precursor die aangetroffen is op persoon. De laagst mogelijke maximale sanctie is voor 60 units aan drugs of precursor. De maximaal uitschrijfbare sanctie bij 640 units of meer is 150 maanden celstraf en een geldboete.   
+2. De maximale sanctie die daarop geven kan worden is een celstraf geschaald aan de hoeveelheid drugs of precursor die aangetroffen is op persoon. De laagst mogelijke maximale sanctie is voor 10 units aan drugs of precursor. De maximaal uitschrijfbare sanctie bij 640 units of meer is 150 maanden celstraf en een geldboete.   
 
 **Artikel 197quater - Aanwezig hebben**     
 1. Wanneer men aangetroffen wordt met een hoeveelheid middelen weergegeven in artikel 196, groter dan een geringe hoeveelheid bestemd voor eigen gebruik conform artikel 197 lid 2, levert het vermoeden op dat hij deze hoeveelheid opzettelijk aanwezig heeft teneinde er de handelingen mee te verrichten beschreven in artikel 197ter kan ben bestraft worden voor de maximale sanctie conform artikel 197ter lid 2.    
@@ -401,8 +401,13 @@ Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de
 7. Dit artikel wordt gehandhaafd door de politie. Ook medewerkers van de locatie waar het verbod geldt, hebben een rol bij de naleving van het verbod. Het uitgangspunt is dat medewerkers van deze locaties weten dat het verbod er is en dat zij mensen hierop kunnen wijzen. De medewerker kan iemand vragen om de locatie te verlaten of om de gezichtsbedekkende kleding af te doen. Als diegene dit niet doet kan de politie worden ingeschakeld en riskeert de betrokkene een boete. 
 8. Onder overheidsgebouwen wordt gevat: Politiebureau's, Grensposten, Ziekenhuizen, Locaties van de ANWB, Taxibureau's, Banken en het jobcenter. 
 
+**Artikel 199 - Verstoren openbare orde**   
+Wanneer men opzettelijk de openbare orde verstoort naar mening van de daartoe bevoegd ambtenaar kan bestraft worden met een maximale sanctie van een geldboete van de derde categorie en een taakstraf van maximaal 20 taken.  
 
+**Artikel 200 - Vluchten na rechtmatig bevel tot staandehouding**   
+Wanneer men vlucht na het verbaal of schriftelijk bevel tot staandehouding kan men bestraft worden met een maximale sanctie van een geldboete van de vierde categorie en een maximale celstraf van 20 maanden of een taakstraf van 30 taken.
 
+   
 <h2 id="h3"><strong>Hoofdstuk 3 - Opsporing en strafvordering</strong></h2>       
 
 <h3 id="h3.1"><strong>3.1 - Algemene bepalingen</strong></h3>   
