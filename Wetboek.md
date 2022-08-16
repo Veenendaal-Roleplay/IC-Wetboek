@@ -30,8 +30,8 @@
 	<a href="#h4.1.3">4.1.3 - Voetganger</a><br>
    <a href="#h4.2">4.2 - Openbaar vervoer</a><br>
    <a href="#h4.3">4.3 - Openbare orde</a><br>
-   <a href="#h4.4">4.4 - Overig</a><br>
-<a href="#h5">**Hoofdstuk 5 - Strafprocesrecht</a><br><br>
+   <a href="#h4.4">4.4 - Overig</a><br><br>
+<a href="#h5">**Hoofdstuk 5 - Strafprocesrecht**</a><br><br>
 <a href="#h5.1">5.1 - Hoofdpersonen in strafrecht</a><br>
 <a href="#h5.2">5.2 - Procedure in het strafrecht</a><br>
 	<a href="#h5.2.1">5.2.1 - De rechtbank</a><br>
@@ -342,6 +342,41 @@ Hij die een beroep of een gewoonte maakt van het kopen van goederen met het oogm
 	– afkomstig is uit enig misdrijf.   
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
+**Artikel 196 - Hard- en softdrugs**   
+1. Onder harddrugs worden verstaan de volgende chemische/organische middelen:   
+a. Fentanyl   
+b. Cocaïne   
+c. Methamfetamine   
+2. Onder softdrugs worden verstaan de volgende chemische/organische middelen:    
+a. Wiet     
+b. Cannabis     
+
+**Artikel 197 - Bezit geringe hoeveelheid voor eigen gebruik**     
+1. De verboden handelingen met middelen worden beschreven in artikel 198. Het gaat hier om drie groepen strafbare feiten, elk weergegeven in hun eigen artikel:     
+- Binnen of buiten het grondgebied van Veenendaal brengen. (Artikel 197bis)     
+- Vervaardigen, telen, bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken en vervoeren. (Artikel 197ter)     
+- Aanwezig hebben. (Artikel 197quater)      
+2. Het limiet voor geringe hoeveelheid bestemd voor eigen gebruik is 10 eenheden drugs.   
+
+**Artikel 197bis - Binnen of buiten het grondgebied van Veenendaal brengen**   
+Bij de in- en uitvoer van hoeveelheden bestemd voor verdere verspreiding is vrijwel altijd sprake van betrokkenheid van meerdere daders in het land van herkomst en het land van bestemming. De rol van de dader kan bijvoorbeeld zijn die van opdrachtgever/eigenaar van de zending, koerier of feitelijk vervoerder, 'controller' (toezichthouder op de koerier en/of het transport) of afhaler. In een groter georganiseerd verband zijn vaak nog meer personen betrokken, onder meer bij het leveren van de verdovende middelen aan de koerier of transporteur, het regelen van het grensoverschrijdend transport en/of de ontvangst van de zending.   
+
+Vervolging: vordering voorlopige hechtenis.    
+
+**Artikel 197ter - Vervaardigen, telen, bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken en vervoeren**    
+1. Men is strafbaar wanneer deze heterdaad betrapt worden op het vervaardigen, telen, bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken en vervoeren van drugs zoals benoemd in artikel 196.      
+2. De maximale sanctie die daarop geven kan worden is een celstraf geschaald aan de hoeveelheid drugs of precursor die aangetroffen is op persoon. De laagst mogelijke maximale sanctie is voor 60 units aan drugs of precursor. De maximaal uitschrijfbare sanctie bij 640 units of meer is 150 maanden celstraf en een geldboete.   
+
+**Artikel 197quater - Aanwezig hebben**     
+1. Wanneer men aangetroffen wordt met een hoeveelheid middelen weergegeven in artikel 196, groter dan een geringe hoeveelheid bestemd voor eigen gebruik conform artikel 197 lid 2, levert het vermoeden op dat hij deze hoeveelheid opzettelijk aanwezig heeft teneinde er de handelingen mee te verrichten beschreven in artikel 197ter kan ben bestraft worden voor de maximale sanctie conform artikel 197ter lid 2.    
+
+**Artikel 198 - Verboden handelingen**   
+1. In dit artikel worden alle verboden handelingen beschreven met drugs en de precursors om die te maken. Deze handelingen zijn als volgt:     
+a. Het vervaardigen, telen, bereiden etc zoals weergegeven in artikel 197ter.   
+b. Het gebruiken van harddrugs, zoals beschreven in artikel 196, in het openbaar.    
+c. Het bezitten van precursors voor het maken van drugs boven het limiet gesteld in artikel 197.   
+    
+  
 <h3 id="h2.6"><strong>2.6 - Overtredingen</strong></h3>   
 
 **Artikel 55 - Hinderlijk volgen**   
