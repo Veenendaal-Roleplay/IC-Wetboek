@@ -11,6 +11,8 @@
    <a href="#h2.3">2.3 - Strafuitsluitingsgronden</a><br>
    <a href="#h2.4">2.4 - Verzwarende en verzachtende omstandigheden</a><br>
    <a href="#h2.5">2.5 - Misdrijven</a><br>
+   	<a href="#h2.5.1">2.5.1 - Opiumwet</a></br>
+	<a href="#h2.5.2">2.5.2 - Wet wapens en munitie</a></br>
    <a href="#h2.6">2.6 - Overtredingen</a><br><br>
 <a href="#h3">**Hoofdstuk 3 - Opsporing en strafvordering**</a><br><br>
    <a href="#h3.1">3.1 - Algemene bepalingen</a><br>
@@ -148,14 +150,59 @@ Niet strafbaar is de overschrijding van de grenzen van de noodzakelijke verdedig
 
 **Artikel 18 - Uitoefening wettelijk voorschrift**   
 1. Niet strafbaar is hij die een feit begaat ter uitvoering van een wettelijk voorschrift
-2. Wettelijke voorschriften kunnen enkel uitgevaardigd worden door het Ministerie van Justitie of de staat. 
+2. Wettelijke voorschriften kunnen enkel uitgevaardigd worden door het Ministerie van Justitie of de staat.  
 
+**Artikel 202 - Van horen zeggen**    
+Niet toepasbaar is bewijs wat tot kennis is gekomen bij agenten door middel van horen zeggen. Dit houdt in dat een verbale getuigenis van een getuige niet voldoende is om te dienen als bewijslast. Hiervoor dient een getuigenverklaring schriftelijk opgesteld te worden. Wanneer dit niet wordt gedaan is de getuigenverklaring ongeldig en niet toepasbaar als bewijs.   
+
+**Artikel 203 - Belangenverstrengeling**   
+Wanneer een persoon tot een persoonlijk niveau betrokken is binnen een zaak heeft deze een belangenverstrengeling. De betrokken persoon is dan toegestaan een getuigenschrift in te dienen, maar mag niet betrokken zijn bij het bepalen van de strafmaat. Wanneer dit wel het geval is, zal de straf nietig verklaard worden door het Ministerie van Justitie of de staat.  
+
+**Artikel 204 - Procedurefouten**   
+1. Wanneer de politie een aanhouding verricht is het de bedoeling dat de onderstaande procedures correct uitgevoerd worden. Wanneer dit niet het geval is, heeft de politie een fout gemaakt in de procedures en is dan verplicht dit bij het Ministerie van Justitie mede te delen wanneer de straf bepaald wordt. Dit kan leiden tot een strafuitsluiting wanneer deze fout geleidt heeft tot een benadeling van de persoon die is aangehouden. Dit betreft de volgende procedures:   
+a. Procedure Geweld conform Artikel 204bis;  
+b. Procedure Aanhouding conform Artikel 204ter;  
+c. Procedure Administratie conform Artikel 204quater;   
+d. Procedure Behandeling conform Artikel 204quinquies;  
+
+**Artikel 204bis - Procedure Geweld**   
+1. De politie bezit een geweldsmonopolie, dit houdt in dat de poliei in het kader van zijn taak geweld mag of zelfs moet toepassen. Dit mag niet zomaar, het toepassen van geweld is gebonden aan regels en voorwaarden:   
+a. Geweld mag alleen gebruikt worden als er geen andere opties meer zijn. Binnen enkele seconden moet de agent besluiten of praten voldoende is, of dat een wapenstok nodig is, of dat een agent naar een vuurwapen moet grijpen. De politie maakt de afweging of geweld kan en mag ingezet worden.   
+b. De politie mag niet meer geweld gebruiken dan nodig.   
+c. Aan het gebruik van geweld gaat zo veel als mogelijk een waarschuwing vooraf.     
+2. Gesprek. Praten is meestal een goede manier om te voorkomen dat geweld moet worden ingezet.   
+3. Fysiek geweld. Mocht praten niet helpen, dan kan de politie fysiek geweld toepassen om de situatie onder controle te krijgen.  
+4. Wapenstok. De wapenstok kan veel letsel veroorzaken. Daarom is de politie getrained om op armen en benen te richten bij het gebruik van de wapenstok.   
+5. Stroomstootwapen. Het stroomstootwapen kan een persoon met zo min mogelijk letsel onder controle brengen. Deze is op afstand te gebruiken en effectief bij personen die geen pijnprikkels meer voelen. Vaak heeft dreigen al een de-escalerende werking.   
+6. Diensthond. De diensthond (met geleider) kan worden ingezet bij misdrijven en verstoringen van de openbare orde. Het blaffen van de hond heeft in de meeste gevallen al een de-escalerende werking.   
+7. Dienstpistool. Het meest ingrijpende geweldsmiddel dat de politie mag inzetten. Dit mag alleen onder voorwaarden worden ingezet ter aanhouding of als er sprake is van noodweer.   
+8. Wanneer de politie meer geweld gebruikt dan nodig is, wordt dit achteraf door een commissie samengesteld uit de Korpsleiding en de huidige (hulp) Officier van Justitie. Indien beschikbaar dient het Ministerie van Justitie daar ook bij te zijn.  
+
+**Artikel 204ter - Procedure Aanhouding**  
+1. Wanneer iemand aangehouden wordt dienen de volgende handelingen ten alle tijden uitgevoerd te worden in de volgende volgorde:   
+a. Het controleren van de gezondheid en het welzijn van alle betrokken partijen;      
+b. Het veiligstellen van de plaats delict;   
+c. De verdachte in kennis stellen van zijn/haar rechten;    
+2. Wanneer deze procedure niet gevolgd wordt is dit grond van strafuitsluiting.   
+
+**Artikel 204quater - Procedure Administratie**   
+1. Wanneer een agent een aanhouding maakt, dient deze zelf daarbij de bijbehorende administratie te doen. Hieronder valt het aanmaken van het proces verbaal en de daarbij bijbehorende notities of boetes.   
+2. Wanneer een agent een getuige uithoort, dient deze zelf daarbij de bijbehorende administratie te doen. Indien er nog geen proces verbaal gemaakt is tegen deze persoon dient dit gedaan te worden via de getuigenverklaring.   
+3. Wanneer een agent een overtreding wil opleggen bij iemand, dient deze zelf daarbij de bijbehorende administratie te doen. Het proces verbaal dat daarbij hoort dient meteen gesloten te worden tenzij de strafmaat nog niet bepaald is.   
+4. Wanneer een agent een aangifte opneemt van een burger, dient deze in een proces verbaal gezet te worden tegen de persoon tegen wie de aangifte is.     
+5. Wanneer een daartoe bevoegde ambtenaar een onderzoek start tegen een verdachte, dient deze het daarbij bijbehorende proces verbaal aan te maken.   
+
+**Artikel 204quinquies - Procedure Behandeling**   
+De politie dient ten alle tijden iedereen met respect te behandelen. Wanneer dit niet gedaan wordt, kan dit leiden tot een aangifte tegen de agent zelf conform dit artikel. Dit is geen strafuitsluiting.   
 
 
 <h3 id="h2.4"><strong>2.4 - Verzwarende en verzachtende omstandigheden</strong></h3>      
    
 **Artikel 19 - Definitie verzwarende en verzachtende omstandigheden**   
 Verzwarende en verzachtende omstandigheden zijn omstandigheden dewelke, indien aanwezig tijdens het plegen van strafbare feiten, respectievelijk tot strafverhoging en/of strafvermindering kunnen leiden.
+
+**Artikel 201 - Geldigheid verzwarende en verzachtende omstandigheden**   
+Verzwarende en verzachtende omstandigheden zijn enkel toepasselijk op misdrijven zoals opgesteld in hoofdstuk 2.5 van dit wetboek.   
 
 **Artikel 19bis - Poging tot**
 1. Een poging tot het plegen van een strafbaar feit, waarbij redelijkerwijs gedacht kan worden dat de persoon dit feit uit had kunnen voeren mits de situatie anders was gelopen, leidt ertoe dat de maximale sanctie voor het desbetreffende artikel halveert. 
@@ -303,15 +350,19 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
 	spoorwegongeval, oproer, muiterij of oorlogsnood;   
 	3°. diefstal in een woning of op een besloten erf waarop een woning staat, door
 	iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt;
-	4°. diefstal door twee of meer verenigde personen;   
-	5°. diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft
+	4°. diefstal in een winkel of een besloten erf waarop een winkel staat, door iemand
+	die zich aldaar buiten weten of tegen de wil van rechthebbende bevindt;   
+	5°. diefstal in een bank of besloten erf waarop een bank staat, door iemand
+	die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt;   
+	6°. diefstal door twee of meer verenigde personen;   
+	7°. diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft
 	verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van
 	braak, verbreking of inklimming, van valse sleutels, van een valse order of het
 	aannemen van een valse naam of van een valse hoedanigheid, of door listige
 	kunstgrepen, of door een samenweefsel van verdichtsels;   
-	6°. diefstal met het oogmerk om een terroristisch misdrijf voor te bereiden of
+	8°. diefstal met het oogmerk om een terroristisch misdrijf voor te bereiden of
 	gemakkelijk te maken.   
-2. Indien de onder 3° omschreven diefstal vergezeld gaat van een der in onder 4° en 5° vermelde omstandigheden, wordt gevangenisstraf van ten hoogste 90 maanden of geldboete van de vijfde categorie opgelegd.
+2. Indien de onder 3°, 4° of 5° omschreven diefstal vergezeld gaat van een der in onder 6° en 7° vermelde omstandigheden, wordt gevangenisstraf van ten hoogste 90 maanden of geldboete van de vijfde categorie opgelegd.
 
 **Artikel 49 - Afpersing**   
 1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door geweld of bedreiging met geweld iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt, als schuldig aan afpersing, gestraft met gevangenisstraf van ten hoogste 90 maanden of geldboete van de vijfde categorie.
@@ -341,6 +392,8 @@ Hij die een beroep of een gewoonte maakt van het kopen van goederen met het oogm
 	voorwerp gebruik maakt, terwijl hij weet dat het voorwerp – onmiddellijk of middellijk
 	– afkomstig is uit enig misdrijf.   
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
+
+<h4 id="h2.5.1"><strong>2.5.1 - Opiumwet</strong></h4>    
 
 **Artikel 196 - Hard- en softdrugs**   
 1. Onder harddrugs worden verstaan de volgende chemische/organische middelen:   
@@ -375,12 +428,100 @@ Vervolging: vordering voorlopige hechtenis.
 a. Het vervaardigen, telen, bereiden etc zoals weergegeven in artikel 197ter.   
 b. Het gebruiken van harddrugs, zoals beschreven in artikel 196, in het openbaar.    
 c. Het bezitten van precursors voor het maken van drugs boven het limiet gesteld in artikel 197ter.   
-    
+
+<h4 id="h2.5.2"><strong>2.5.2 - Wet wapens en munitie</strong></h4>    
+
+**Artikel 205 - Algemene bepalingen**   
+1. In deze wet wordt verstaan onder:    
+a. Onze Minister: Onze Minister van Justitie en Veiligheid;   
+b. de korpschef: de korpschef van de Nationale Politie;   
+c. vuurwapen: een voorwerp bestemd of geschikt om projectielen of stoffen door een loop af te schieten, waarvan de werking berust op het teweegbrengen van een scheikundige ontploffing of een andere scheikundige reactie;   
+d. munitie: patronen en andere voorwerpen, bestemd of geschikt om een projectiel of een giftige, verstikkende, weerloosmakende, traanverwekkende of soortgelijke stof door middel van een vuurwapen af te schieten of te verspreiden, alsmede projectielen, bestemd om afgeschoten te worden door middel van een vuurwapen;
+e. beheerder: degene die onmiddellijk leiding geeft aan de uitoefening van een bedrijf, waarin wapens en munitie worden vervaardigd, getransformeerd, uitgewisseld, verhuurd of anderszinds ter beschikking gesteld, hersteld, beproefd of verhandeld;   
+f. bestemming: de onmiddellijke bestemming van de in een consentaanvraag omschreven wapens en munitie, aangevuld met de eindbestemming daarvan indien ten tijde van de consentaanvraag bekend is dat de wapens en munitie vanuit de onmiddellijke bestemming zullen worden doorgevoerd;    
+g. binnenkomen en uitgaan: het binnen het grondgebied van Veenendaal komen, respectievelijk het verlaten van het grondgebied van Veenendaal;   
+h. doorvoer: binnenkomen gevolgd door uitgaan;   
+i. vervoer van een wapen: het op de openbare weg of andere voor het publiek toegankelijke plaatsen bij zich hebben van een wapen dat zodanig is verpakt, dat het niet voor onmiddellijk gebruik kan worden aangewend; vervoer van munitie: het op de openbare weg of andere voor het publiek toegankelijke plaatsen bij zich hebben van munitie;   
+j. dragen van een wapen: het op de openbare weg of andere voor het publiek toegankelijke plaatsen bij zich hebben van een wapen anders dan voor vervoer in de onder lid 1.i bedoelde zin;   
+k. overdragen: het aan een ander doen overgaan van de feitelijke macht;
+
+**Artikel 206 - Wapen definities**     
+1. Wapens in de zin van de wet zijn de hieronder vermelde of overeenkomstig dit artikellid aangewezen voorwerpen, onderverdeeld in de volgende categoriën.   
+2. Categorie 1:    
+  1°. stiletto's, valmessen en vlindermessen;   
+  2°. andere opvouwbare messen, indien:    
+    a. het lemmet meer dan een snijkant heeft; of   
+    b. de lengte in opengevouwen teostand langer dan 28 cm is;   
+  3°. boksbeugels, ploertendoders, wurgstokken, werpsterren, vilmessen, ballistische messen en geluiddempers voor vuurwapens;   
+  4°. blanke wapens die uiterlijk gelijken op een ander voorwerp dan een wapen;   
+  5°. pijlen en pijlpunten bestemd om door middel van een boog te worden afgeschoten, die zijn voorzien van snijdende delen met de kennelijke bedoeling daarmee    ernstig letsel te kunnen veroorzaken;   
+  6°. katapulten;   
+  7°. andere door Onze Minister aangewezen voorwerpen die een ernstige bedreiging van personen kunnen vormen of die zodanig op een wapen gelijken, dat zij voor bedreiging of afdreiging geschikt zijn.   
+3. Categorie 2:   
+  1°. vuurwapens die niet onder een van de andere categoriën vallen;   
+  2°. vuurwapens, geschikt om automatisch te vuren;   
+  3°. vuurwapens die zodanig zijn vervaardigd of gewijzigd dat het dragen niet of minder zichtbaar is dan wel dat de aanvalskracht wordt verhoogd;   
+  4°. vuurwapens die uitgelijk gelijken op een ander voorwerp dan een vuurwapen;   
+  5°. voorwerpen waarmee door een elektrische stroomstoot personen weerloos kunnen worden gemaakt of pijn kan worden toegebracht, met uitzondering van medische hulpmiddelen;   
+  6°. voorwerpen, bestemd voor het treffen van personen met giftige, verstikkende, weerloosmakende, traanverwekkende en soortgelijke stoffen, met uitzondering van medische hulpmiddelen en van vuurwapens in de vorm van geweren, revolvers en pistolen, bestemd voor het afschieten van munitie met weerloosmakende of traanverwekkende stof;   
+4. Categorie 3:   
+  1°. vuurwapens in de vorm van geweren, revolvers en pistolen voor zover zij niet vallen onder categorie 2 sub 2, 3 of 6;   
+  2°. toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten;   
+  3°. werpmessen;   
+  4°. alarm- en startpistolen en -revolvers, met uitzondering van alarm- en startpistolen die:   
+    a. geen loop of kennelijk verkorte, geheel gevulde loop hebben;   
+    b. zodanig zijn ingericht dat zij uitsluitend knalpatronen van een kaliber niet groter dan 6 mm kunnen bevatten; en   
+    c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de loop of de lengterichting van het wapen.    
+5. Categorie 4:   
+  1°. blanke wapens waarvan het lemmet meer dan een snijkant heeft, voor zover zij niet vallen onder categorie 1;   
+  2°. degens, zwaarden, sabels en bajonetten;   
+  3°. wapenstokken;   
+  4°. lucht-, gas- en veerdrukwapens, behoudens zulke door Onze Minister overeenkomstig categorie 1, sub 7°, aangewezen die zodanig gelijken op een vuurwapen dat zij voor bedreiging of afdreiging geschikt zijn;      
+  5°. kruisbogen en harpoenen;   
+  6°. bij regeling van Onze Minister aangewezen voorwerpen die geschikt zijn om daarmee personen ernstig lichamelijk letsel toe te brengen;   
+  7°. Voorwerpen waarvan, gelet op hun aard of de omstandigheden waaronder zij worden aangetroffen, redelijkerwijs kan worden aangenomen dat zij zijn bestemd om letsel aan personen toe te brengen of te dreigen en die niet onder een van de andere categorieën vallen.   
+
+**Artikel 207 - Bepalingen voor wapens van categorie 1**   
+1. Het is verboden een wapen van categorie 1 te vervaardigen, te transformeren, voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, te vervoeren, te doen binnenkomen of te doen uitgaan.     
+2. Onze Minister kan ontheffing verlenen voor een of meer verboden genoemd in het eerste lid, met het oog op:    
+  a. gebruik door de krijgsmacht, de politie of de overige openbare dienst;    
+  b. onderwijs ten behoeve van de krijgsmacht, de politie en de openbare dienst;    
+  c. doorvoer van wapens of munitie;    
+3. Wanneer men betrapt wordt op het overtreden van lid 1 van dit artikel kan men maximaal bestraft worden met een celstraf van 40 maanden of een geldboete van de derde categorie.   
+
+**Artikel 208 - Binnenkomen en uitgaan van wapens en munitie van de categorieën 2 en 3**    
+1. Het is verboden zonder consent een wapen of munitie van de categorieën 2 en 3 te doen binnenkomen of te doen uitgaan, alsmede om de bij binnenkomst aangegeven bestemming van zulke wapens of munitie zonder consent te wijzigen.   
+2. Een consent tot wijziging van de bij binnenkomst aangegeven bestemming staat gelijk aan een consent tot binnenkomen voor de gewijzigde bestemming.    
+3. Een consent is uitsluitend geldig voor wapens en munitie die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend.   
+4. Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid verlenen met betrekking tot:   
+  a. sportschutters; jagers en personen die een ontheffing of verlof hebben ten behoeve van het nabootsen van historische gebeurtenissen;   
+  b. doorvoer van wapens of munitie;   
+  c. de uitrusting van vaartuigen en luchtvaartuigen, alsmede van de bemanning daarvan.   
+5. Hij die het verbod in lid 1 overtreed, kan maximaal bestraft worden met een celstraf van 120 maanden celstraf of een geldboete van de zesde categorie.   
+
+**Artikel 209 - Vervoer van wapens en munitie van de categorieën 2 en 3**   
+1. Het is verboden een wapen of munitie van de categorieën 2 en 3 te vervoeren zonder vergunning tot vervoer, dan wel verlof tot vervoer zoals bedoeld in artikel 210.   
+2. Het overtreden van lid 1 van dit artikel kan bestraft worden met een maximale celstraf van 120 maanden celstraf of een geldboete van de zesde categorie.     
+
+**Artikel 210 - Verlof tot vervoer**   
+1. Een verlof tot vervoer wordt, uitsluitend voor wapens en munitie van categorie 3, verleend door de korpschef indien:   
+  a. de aanvrager gerechtigd is het wapen of de munitie voorhanden te hebben;   
+  b. een redelijk belang de verlening van het verlof vordert.   
+
+**Artikel 211 - Voorhanden hebben en dragen van wapens en munitie van de categorieën 2, 3 en 4**   
+1. Het is verboden een wapen of munitie van de categorieën 2 en 3 voorhanden te hebben.   
+2. Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid voor wapens of munitie van categorie 3 verlenen met betrekking tot jagers en sportschutters, die hun vaste woon- of verblijfplaats buiten Veenendaal hebben.   
+3. Het is personen die de leeftijd van achttien jaren nog niet hebben bereikt verboden een wapen van categorie 4 voorhanden te hebben.   
+4. Het overtreden van lid 1 van dit artikel kan bestraft worden met een maximale sanctie van 180 maanden celstraf of een geldboete van de zevende categorie.   
+
   
 <h3 id="h2.6"><strong>2.6 - Overtredingen</strong></h3>   
 
 **Artikel 55 - Hinderlijk volgen**   
 Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan een ander tegen diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+
+**Artikel 212 - Hinderlijk volgen van een hulpverlener**   
+Hij die wederrechtelijk een hulpverlener gedurende de uitoefening van zijn beroep in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan hem tegen zijn uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.   
 
 **Artikel 56 - Overtreden van een noodverordening**   
 Hij die een algemeen voorschrift van politie, krachtens de Gemeentewet in buitengewone omstandigheden door de burgemeester, de voorzitter van de veiligheidsregio of de commissaris van de Koning in de provincie uitgevaardigd en afgekondigd, overtreedt, wordt gestraft met hechtenis van ten hoogste 10 maanden of geldboete van de tweede categorie.
@@ -454,7 +595,7 @@ Een rechter, instantie en individu die een strafrechtelijke zaak behandelt behou
 
 
 
-<h3 id="h3.2"><strong>**3.2 - Opsporing</strong></h3>   
+<h3 id="h3.2"><strong>3.2 - Opsporing</strong></h3>   
 
 **Artikel 68 - Opsporingsinstanties**   
 1. Elke opsporingsinstantie mag autonoom onderzoek voeren naar feiten en/of verdenkingen volgens de wettelijk vastgestelde onderzoeks machtigingen mits deze feiten en/of verdenkingen primair binnen hun onderzoeksgebied vallen.
