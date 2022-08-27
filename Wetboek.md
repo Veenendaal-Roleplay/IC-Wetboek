@@ -166,7 +166,7 @@ c. Procedure Administratie conform Artikel 204quater;
 d. Procedure Behandeling conform Artikel 204quinquies;  
 
 **Artikel 204bis - Procedure Geweld**   
-1. De politie bezit een geweldsmonopolie, dit houdt in dat de poliei in het kader van zijn taak geweld mag of zelfs moet toepassen. Dit mag niet zomaar, het toepassen van geweld is gebonden aan regels en voorwaarden:   
+1. De politie bezit een geweldsmonopolie, dit houdt in dat de politie in het kader van zijn taak geweld mag of zelfs moet toepassen. Dit mag niet zomaar, het toepassen van geweld is gebonden aan regels en voorwaarden:   
 a. Geweld mag alleen gebruikt worden als er geen andere opties meer zijn. Binnen enkele seconden moet de agent besluiten of praten voldoende is, of dat een wapenstok nodig is, of dat een agent naar een vuurwapen moet grijpen. De politie maakt de afweging of geweld kan en mag ingezet worden.   
 b. De politie mag niet meer geweld gebruiken dan nodig.   
 c. Aan het gebruik van geweld gaat zo veel als mogelijk een waarschuwing vooraf.     
