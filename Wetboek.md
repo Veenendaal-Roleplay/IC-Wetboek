@@ -195,6 +195,9 @@ c. De verdachte in kennis stellen van zijn/haar rechten;
 **Artikel 204quinquies - Procedure Behandeling**   
 De politie dient ten alle tijden iedereen met respect te behandelen. Wanneer dit niet gedaan wordt, kan dit leiden tot een aangifte tegen de agent zelf conform dit artikel. Dit is geen strafuitsluiting.   
 
+**Artikel 214 - Politieonderzoek**    
+Wanneer men meewerkt aan een actief politieonderzoek kan men niet bestraft worden voor feiten gepleegd ter ondersteuning van het politieonderzoek. 
+
 
 <h3 id="h2.4"><strong>2.4 - Verzwarende en verzachtende omstandigheden</strong></h3>      
    
@@ -451,7 +454,7 @@ k. overdragen: het aan een ander doen overgaan van de feitelijke macht;
   1°. stiletto's, valmessen en vlindermessen;   
   2°. andere opvouwbare messen, indien:    
     a. het lemmet meer dan een snijkant heeft; of   
-    b. de lengte in opengevouwen teostand langer dan 28 cm is;   
+    b. de lengte in opengevouwen toestand langer dan 28 cm is;   
   3°. boksbeugels, ploertendoders, wurgstokken, werpsterren, vilmessen, ballistische messen en geluiddempers voor vuurwapens;   
   4°. blanke wapens die uiterlijk gelijken op een ander voorwerp dan een wapen;   
   5°. pijlen en pijlpunten bestemd om door middel van een boog te worden afgeschoten, die zijn voorzien van snijdende delen met de kennelijke bedoeling daarmee    ernstig letsel te kunnen veroorzaken;   
@@ -513,6 +516,12 @@ k. overdragen: het aan een ander doen overgaan van de feitelijke macht;
 2. Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid voor wapens of munitie van categorie 3 verlenen met betrekking tot jagers en sportschutters, die hun vaste woon- of verblijfplaats buiten Veenendaal hebben.   
 3. Het is personen die de leeftijd van achttien jaren nog niet hebben bereikt verboden een wapen van categorie 4 voorhanden te hebben.   
 4. Het overtreden van lid 1 van dit artikel kan bestraft worden met een maximale sanctie van 180 maanden celstraf of een geldboete van de zevende categorie.   
+
+**Artikel 213 - Voorhanden hebben en dragen van wapens en munitie van categorie 1**  
+1. Het is verboden een wapen of munitie van categorie 1 voorhanden te hebben.   
+2. Het is personen die de leeftijd van achttien jaren nog niet hebben bereikt verboden een wapen van categorie 1 voorhanden te hebben.   
+3. Het overtreden van lid 1 van dit artikel kan bestraft worden met een maximale sanctie van 100 maanden celstraf of een geldboete van de vijfde categorie.     
+4. Wanneer een verboden wapen uit de categorie aangetroffen wordt op een persoon die de leeftijd van achttien jaren heeft bereikt, zal deze niet hoger bestraft kunnen worden dan 12 maanden celstraf.        
 
   
 <h3 id="h2.6"><strong>2.6 - Overtredingen</strong></h3>   
