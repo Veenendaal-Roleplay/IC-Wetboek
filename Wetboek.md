@@ -117,6 +117,16 @@ Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zij
 	e. Beslaglegging goederen   
 3. De beschreven sancties kunnen gecombineerd worden, rekening houdend met de proportionaliteit tot de strafbare feiten. 
 
+**Artikel 217 - Definitie Geldboetes**   
+1. Geldboetes die als vervanging of toevoeging kunnen worden opgelegd door een daartoe bevoegde ambtenaar worden onderverdeeld in de volgende categorieën:   
+  a. Eerste categorie 10-50 euro;   
+  b. Tweede categorie 50-100 euro;   
+  c. Derde categorie 100-410 euro;   
+  d. Vijfde categorie 410-1200 euro; 
+  e. Zesde categorie 1200-20000 euro;   
+  f. Zevende categorie 20000+ euro.   
+2. Een uitzondering op de vooraf opgestelde bedragen in lid 1 kan gemaakt worden door de korpschef, Minister van Justitie of Officier van Justitie.   
+
 
 <h3 id="h2.3"><strong>2.3 - Strafuitsluitingsgronden</strong></h3>   
 
@@ -333,7 +343,7 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
 	2°. diefstal bij gelegenheid van brand, ontploffing, watersnood, schipbreuk, stranding,
 	spoorwegongeval, oproer, muiterij of oorlogsnood;   
 	3°. diefstal in een woning of op een besloten erf waarop een woning staat, door
-	iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt;
+	iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt;   
 	4°. diefstal in een winkel of een besloten erf waarop een winkel staat, door iemand
 	die zich aldaar buiten weten of tegen de wil van rechthebbende bevindt;   
 	5°. diefstal in een bank of besloten erf waarop een bank staat, door iemand
