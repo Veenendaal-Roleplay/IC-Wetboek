@@ -159,44 +159,25 @@ Niet toepasbaar is bewijs wat tot kennis is gekomen bij agenten door middel van 
 Wanneer een persoon tot een persoonlijk niveau betrokken is binnen een zaak heeft deze een belangenverstrengeling. De betrokken persoon is dan toegestaan een getuigenschrift in te dienen, maar mag niet betrokken zijn bij het bepalen van de strafmaat. Wanneer dit wel het geval is, zal de straf nietig verklaard worden door het Ministerie van Justitie of de staat.  
 
 **Artikel 204 - Procedurefouten**   
-1. Wanneer de politie een aanhouding verricht is het de bedoeling dat de onderstaande procedures correct uitgevoerd worden. Wanneer dit niet het geval is, heeft de politie een fout gemaakt in de procedures en is dan verplicht dit bij het Ministerie van Justitie mede te delen wanneer de straf bepaald wordt. Dit kan leiden tot een strafuitsluiting wanneer deze fout geleidt heeft tot een benadeling van de persoon die is aangehouden. Dit betreft de volgende procedures:   
-a. Procedure Geweld conform Artikel 204bis;  
-b. Procedure Aanhouding conform Artikel 204ter;  
-c. Procedure Administratie conform Artikel 204quater;   
-d. Procedure Behandeling conform Artikel 204quinquies;  
+[Vervallen per 29-08-2022]   
 
 **Artikel 204bis - Procedure Geweld**   
-1. De politie bezit een geweldsmonopolie, dit houdt in dat de politie in het kader van zijn taak geweld mag of zelfs moet toepassen. Dit mag niet zomaar, het toepassen van geweld is gebonden aan regels en voorwaarden:   
-a. Geweld mag alleen gebruikt worden als er geen andere opties meer zijn. Binnen enkele seconden moet de agent besluiten of praten voldoende is, of dat een wapenstok nodig is, of dat een agent naar een vuurwapen moet grijpen. De politie maakt de afweging of geweld kan en mag ingezet worden.   
-b. De politie mag niet meer geweld gebruiken dan nodig.   
-c. Aan het gebruik van geweld gaat zo veel als mogelijk een waarschuwing vooraf.     
-2. Gesprek. Praten is meestal een goede manier om te voorkomen dat geweld moet worden ingezet.   
-3. Fysiek geweld. Mocht praten niet helpen, dan kan de politie fysiek geweld toepassen om de situatie onder controle te krijgen.  
-4. Wapenstok. De wapenstok kan veel letsel veroorzaken. Daarom is de politie getrained om op armen en benen te richten bij het gebruik van de wapenstok.   
-5. Stroomstootwapen. Het stroomstootwapen kan een persoon met zo min mogelijk letsel onder controle brengen. Deze is op afstand te gebruiken en effectief bij personen die geen pijnprikkels meer voelen. Vaak heeft dreigen al een de-escalerende werking.   
-6. Diensthond. De diensthond (met geleider) kan worden ingezet bij misdrijven en verstoringen van de openbare orde. Het blaffen van de hond heeft in de meeste gevallen al een de-escalerende werking.   
-7. Dienstpistool. Het meest ingrijpende geweldsmiddel dat de politie mag inzetten. Dit mag alleen onder voorwaarden worden ingezet ter aanhouding of als er sprake is van noodweer.   
-8. Wanneer de politie meer geweld gebruikt dan nodig is, wordt dit achteraf door een commissie samengesteld uit de Korpsleiding en de huidige (hulp) Officier van Justitie. Indien beschikbaar dient het Ministerie van Justitie daar ook bij te zijn.  
-
+[Vervallen per 29-08-2022]    
+ 
 **Artikel 204ter - Procedure Aanhouding**  
-1. Wanneer iemand aangehouden wordt dienen de volgende handelingen ten alle tijden uitgevoerd te worden in de volgende volgorde:   
-a. Het controleren van de gezondheid en het welzijn van alle betrokken partijen;      
-b. Het veiligstellen van de plaats delict;   
-c. De verdachte in kennis stellen van zijn/haar rechten;    
-2. Wanneer deze procedure niet gevolgd wordt is dit grond van strafuitsluiting.   
+[Vervallen per 29-08-2022]    
 
 **Artikel 204quater - Procedure Administratie**   
-1. Wanneer een agent een aanhouding maakt, dient deze zelf daarbij de bijbehorende administratie te doen. Hieronder valt het aanmaken van het proces verbaal en de daarbij bijbehorende notities of boetes.   
-2. Wanneer een agent een getuige uithoort, dient deze zelf daarbij de bijbehorende administratie te doen. Indien er nog geen proces verbaal gemaakt is tegen deze persoon dient dit gedaan te worden via de getuigenverklaring.   
-3. Wanneer een agent een overtreding wil opleggen bij iemand, dient deze zelf daarbij de bijbehorende administratie te doen. Het proces verbaal dat daarbij hoort dient meteen gesloten te worden tenzij de strafmaat nog niet bepaald is.   
-4. Wanneer een agent een aangifte opneemt van een burger, dient deze in een proces verbaal gezet te worden tegen de persoon tegen wie de aangifte is.     
-5. Wanneer een daartoe bevoegde ambtenaar een onderzoek start tegen een verdachte, dient deze het daarbij bijbehorende proces verbaal aan te maken.   
+[Vervallen per 29-08-2022]    
 
 **Artikel 204quinquies - Procedure Behandeling**   
-De politie dient ten alle tijden iedereen met respect te behandelen. Wanneer dit niet gedaan wordt, kan dit leiden tot een aangifte tegen de agent zelf conform dit artikel. Dit is geen strafuitsluiting.   
+[Vervallen per 29-08-2022]   
 
 **Artikel 214 - Politieonderzoek**    
-Wanneer men meewerkt aan een actief politieonderzoek kan men niet bestraft worden voor feiten gepleegd ter ondersteuning van het politieonderzoek. 
+Wanneer men meewerkt aan een actief politieonderzoek kan men niet bestraft worden voor feiten gepleegd ter ondersteuning van het politieonderzoek.   
+
+**Artikel 215 - Getuigenverklaring ambtenaar in functie**   
+De getuigenis van een ambtenaar in functie is gebonden aan de ambtseed. Om die reden is een verbale getuigenis of verklaring van een opsporingsambtenaar voldoende om te dienen als bewijs en is een schriftelijke vastlegging daarvan buiten een rechtszaak niet vereist.   
 
 
 <h3 id="h2.4"><strong>2.4 - Verzwarende en verzachtende omstandigheden</strong></h3>      
@@ -518,10 +499,7 @@ k. overdragen: het aan een ander doen overgaan van de feitelijke macht;
 4. Het overtreden van lid 1 van dit artikel kan bestraft worden met een maximale sanctie van 180 maanden celstraf of een geldboete van de zevende categorie.   
 
 **Artikel 213 - Voorhanden hebben en dragen van wapens en munitie van categorie 1**  
-1. Het is verboden een wapen of munitie van categorie 1 voorhanden te hebben.   
-2. Het is personen die de leeftijd van achttien jaren nog niet hebben bereikt verboden een wapen van categorie 1 voorhanden te hebben.   
-3. Het overtreden van lid 1 van dit artikel kan bestraft worden met een maximale sanctie van 100 maanden celstraf of een geldboete van de vijfde categorie.     
-4. Wanneer een verboden wapen uit de categorie aangetroffen wordt op een persoon die de leeftijd van achttien jaren heeft bereikt, zal deze niet hoger bestraft kunnen worden dan 12 maanden celstraf.        
+[Vervallen per 29-08-2022]      
 
   
 <h3 id="h2.6"><strong>2.6 - Overtredingen</strong></h3>   
@@ -642,6 +620,10 @@ Een rechter, instantie en individu die een strafrechtelijke zaak behandelt behou
 
 **Artikel 72 - Anonimiteit**   
 Elk individu dat betrokken is bij een onderzoek kan volledige of gedeeltelijke anonimiteit aanvragen bij de opsporingsinstantie in ruil voor waardevolle bewijsstukken en/of getuigenis. 
+
+**Artikel 216 - Verbod tot oproepen getuigen**   
+1. Elk individu en/of zijn/haar raadsman die betrokken zijn bij een onderzoek van een daartoe bevoegde opsporingsinstantie, zijn verboden getuigen op of aan te roepen als deze betrokken zijn bij de zaak. 
+2. Een uitzondering op lid 1 wordt gemaakt wanneer er sprake is van een rechtszaak. 
 
 <h3 id="h3.3"><strong>3.3 - Bevoegdheid tot strafvordering</strong></h3>   
 
