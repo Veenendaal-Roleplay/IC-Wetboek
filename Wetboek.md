@@ -71,8 +71,7 @@ Indien enige gegeven sanctie door de Nationale Politie, Ministerie van Justitie 
 2. Een uitzondering op lid 1 kan gemaakt worden in bijzondere situaties waarin de burger in kwestie door middel van een speciale regeling, waartoe door de staat en/of van door hen daartoe bevoegde organen of personen besloten is, uitgesloten is van het zich houden aan de opgestelde wet of regel.
 
 **Artikel 5 - Strafbaarheidsbeginsel**   
-1. Geen feit binnen Veenendaal is strafbaar dan uit kracht van een daaraan voorafgegane wettelijke strafbepaling. 
-2. Lid 1 zal altijd van toepassing zijn in elke denkbare situatie. Geen enkel persoon is boven de wet geplaatst, en zo zal eenieder zich aan de door de staat bepaalde en of door hen daartoe bevoegde organen of personen, opgestelde wetten moeten houden. 
+[Vervallen per 04/09/2022] 
 
 **Artikel 6 - Territorialiteitsbeginsel**   
 1. De wetten en regels zoals opgesteld in dit wetboek gelden binnen de landsgrenzen van Veenendaal. 
@@ -118,7 +117,7 @@ Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zij
 3. De beschreven sancties kunnen gecombineerd worden, rekening houdend met de proportionaliteit tot de strafbare feiten. 
 
 **Artikel 217 - Definitie Geldboetes**   
-1. Geldboetes die als vervanging of toevoeging kunnen worden opgelegd door een daartoe bevoegde ambtenaar worden onderverdeeld in de volgende categorieën:   
+1. Geldboetes die als vervanging kunnen worden opgelegd door een daartoe bevoegde ambtenaar worden onderverdeeld in de volgende categorieën:   
   a. Eerste categorie 10-50 euro;   
   b. Tweede categorie 50-100 euro;   
   c. Derde categorie 100-410 euro;   
@@ -589,6 +588,9 @@ Een rechter, instantie en individu die een strafrechtelijke zaak behandelt behou
 	dewelke de strafvordering niet kan worden voortgezet.   
 	c. De significante aard van de strafbare feiten en hun negatieve impact op de stad,
 	mits toestemming van de staat.    
+
+**Artikel 218 - Afwezigheid advocaat**   
+Een opsporingsambtenaar is niet verantwoordelijk voor het regelen van een advocaat wanneer er geen beschikbaar is. Het is aan de verdachte zelf om een advocaat te regelen. Wanneer er wel advocaten zijn, maar deze de zaak niet willen nemen, is de politie niet verantwoordelijk voor het regelen van een andere advocaat.     
 
 
 
