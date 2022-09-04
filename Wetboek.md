@@ -121,7 +121,7 @@ Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zij
   a. Eerste categorie 10-50 euro;   
   b. Tweede categorie 50-100 euro;   
   c. Derde categorie 100-410 euro;   
-  d. Vijfde categorie 410-1200 euro; 
+  d. Vijfde categorie 410-1200 euro;   
   e. Zesde categorie 1200-20000 euro;   
   f. Zevende categorie 20000+ euro.   
 2. Een uitzondering op de vooraf opgestelde bedragen in lid 1 kan gemaakt worden door de korpschef, Minister van Justitie of Officier van Justitie.   
@@ -221,9 +221,13 @@ Strafbare feiten die aantoonbaar met opzet zijn voorbereid en gepleegd, en dus n
 Wanneer individuen, dewelke betrokken zijn bij strafbare feiten, actief meewerken aan het daartoe betreffende onderzoek en een waardevolle bijdrage leveren aan dit onderzoek kan strafvermindering worden opgelegd op grond van de significantie van deze bijdragen.
 
 **Artikel 24 - Recidive**   
-1. Wanneer dezelfde strafbare feiten een tweede of derde keer gesanctioneerd wordt, kan de maximum sanctie met een derde verhoogd worden.
-2. Wanneer dezelfde strafbare feiten een vierde of vijfde keer gesanctioneerd wordt, kan de maximum sanctie verdubbeld worden.
-3. Wanneer dezelfde strafbare feiten voor een zesde of zevende keer gesanctioneerd wordt, kan de maximum sanctie verdubbeld worden en daarnaast een proces verbaal openen tegen de verdachte.
+1. Wanneer dezelfde strafbare feiten een tweede of derde keer gesanctioneerd wordt, kan de maximum sanctie met een derde verhoogd worden.   
+2. Wanneer dezelfde strafbare feiten een vierde of vijfde keer gesanctioneerd wordt, kan de maximum sanctie met de helft verhoogd worden.   
+3. Wanneer dezelfde strafbare feiten voor een zesde of zevende keer gesanctioneerd wordt, kan de maximum sanctie verdubbeld worden.   
+4. Wanneer dezelfde strafbare feiten voor een achtste of vaker gesanctioneerd wordt, kan de maximum sanctie verviervoudigd worden.   
+
+**Artikel 219 - Ambtenaar in functie**   
+Een feit gepleegd tegen een ambtenaar in functie kan leiden tot een een verhoging van de maximale sanctie met met de helft van de daarvoor uitschrijfbare maximale sanctie.   
 
 <h3 id="h2.5"><strong>2.5 - Misdrijven</strong></h3>   
 
@@ -405,22 +409,24 @@ b. Cannabis
 2. Het limiet voor geringe hoeveelheid bestemd voor eigen gebruik is 10 eenheden drugs.   
 
 **Artikel 197bis - Binnen of buiten het grondgebied van Veenendaal brengen**   
-Bij de in- en uitvoer van hoeveelheden bestemd voor verdere verspreiding is vrijwel altijd sprake van betrokkenheid van meerdere daders in het land van herkomst en het land van bestemming. De rol van de dader kan bijvoorbeeld zijn die van opdrachtgever/eigenaar van de zending, koerier of feitelijk vervoerder, 'controller' (toezichthouder op de koerier en/of het transport) of afhaler. In een groter georganiseerd verband zijn vaak nog meer personen betrokken, onder meer bij het leveren van de verdovende middelen aan de koerier of transporteur, het regelen van het grensoverschrijdend transport en/of de ontvangst van de zending.   
-
-Vervolging: vordering voorlopige hechtenis.    
+1. Bij de in- en uitvoer van hoeveelheden bestemd voor verdere verspreiding is vrijwel altijd sprake van betrokkenheid van meerdere daders in het land van herkomst en het land van bestemming. De rol van de dader kan bijvoorbeeld zijn die van opdrachtgever/eigenaar van de zending, koerier of feitelijk vervoerder, 'controller' (toezichthouder op de koerier en/of het transport) of afhaler. In een groter georganiseerd verband zijn vaak nog meer personen betrokken, onder meer bij het leveren van de verdovende middelen aan de koerier of transporteur, het regelen van het grensoverschrijdend transport en/of de ontvangst van de zending.   
+2. Het feit zoals beschreven in lid 1 van dit artikel kan bestraft worden met een maximale celstraf van 100 maanden of een geldboete van de zesde categorie.   
+  
 
 **Artikel 197ter - Vervaardigen, telen, bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken en vervoeren**    
 1. Men is strafbaar wanneer deze heterdaad betrapt worden op het vervaardigen, telen, bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken en vervoeren van drugs zoals benoemd in artikel 196.      
-2. De maximale sanctie die daarop geven kan worden is een celstraf geschaald aan de hoeveelheid drugs of precursor die aangetroffen is op persoon. De laagst mogelijke maximale sanctie is voor 10 units aan drugs of precursor. De maximaal uitschrijfbare sanctie bij 640 units of meer is 150 maanden celstraf en een geldboete.   
+2. De maximale sanctie die daarop geven kan worden is een celstraf geschaald aan de hoeveelheid drugs of precursor die aangetroffen is op persoon. De laagst mogelijke maximale sanctie is voor 10 units aan drugs of precursor en bedraagt 15 maanden celstraf of een geldboete van de vierde categorie. De maximaal uitschrijfbare sanctie bij 640 units of meer is 150 maanden celstraf of een geldboete van de zevende categorie.   
 
 **Artikel 197quater - Aanwezig hebben**     
 1. Wanneer men aangetroffen wordt met een hoeveelheid middelen weergegeven in artikel 196, groter dan een geringe hoeveelheid bestemd voor eigen gebruik conform artikel 197 lid 2, levert het vermoeden op dat hij deze hoeveelheid opzettelijk aanwezig heeft teneinde er de handelingen mee te verrichten beschreven in artikel 197ter kan ben bestraft worden voor de maximale sanctie conform artikel 197ter lid 2.    
+2. De maximale sanctie op het overtreden van lid 1 van dit artikel is een celstraf van 150 maanden of een geldboete van de zesde categorie.   
 
 **Artikel 198 - Verboden handelingen**   
 1. In dit artikel worden alle verboden handelingen beschreven met drugs en de precursors om die te maken. Deze handelingen zijn als volgt:     
 a. Het vervaardigen, telen, bereiden etc zoals weergegeven in artikel 197ter.   
 b. Het gebruiken van harddrugs, zoals beschreven in artikel 196, in het openbaar.    
 c. Het bezitten van precursors voor het maken van drugs boven het limiet gesteld in artikel 197ter.   
+d. Het binnen of buiten het grondgebied van Veenendaal brengen zoals gesteld in artikel 197bis.   
 
 <h4 id="h2.5.2"><strong>2.5.2 - Wet wapens en munitie</strong></h4>    
 
@@ -514,19 +520,19 @@ k. overdragen: het aan een ander doen overgaan van de feitelijke macht;
 <h3 id="h2.6"><strong>2.6 - Overtredingen</strong></h3>   
 
 **Artikel 55 - Hinderlijk volgen**   
-Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan een ander tegen diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan een ander tegen diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.   
 
 **Artikel 212 - Hinderlijk volgen van een hulpverlener**   
 Hij die wederrechtelijk een hulpverlener gedurende de uitoefening van zijn beroep in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan hem tegen zijn uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.   
 
 **Artikel 56 - Overtreden van een noodverordening**   
-Hij die een algemeen voorschrift van politie, krachtens de Gemeentewet in buitengewone omstandigheden door de burgemeester, de voorzitter van de veiligheidsregio of de commissaris van de Koning in de provincie uitgevaardigd en afgekondigd, overtreedt, wordt gestraft met hechtenis van ten hoogste 10 maanden of geldboete van de tweede categorie.
+Hij die een algemeen voorschrift van politie, krachtens de Gemeentewet in buitengewone omstandigheden door de burgemeester, de voorzitter van de veiligheidsregio of de commissaris van de Koning in de provincie uitgevaardigd en afgekondigd, overtreedt, wordt gestraft met hechtenis van ten hoogste 10 maanden of geldboete van de tweede categorie.    
 
 **Artikel 57 - Openbare dronkenschap**   
-Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wordt gestraft met hechtenis van ten hoogste twaalf dagen of geldboete van de eerste categorie.
+Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wordt gestraft met hechtenis van ten hoogste twaalf dagen of geldboete van de eerste categorie.    
 
 **Artikel 58 - Verboden toegang als de rechthebbende dit laat blijken**   
-Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, bevindt of daar vee laat lopen, wordt gestraft met geldboete van de eerste categorie.
+Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, bevindt of daar vee laat lopen, wordt gestraft met geldboete van de eerste categorie.    
 
 **Artikel 169 - Verbod op gezichtsbedekkende kleding**   
 1. Wanneer men zich bevindt in: onderwijsinstellingen; zorginstellingen; het openbaar vervoer of overheidsgebouwen is het niet toegestaan om onder andere een integraalhelm, een bivakmuts of een nikab te dragen. Het verbod op gezichtsbedekkende kleding geldt voor iedereen. Denk hierbij aan bezoekers, medewerkers, docenten, leerlingen en patiënten. 
@@ -536,13 +542,19 @@ Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de
 5. Dit artikel is niet van toepassing op feestelijke en culturele activiteiten die plaatsvinden waar het verbod geldt. Deze kleding moet naar de maatschappelijke opvattingen passend zijn en geldt alleen als de kleding onlosmakend onderdeel is van het feest. Bijvoorbeeld maskers of andere gezichtsbedekking tijdens een sinterklaasviering of carnavalsfeest op school. Of een bruidssluier tijdens een bruiloft in het stadhuis.
 6. Dit artikel is niet van toepassing op mondmaskers die enkel het gebied onder de ogen bedekken ter gevolge van het coronavirus. 
 7. Dit artikel wordt gehandhaafd door de politie. Ook medewerkers van de locatie waar het verbod geldt, hebben een rol bij de naleving van het verbod. Het uitgangspunt is dat medewerkers van deze locaties weten dat het verbod er is en dat zij mensen hierop kunnen wijzen. De medewerker kan iemand vragen om de locatie te verlaten of om de gezichtsbedekkende kleding af te doen. Als diegene dit niet doet kan de politie worden ingeschakeld en riskeert de betrokkene een boete. 
-8. Onder overheidsgebouwen wordt gevat: Politiebureau's, Grensposten, Ziekenhuizen, Locaties van de ANWB, Taxibureau's, Banken en het jobcenter. 
+8. Onder overheidsgebouwen wordt gevat: Politiebureau's, Grensposten, Ziekenhuizen, Locaties van de ANWB, Taxibureau's, Banken en het jobcenter.    
 
 **Artikel 199 - Verstoren openbare orde**   
 Wanneer men opzettelijk de openbare orde verstoort naar mening van de daartoe bevoegd ambtenaar kan bestraft worden met een maximale sanctie van een geldboete van de derde categorie en een taakstraf van maximaal 20 taken.  
 
 **Artikel 200 - Vluchten na rechtmatig bevel tot staandehouding**   
-Wanneer men vlucht na het verbaal of schriftelijk bevel tot staandehouding kan men bestraft worden met een maximale sanctie van een geldboete van de vierde categorie en een maximale celstraf van 20 maanden of een taakstraf van 30 taken.
+Wanneer men vlucht na het verbaal of schriftelijk bevel tot staandehouding kan men bestraft worden met een maximale sanctie van een geldboete van de vierde categorie en een maximale celstraf van 20 maanden of een taakstraf van 30 taken.    
+
+**Artikel 220 - Geen gehoor geven aan vordering**    
+1. Wanneer een daartoe bevoegd opsporingsambtenaar een vordering geeft dient de burger gehoor te geven aan deze vordering. Dit houdt in dat er meegewerkt wordt of gedaan wordt wat de vordering inhoudt.   
+2. Het geen gehoor geven aan een eerste vordering kan beboet worden met een geldboete van de tweede categorie.   
+3. Het geen gehoor geven aan een tweede vordering kan beboet worden met een geldboete van de derde categorie.   
+4. Het geen gehoor geven aan een derde vordering kan beboet worden met een geldboete van de vierde categorie of een maximale celstraf van 20 maanden.   
 
    
 <h2 id="h3"><strong>Hoofdstuk 3 - Opsporing en strafvordering</strong></h2>       
