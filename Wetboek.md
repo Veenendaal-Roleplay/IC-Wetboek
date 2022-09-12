@@ -18,7 +18,7 @@
    <a href="#h3.1">3.1 - Algemene bepalingen</a><br>
    <a href="#h3.2">3.2 - Opsporing</a><br>
    <a href="#h3.3">3.3 - Bevoegdheid tot strafvordering</a><br><br>
-<a href="#h4">**Hoofdstuk 4 - Wegen- en verkeerswet**</a><br><br>
+<a href="#h4">**Hoofdstuk 4 - Beboetbare overtredingen**</a><br><br>
 <a href="#h4.1">4.1 - Verkeer op de weg</a><br>
 	<a href="#h4.1.1">4.1.1 - Auto</a><br>
 		<a href="#h4.1.1.1">4.1.1.1 - Eisen aan bestuurder</a><br>
@@ -41,6 +41,17 @@
 	<a href="#h5.2.3">5.2.3 - De Hoge Raad</a><br>
 	<a href="#h5.2.4">5.2.4 - Alternatieve procedures</a><br>
 	<a href="#h5.2.5">5.2.5 - Beslissing van de rechter</a><br>   
+<a href="#h6">**Hoofdstuk 6 - Wegenverkeerswet**</a><br><br>
+<a href="#h6.1">6.1 - Algemene Bepalingen</a><br>
+<a href="#h6.2">6.2 - Verkeersgedrag</a><br>
+<!-- <a href="#h6.3">6.3 - Kentekens en kentekenbewijzen</a><br>
+<a href="#h6.4">6.4 - Gebruik van voertuigen op de weg</a><br>      
+<a href="#h6.5">6.5 - Rijvaardigheid en rijbevoegdheid</a><br>   
+<a href="#h6.6">6.6 - Vrijstelling, ontheffing en vergunning</a><br>   
+<a href="#h6.7">6.7 - Vakbekwaamheid bestuurders goederen- en personenvervoer</a><br>   
+<a href="#h6.8">6.8 - Strafbepalingen</a><br>   
+<a href="#h6.9">6.9 - Civiele aansprakelijkheid</a><br>    -->
+
 
 ***
 
@@ -666,7 +677,7 @@ De speciale functionaris (SF) is bevoegd tot het sanctioneren van individuen, bu
 3. Bij het nietig verklaren van een uitspraak kan de instantie of individu die de nietigverklaring uitspreekt een compensatie uitspreken in verhouding met de nadelen dewelke de beklaagde heeft geleden ten gevolge van de vorige uitspraak(en), wanneer deze dat nodig acht.
 
 
-<h2 id="h4"><strong>Hoofdstuk 4 - Wegen- en verkeerswet</strong></h2>     
+<h2 id="h4"><strong>Hoofdstuk 4 - Beboetbare overtredingen</strong></h2>     
 <h3 id="h4.1"><strong>4.1 - Verkeer op de weg</strong></h3>   
 <h4 id="h4.1.1"><strong>4.1.1 - Auto</strong></h4>   
 <h5 id="h4.1.1.1"><strong>4.1.1.1 - Eisen aan bestuurder</strong></h5>   
@@ -1241,6 +1252,105 @@ Zowel de politie als de officier van justitie kunnen in bepaalde gevallen de zaa
 Een rechter kan in een strafzaak verschillende beslissingen nemen. Als niet wettig en overtuigend bewezen is dat de verdachte het ten laste gelegde feit heeft gepleegd, wordt de verdachte vrijgesproken. Is het ten laste gelegde feit wel bewezen, maar is het niet strafbaar, of is de verdachte niet strafbaar omdat hij bijvoorbeeld uit noodweer heeft gehandeld of omdat hij ontoerekeningsvatbaar is, dan wordt de verdachte ontslagen van alle rechtsvervolging. Als de rechter vindt dat iemand wel schuldig is en daarvoor ook moet worden gestraft, dan kan hij verschillende soorten straffen opleggen. Hij kan een gevangenisstraf of een geldboete opleggen of iemand veroordelen tot een taakstraf. Een taakstraf betekent dat een dader een tijd onbetaald werk moet doen. Als de rechter vindt dat iemand schuldig is maar geen straf verdient kan hij die persoon schuldig verklaren zonder oplegging van straf. In de wet staat bij elk strafbaar feit welke straf een rechter maximaal op kan leggen. Een rechter kan verder onvoorwaardelijk of voorwaardelijk straffen. Onvoorwaardelijk betekent dat iemand meteen zijn straf moet ondergaan. Voorwaardelijk betekent dat de straf niet ten uitvoer wordt gelegd, tenzij de veroordeelde binnen een proeftijd opnieuw een delict begaat. In dat geval kan de officier van justitie de tenuitvoerlegging van de voorwaardelijke straf vorderen. Hierover beslist opnieuw de rechtbank, meestal tegelijk met de berechting van het nieuwe delict. Daarnaast kunnen aan een voorwaardelijke straf bijzondere voorwaarden worden verbonden, bijvoorbeeld dat de veroordeelde zich aan de aanwijzingen van de Reclassering houdt. Indien de veroordeelde zich niet aan de bijzondere voorwaarde(n) houdt kan de officier eveneens de tenuitvoerlegging vorderen. Naast straffen kent Nederland ook zogenaamde maatregelen. Voorbeelden van maatregelen zijn ontzegging van de rijbevoegdheid en de terbeschikkingstelling (tbs).     
   
   
+<h2 id="h6"><strong>Hoofdstuk 6 - Wegenverkeerswet</strong></h2>   
+
+<h3 id="h6.1"><strong>6.1 - Algemene bepalingen</strong></h3>   
+
+**Artikel 221 - Definities**   
+1. In deze wet en de daarop berustende bepalingen wordt, tenzij anders blijkt, verstaan onder:   
+	a. wegen: alle voor het openbaar verkeer openstaande wegen of paden met inbegrip van de daarin liggende bruggen en duikers en de tot die wegen behorende paden en bermen of zijkanten;   
+	b. motorrijtuigen: alle voertuigen, bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het voertuig zelf aanwezig dan wel door elektrische tractie met stroomtoevoer van elders, met uitzondering van fietsen met trapondersteuning;   
+	c. aanhangwagen: voertuig dat kennelijk is bestemd om te worden voortbewogen door een motorrijtuig. In het bepaalde krachtens deze wet kan onder aanhangwagen tevens worden verstaan een voertuig dat door een ander voertuig wordt voortbewogen of kennelijk is bestemd om door een ander voertuig te worden voortbewogen;   
+	d. bromfiets: motorrijtuig op twee wielen, met een door de constructie bepaalde maximumsnelheid van niet meer dan 45 km/h, uitgerust met een verbrandingsmotor met een cilinderinhoud van niet meer dan 50 cm3 of een elektromotor met een nominaal continu maximumvermogen van niet meer dan 4 kW, niet zijnde een gehandicaptenvoertuig;   
+	
+**Artikel 222 - Grond van de wet**   
+1. De krachtens deze wet vastgestelde regels kunnen strekken tot:   
+	a. het verzekeren van de veiligheid op de weg;    
+	b. het beschermen van weggebruikers en passagiers;    
+	c. het in stand houden van de weg en het waarborgen van de bruikbaarheid daarvan;    
+	d. het zoveel mogelijk waarborgen van de vrijheid van het verkeer.    
+2. De krachtens deze wet vastgestelde regels kunnen voorts strekken tot:    
+	a. het voorkomen of beperken van door het verkeer veroorzaakte overlast, hinder of schade alsmede de gevolgen voor het milieu;    
+	b. het voorkomen of beperken van door het verkeer veroorzaakte aantasting van het karakter of van de functie van objecten of gebieden.   
+3. De krachtens deze wet vastgestelde regels kunnen voorts strekken tot:   
+	a. het bevorderen van een doelmatig of zuinig energiegebruik;    
+	b. het waarborgen van het op juiste wijze in rekening brengen van tarieven voor het gebruik van de weg;     
+	c. het gebruik en de waarborging van de juistheid van de registers die ingevolge deze wet worden bijgehouden;   
+	d. het voorkomen en bestrijden van fraude;    
+	e. de regeling van positie, inrichting en werkwijze, alsmede het uitoefenen van toezicht op zelfstandige bestuursorganen die taken verrichten op het terrein van deze wet.   
+
+**Artikel 223 - Regeling gemeentes en waterschappen**   
+Provincies, gemeenten en waterschappen behouden hun bevoegdheid om bij verordening regels vast te stellen ten aanzien van het onderwerp waarin deze wet voorziet, voorzover die regels niet in strijd zijn met de bij of krachtens deze wet vastgestelde regels en voorzover verkeerstekens krachtens deze wet zich daar niet toe lenen.   
+
+<h3 id="h6.2"><strong>6.2 - Verkeersgedrag</strong></h3>   
+
+**Artikel 224 - Gedragsregels**   
+1. Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg wordt gehinderd of kan worden gehinderd.   
+2. Het is een ieder verboden opzettelijk zich zodanig in het verkeer te gedragen dat de verkeersregels in ernstige mate worden geschonden, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is. Als zodanige verkeersgedragingen kunnen de volgende gedragingen worden aangemerkt:   
+	a. onvoldoende rechts houden op onoverzichtelijke plaatsen;   
+	b. gevaarlijk inhalen;   
+	c. negeren van een rood kruis;   
+	d. over een vluchtstrook rijden waar dit niet is toegestaan;   
+	e. inhalen voor of op een voetgangersoversteekplaats;   
+	f. niet verlenen van voorrang;   
+	g. overschrijden van de krachtens deze wet vastgestelde maximumsnelheid;   
+	h. zeer dicht achter een ander voertuig rijden;   
+	i. door rood licht rijden;    
+	j. tegen de verkeersrichting inrijden;   
+	k. tijdens het rijden een mobiel elektronisch apparaat vasthouden;   
+	l. niet opvolgen van verkeersaanwijzingen van daartoe op grond van deze wet bevoegde personen;   
+	m. overtreden van andere verkeersregels van soortgelijk belang als die onder a tot en met l genoemd.   
+
+**Artikel 225 - Verkeersongeval**   
+Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen dat een aan zijn schuld te wijten verkeersongeval plaatsvindt waardoor een ander wordt gedood of waardoor een ander zwaar lichamelijk letsel wordt toegebracht of zodanig lichamelijk letsel dat daaruit tijdelijke ziekte of verhindering in de uitoefening van de normale bezigheden ontstaat.   
+
+**Artikel 226 - Betrokkene verkeersongeval**   
+1. Het is degene die bij een verkeersongeval is betrokken of door wiens gedraging een verkeersongeval is veroorzaakt, verboden de plaats van het ongeval te verlaten indien:   
+	a. bij dat ongeval, naar hij weet of redelijkerwijs moet vermoeden, een ander is gedood dan wel letsel aan een ander is toegebracht;   
+	b. bij dat ongeval, naar hij weet of redelijkerwijs moet vermoeden, schade aan een ander is toegebracht;   
+	c. daardoor, naar hij weet of redelijkerwijs moet vermoeden, een ander aan wie bij dat ongeval letsel is toegebracht, in hulpeloze toestand wordt achtergelaten.   
+2. Het eerste lid, aanhef en onderdelen a en b, is niet van toepassing op degene die op de plaats van het ongeval behoorlijk de gelegenheid heeft geboden tot vaststelling van zijn identiteit en, voor zover hij een motorrijtuig bestuurde, tevens van de identiteit van dat motorrijtuig.   
+
+**Artikel 227 - Rijden onder invloed**   
+1. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen besturen of als begeleider op te treden, terwijl hij verkeert onder zodanige invloed van een stof, waarvan hij weet of redelijkerwijs moet weten, dat het gebruik daarvan - al dan niet in combinatie met het gebruik van een andere stof - de rijvaardigheid kan verminderen, dat hij niet tot behoorlijk besturen of tot behoorlijk te begeleiden in staat moet worden geacht.   
+2. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen besturen of als begeleider op te treden na zodanig gebruik van alcoholhoudende drank, dat:   
+	a. het alcoholgehalte in zijn adem bij een onderzoek hoger blijkt te zijn dan 220 microgram alcohol per liter uitgeademde lucht, dan wel   
+	b. het alcoholgehalte in zijn bloed bij een onderzoek hoger blijkt te zijn dan 0,5 milligram alcohol per milliliter bloed.   
+3. In afwijking van het tweede lid is het de bestuurder van een motorrijtuig voor het besturen waarvan een rijbewijs is vereist, verboden dat motorrijtuig te besturen of als bestuurder te doen besturen na zodanig gebruik van alcoholhoudende drank, dat:   
+	a. het alcoholgehalte van zijn adem bij een onderzoek hoger blijkt te zijn dan 88 microgram alcohol per liter uitgeademde lucht, dan wel   
+	b. het alcoholgehalte van zijn bloed bij een onderzoek hoger blijkt te zijn dan 0,2 milligram per milliliter bloed.   
+4. Het derde lid is van overeenkomstige toepassing op een ieder die zonder dat aan hem een rijbewijs is afgegeven een motorrijtuig bestuurt voor het besturen waarvan een rijbewijs vereist is.   
+5. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen besturen of als begeleider op te treden na gebruik van een of meer van de bij algemene maatregel van bestuur aangewezen stoffen als bedoeld in het eerste lid, waardoor het gehalte in zijn bloed van de bij de stof vermelde meetbare stof, of in geval van gebruik van meer stoffen als bedoeld in het eerste lid die bij algemene maatregel van bestuur aangewezen zijn als groep, het totale gehalte in zijn bloed van de bij die stoffen vermelde meetbare stoffen, bij een onderzoek hoger blijkt te zijn dan de daarbij vermelde grenswaarde. Indien een van de bij algemene maatregel van bestuur aangewezen stoffen of alcohol in combinatie wordt gebruikt met een of meer andere van deze aangewezen stoffen of met een van de stoffen als bedoeld in het eerste lid die niet bij deze algemene maatregel van bestuur zijn aangewezen, geldt voor iedere aangewezen stof of alcohol afzonderlijk een bij algemene maatregel van bestuur vast te stellen grenswaarde. Die grenswaarde is gelijk aan de laagst meetbare hoeveelheid van die stof of alcohol die niet op natuurlijke wijze in het bloed aanwezig kan zijn.   
+6. Het is verboden een motorrijtuig als bestuurder te doen besturen door een persoon waarvan men weet of redelijkerwijs moet weten dat deze verkeert in een toestand als in het eerste, tweede, derde of vijfde lid is omschreven.   
+
+**Artikel 228 - Rijden met ontzegging**   
+Het is degene die weet of redelijkerwijs moet weten dat hem bij rechterlijke uitspraak of strafbeschikking de bevoegdheid tot het besturen van motorrijtuigen is ontzegd, verboden gedurende de tijd dat hem die bevoegdheid is ontzegd, op de weg een motorrijtuig te besturen of als bestuurder te doen besturen.   
+
+**Artikel 229 - Straatracen**   
+1. Het is verboden op de weg een wedstrijd met voertuigen te houden of daaraan deel te nemen.   
+2. Onder wedstrijd wordt voor de toepassing van dit artikel verstaan elk rijden met voertuigen ter vaststelling of vergelijking van prestaties hetzij van de deelnemers, hetzij van de voertuigen, hetzij van onderdelen daarvan, hetzij van bedrijfsstoffen.   
+3. Als deelnemer wordt beschouwd de bestuurder van een voertuig waarmee aan een wedstrijd wordt deelgenomen, en de eigenaar of houder van een voertuig, die daarmee aan een wedstrijd doet of laat deelnemen.   
+
+**Artikel 230 - Wederrechtelijk gebruik voertuig**   
+Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorrijtuig op de weg te gebruiken.   
+
+**Artikel 231 - Aanwijzingen**   
+1. Weggebruikers zijn verplicht gevolg te geven aan de aanwijzingen die door de daartoe bevoegde personen dan wel door andere bij algemene maatregel van bestuur aangewezen categorieën van personen ter zake van het verkeer op de weg worden gegeven.   
+2. De in het eerste lid bedoelde aanwijzingen mogen slechts worden gegeven in het belang van de veiligheid op de weg, de instandhouding van de weg en de bruikbaarheid daarvan, of de vrijheid van het verkeer dan wel in het belang van met toestemming van Onze Minister verrichte onderzoeken ten behoeve van het verkeer.   
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het bepaalde in het eerste lid, alsmede met betrekking tot:   
+	a. de opleiding en examinering van verkeersregelaars en de afgifte, of weigering daarvan, en geldigheidsduur van examencertificaten en herhalingscertificaten;   
+	b. de erkenning, of de weigering daarvan, door Onze Minister van examencertificaten of herhalingscertificaten, de voorschriften die aan die erkenning kunnen worden verbonden en de intrekking van die erkenning;   
+	c. de opleiding van verkeersbrigadiers;   
+	d. de aanstelling van verkeersregelaars, de verlenging en intrekking van die aanstelling, de afgifte van de aanstellingspas aan verkeersregelaars en de inname van die pas in gevallen waarin het verkeer in gevaar is of kan worden gebracht, alsmede de aanstelling van verkeersbrigadiers;   
+	e. de uitrusting, de verzekering, de wijze en plaats van taakuitoefening, en het toezicht op verkeersregelaars en verkeersbrigadiers.   
+
+**Artikel 232 - Vaststelling bebouwde kom**   
+1. Alle wegen die niet vallen onder een snelweg of autoweg.     
+2. Wegen waarvan de snelheid anders is toegewezen dan 80 km/u.  
+
+  
+  
+   
 
 <i>
 Zoals opgesteld in juli 2022 door het Ministerie van Justitie en Veiligheid en ondertekend door:<br />   
