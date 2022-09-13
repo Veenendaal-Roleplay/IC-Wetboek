@@ -44,13 +44,13 @@
 <a href="#h6">**Hoofdstuk 6 - Wegenverkeerswet**</a><br><br>
 <a href="#h6.1">6.1 - Algemene Bepalingen</a><br>
 <a href="#h6.2">6.2 - Verkeersgedrag</a><br>
-<!-- <a href="#h6.3">6.3 - Kentekens en kentekenbewijzen</a><br>
-<a href="#h6.4">6.4 - Gebruik van voertuigen op de weg</a><br>      
-<a href="#h6.5">6.5 - Rijvaardigheid en rijbevoegdheid</a><br>   
-<a href="#h6.6">6.6 - Vrijstelling, ontheffing en vergunning</a><br>   
-<a href="#h6.7">6.7 - Vakbekwaamheid bestuurders goederen- en personenvervoer</a><br>   
-<a href="#h6.8">6.8 - Strafbepalingen</a><br>   
-<a href="#h6.9">6.9 - Civiele aansprakelijkheid</a><br>    -->
+<a href="#h6.3">6.3 - Kentekens en kentekenbewijzen</a><br>
+<a href="#h6.4">6.4 - Gebruik van voertuigen op de weg</a><br>
+<a href="#h6.5">6.5 - Rijvaardigheid en rijbevoegdheid</a><br>
+<a href="#h6.6">6.6 - Vrijstelling, ontheffing en vergunning</a><br>
+<a href="#h6.7">6.7 - Vakbekwaamheid bestuurders goederen- en personenvervoer</a><br>
+<a href="#h6.8">6.8 - Strafbepalingen</a><br>
+<a href="#h6.9">6.9 - Civiele aansprakelijkheid</a><br>
 
 
 ***
@@ -197,7 +197,9 @@ Wanneer een persoon tot een persoonlijk niveau betrokken is binnen een zaak heef
 Wanneer men meewerkt aan een actief politieonderzoek kan men niet bestraft worden voor feiten gepleegd ter ondersteuning van het politieonderzoek.   
 
 **Artikel 215 - Getuigenverklaring ambtenaar in functie**   
-De getuigenis van een ambtenaar in functie is gebonden aan de ambtseed. Om die reden is een verbale getuigenis of verklaring van een opsporingsambtenaar voldoende om te dienen als bewijs en is een schriftelijke vastlegging daarvan buiten een rechtszaak niet vereist.   
+1. De getuigenis van een ambtenaar in functie is gebonden aan de ambtseed. Om die reden is een verbale getuigenis of verklaring van een opsporingsambtenaar voldoende om te dienen als bewijs en is een schriftelijke vastlegging daarvan buiten een rechtszaak niet vereist.   
+2. Een advocaat betrokken bij een strafzaak of schikking kan een verzoek doen om de verklaring van een agent schriftelijk vast te laten leggen wanneer de verdachte verdacht wordt van het plegen van een misdrijf.    
+3. Een advocaat betrokken bij een strafzaak of schikking kan een motie tot uitstel doen ter ondersteuning van lid 2 van dit artikel.   
 
 
 <h3 id="h2.4"><strong>2.4 - Verzwarende en verzachtende omstandigheden</strong></h3>      
@@ -566,6 +568,9 @@ Wanneer men vlucht na het verbaal of schriftelijk bevel tot staandehouding kan m
 2. Het geen gehoor geven aan een eerste vordering kan beboet worden met een geldboete van de tweede categorie.   
 3. Het geen gehoor geven aan een tweede vordering kan beboet worden met een geldboete van de derde categorie.   
 4. Het geen gehoor geven aan een derde vordering kan beboet worden met een geldboete van de vierde categorie of een maximale celstraf van 20 maanden.   
+
+**Artikel 251 - Nalatigheid**   
+Wanneer iemand een overtreding begaat waarvan deze redelijkerwijs had kunnen vermoeden dat dit tegen de regels was en daarmee dus nalatig is geweest, kan men bestraft worden met een maximale celstraf van 20 maanden of een taakstraf van 30 taken.   
 
    
 <h2 id="h3"><strong>Hoofdstuk 3 - Opsporing en strafvordering</strong></h2>       
@@ -1348,10 +1353,143 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
 1. Alle wegen die niet vallen onder een snelweg of autoweg.     
 2. Wegen waarvan de snelheid anders is toegewezen dan 80 km/u.  
 
-  
-  
-   
+<h3 id="h6.3"><strong>6.3 - Kentekens en kentekenbewijzen</strong></h3>   
 
+**Artikel 233 - Kentekenplicht**   
+1. Aan de eigenaar of houder van een motorrijtuig of een aanhangwagen op de weg dient overeenkomstig bij algemene maatregel van bestuur vastgestelde regels door de Dienst Wegverkeer enen kenteken voor dat voertuig te zijn opgegeven.   
+2. Ter zake van de in het eerste lid bedoelde opgave dient overeenkomstig bij algemene maatregel van bestuur vastgestelde regels door de Dienst Wegverkeer een kentekenbewijs te zijn afgegeven aan de eigenaar of houder van het voertuig.   
+3. Het kentekenbewijs dient:   
+	a. te voldoen aan de bij ministeriële regeling vastgestelde eisen inzake inrichting en uitvoering,   
+	b. zijn geldigheid niet te hebben verloren,   
+	c. niet te zijn ingevorderd, en   
+	d. behoorlijk leesbaar te zijn.   
+4. Alle motorvoertuigen die zich bevinden op de openbare weg zoals beschreven in artikel 221 dienen ten alle tijden te beschikken over een kenteken aan ten minste de achterkant van het voertuig.   
+
+<h3 id="h6.4"><strong>6.4 - Gebruik van voertuigen op de weg</strong></h3>   
+
+**Artikel 234 - Periodieke keuringsplicht**   
+1. Voor een motorrijtuig of een aanhangwagen, waarvoor een kenteken is opgegeven dan wel dient te zijn opgegeven, dient een keuringsbewijs te zijn afgegeven.   
+2. Het keuringsbewijs dient:   
+	a. te voldoen aan de door de Dienst Wegverkeer vastgestelde eisen inzake inrichting en uitvoering,   
+	b. zijn geldigheid niet te hebben verloren, en   
+	c. behoorlijk leesbaar te zijn.   
+3. Voor overtreding van het eerste lid en het bepaalde bij of krachtens het tweede lid zijn aansprakelijk:   
+	a. voor zover het betreft een motorrijtuig, de eigenaar of houder, alsmede in het geval dat met dat motorrijtuig over de weg wordt gereden, de bestuurder, en   
+	b. voor zover het betreft een aanhangwagen, de eigenaar of houder, alsmede in het geval dat de aanhangwagen met een motorrijtuig over de weg wordt voortbewogen, de bestuurder van dat motorrijtuig.   
+
+**Artikel 235 - Geldigheid periodieke keuringsplicht**   
+1. Artikel 234 geldt niet indien:   
+	a. er bewezen is dat het motorrijtuig aangeschaft is in de afgelopen 72 uur.   
+2. Wanneer een agent de periodieke keuring heeft ingenomen dient deze zo spoedig mogelijk weer gekeurd te worden bij de ANWB.   
+
+**Artikel 236 - Afgifte van keuringsrapporten**   
+1. Een keuringsbewijs wordt door de medewerkers van de RDW of ANWB afgegeven voor de daarvoor vooraf bepaalde prijs en dienen dit te doen op een vastgestelde wijze voor het afgeven van een keuringsrapport.    
+2. Het laten verwijderen van een WOK-Status gaat gepaard met het voldoen aan de eisen om te slagen voor een periodieke keuring en moet aan voldaan worden om deze status op te heffen.   
+
+**Artikel 237 - Geldigheid keuringsbewijzen**   
+1. Bij algemene maatregel van bestuur wordt, voorzover nodig onder daarbij te stellen voorwaarden, bepaald op welk tijdstip een keuringsbewijs geldigheid verkrijgt en voor welke duur een keuringsbewijs geldig is. Deze duur kan voor verschillende groepen van voertuigen, alsmede voor voertuigen die voor, onderscheidenlijk na een bij algemene maatregel van bestuur te bepalen tijdstip voor het eerst op de weg zijn toegelaten, verschillend worden vastgesteld.   
+2. Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot de in het eerste lid bedoelde voorwaarden en groepen van motorrijtuigen.   
+
+<h3 id="h6.5"><strong>6.5 - Rijvaardigheid en rijbevoegdheid</strong></h3>   
+
+**Artikel 238 - Rijbewijsplicht**   
+1. Aan de bestuurder van een motorrijtuig op de weg dient door de daartoe bevoegde autoriteit een rijbewijs te zijn afgegeven voor het besturen van motorrijtuigen van de categorie waartoe dat motorrijtuig behoort.   
+2. Het rijbewijs dient:   
+	a. te voldoen aan de bij ministeriële regeling vastgestelde eisen inzake inrichting, uitvoering en invulling,   
+	b. zijn geldigheid niet te hebben verloren, en   
+	c. behoorlijk leesbaar te zijn.    
+
+**Artikel 239 - Toepasselijkheid rijbewijsplicht**   
+1. Artikel 238 is niet van toepassing op bestuurders van:   
+	a. bromfietsen als bedoeld in artikel 221, en gehandicaptenvoertuigen die zijn uitgerust met een motor en bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines;   
+	b. motorrijtuigen, gedurende de tijd dat door die bestuurders een rijproef wordt afgelegd in het kader van een onderzoek, door of vanwege de overheid ingesteld, naar hun rijvaardigheid of geschiktheid, voor zover het motorrijtuig daarbij niet onder toezicht wordt bestuurd en overigens is voldaan aan de bij algemene maatregel van bestuur gestelde voorwaarden;   
+	c. motorrijtuigen, indien die bestuurders vreemdelingen in de zin van de Vreemdelingenwet 2000 zijn, die op grond van hun hoedanigheid van of betrekking tot diplomatiek of consulair personeel dan wel op grond van hun hoedanigheid van of betrekking tot personeel in dienst van een in Nederland gevestigde internationale organisatie houder zijn van een door Onze Minister van Buitenlandse Zaken verstrekt identiteitsbewijs voor geprivilegieerden en aan wie, tenzij het een bestuurder van een bromfiets of een andere dan bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekker, motorrijtuig met beperkte snelheid of mobiele machine betreft, door het daartoe bevoegde gezag buiten Nederland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig van de categorie waarmee wordt gereden;    
+	d. motorrijtuigen, indien die bestuurders lid zijn van een krijgsmacht of behoren tot de civiele dienst van een krijgsmacht die in het kader van het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, in Nederland is gelegerd, dan wel behoren tot het gezin van een lid van een krijgsmacht als hiervoor bedoeld of tot het gezin van een tot de civiele dienst van zodanige krijgsmacht behorende persoon, en aan wie, tenzij het een bestuurder van een bromfiets of een andere dan bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekker, motorrijtuig met beperkte snelheid of mobiele machine betreft, door het daartoe bevoegde gezag in de Staat van herkomst of één van zijn samenstellende delen een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig van de categorie waarmee wordt gereden;   
+	e. motorrijtuigen, anders dan bromfietsen of andere dan bij algemene maatregel van bestuur aangewezen landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid of mobiele machines, indien die bestuurders buiten Nederland woonachtig zijn en zij zich bevinden in het internationaal verkeer, mits aan hen door het daartoe bevoegde gezag buiten Nederland een rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig van de categorie waarmee wordt gereden alsmede, in de gevallen waarin zulks is vereist op grond van internationale overeenkomsten die Nederland binden, aan hen buiten Nederland een internationaal rijbewijs is afgegeven dat geldig is voor het besturen van een motorrijtuig van de categorie waarmee wordt gereden;   
+
+**Artikel 240 - Verlies van geldigheid**   
+1. Onverminderd verliest een rijbewijs zijn geldigheid:   
+	a. door uitreiking van een nieuw of vervangend rijbewijs;   
+	b. door omwisseling tegen een rijbewijs dat aan de houder door het daartoe bevoegde gezag buiten Nederland is afgegeven, voor de categorie of categorieën van motorrijtuigen waarop de omwisseling betrekking heeft, dan wel door uitreiking van een rijbewijs dat aan de houder door het daartoe bevoegde gezag buiten Nederland is afgegeven, terwijl betrokkene op dat tijdstip houder was van een rijbewijs en in Nederland woonachtig is;   
+	c. gedurende de tijd dat aan de houder de bevoegdheid tot het besturen van motorrijtuigen is ontzegd;   
+	d. door het onbevoegd daarin aanbrengen van wijzigingen;   
+	e. door het overlijden van de houder;   
+	f. door ongeldigverklaring, voor de categorie of categorieën waarop de ongeldigverklaring betrekking heeft dan wel, indien de ongeldigverklaring betrekking heeft op een deel van de geldigheidsduur, voor dat deel van de geldigheidsduur;   
+	g. door wijziging van de geslachtsnaam, de voornamen, de plaats of datum van geboorte of het geslacht van de houder of   
+	h. door aangifte van vermissing van het rijbewijs.   
+2. Lid 1e is enkel toepasselijk wanneer de ambulance deze persoon dood heeft verklaard en daarbij van mening is dat dit artikel opgeroepen moet worden.   
+
+**Artikel 241 - Maatregel rijvaardigheid en geschiktheid**   
+Indien bij de bij algemene maatregel van bestuur aangewezen personen een vermoeden bestaat dat de houder van een rijbewijs niet langer beschikt over de rijvaardigheid dan wel over de lichamelijke of geestelijke geschiktheid, vereist voor het besturen van een of meer categorieën van motorrijtuigen waarvoor dat rijbewijs is afgegeven, doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan het CBR onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen. Bij ministeriële regeling worden de feiten en omstandigheden aangewezen die aan het vermoeden ten grondslag dienen te liggen en worden ter zake van de uitoefening van deze bevoegdheid nadere regels vastgesteld.   
+
+**Artikel 242 - Medewerkingsplicht**   
+1. Behoudens de bij algemene maatregel van bestuur vastgestelde uitzonderingen is diegene verplicht zijn medewerking te verlenen aan de opgelegde maatregel, die zich:   
+	a. dient te onderwerpen aan een educatieve maatregel ter bevordering van rijvaardigheid of geschiktheid, of   
+	b. dient te onderwerpen aan een onderzoek naar de rijvaardigheid of geschiktheid.   
+2. Bij gebreke van de in het eerste lid bedoelde medewerking besluit het CBR onverwijld tot ongeldigverklaring van het rijbewijs van de houder. Het CBR bepaalt daarbij op welke categorie of categorieën van motorrijtuigen waarvoor het rijbewijs is afgegeven, de ongeldigverklaring betrekking heeft. Bij ministeriële regeling wordt vastgesteld in welke gevallen sprake is van het niet verlenen van medewerking. Als het niet verlenen van de vereiste medewerking wordt mede aangemerkt het niet voldoen van de kosten binnen de termijn of termijnen die is of zijn aangegeven bij het besluit waarbij de verplichting tot een van de hierna genoemde maatregelen is opgelegd, of het niet voldoen van de kosten op de in dat besluit aangegeven wijze, van:   
+	a. de bij ministeriële regeling aangewezen educatieve maatregelen ter bevordering van de rijvaardigheid of geschiktheid, of   
+	b. het onderzoek naar de rijvaardigheid of geschiktheid, indien deze kosten voor rekening van betrokkene komen.   
+3. Het CBR doet van het besluit mededeling aan bij algemene maatregel van bestuur aangewezen personen of instanties.   
+4. De ongeldigverklaring is van kracht met ingang van de zevende dag na die waarop het besluit tot ongeldigverklaring aan de houder van het rijbewijs is bekend gemaakt.   
+5. De houder van het ongeldig verklaarde rijbewijs dient dat rijbewijs, zodra de ongeldigverklaring van kracht is geworden, in te leveren bij het CBR, ook indien de ongeldigverklaring niet alle categorieën betreft waarvoor het rijbewijs geldig was.   
+
+<h3 id="h6.6"><strong>6.6 - Vrijstelling, ontheffing en vergunning</strong></h3>   
+
+**Artikel 243 - Vrijstelling**   
+Onze Minister kan, met inachtneming van verdragen en van besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk, van bepalingen van deze wet vrijstelling verlenen voor het gebruik van de weg ten behoeve van openbare diensten.   
+
+**Artikel 244 - Ontheffing**   
+Van het bepaalde krachtens deze wet kan in de krachtens deze wet aangewezen gevallen overeenkomstig krachtens deze wet vastgestelde regels ontheffing worden verleend:   
+	a. voor wegen onder beheer van het Rijk door Onze Minister;   
+	b. voor wegen onder beheer van een provincie door gedeputeerde staten;   
+	c. voor wegen onder beheer van de Dienst Wegverkeer.   
+
+<h3 id="h6.7"><strong>6.7 - Vakbekwaamheid bestuurders goederen- en personenvervoer</strong></h3>   
+
+**Artikel 245 - Algemene bepalingen**   
+1. Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:   
+	a. richtlijn vakbekwaamheid bestuurders: de bij ministeriële regeling aangewezen richtlijn;   
+	b. bestuurder: degene die vervoer over de weg verricht met een voertuig dat behoort tot een categorie waarop de richtlijn vakbekwaamheid bestuurders van toepassing is en die:   
+		1°. ingezetene is van een lidstaat van de Europese Unie, dan wel   
+		2°. ingezetene is van een land buiten de Europese Unie en werkzaam is voor een binnen de Europese Unie gevestigde onderneming;   
+	c. basiskwalificatie: het opleidings- en kennisniveau dat de in de richtlijn vakbekwaamheid bestuurders aangewezen onderwerpen en praktische vaardigheden omvat;   
+	d. getuigschrift van vakbekwaamheid: bewijs dat de houder de basiskwalificatie heeft behaald;   
+	e. nascholing: periodiek opleidingstraject dat in de richtlijn vakbekwaamheid bestuurders aangewezen onderwerpen en praktische vaardigheden omvat;   
+	f. getuigschrift van nascholing: bewijs dat de houder de nascholing met goed gevolg heeft voltooid;   
+
+<h3 id="h6.8"><strong>6.8 - Strafbepalingen</strong></h3>   
+
+**Artikel 246**   
+1. Overtreding van artikel 225 wordt gestraft met:   
+	a. gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;   
+	b. gevangenisstraf van ten hoogste 18 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander lichamelijk letsel wordt toegebracht.   
+2. Indien de schuld niet bestaat in roekeloosheid, wordt de overtreding van artikel 225 gestraft met:   
+	a. gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;   
+	b. gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander lichamelijk letsel wordt toegebracht.   
+3. Van roekeloosheid is in elk geval sprake als het gedrag tevens als een overtreding van artikel 224, tweede lid, kan worden aangemerkt.   
+4. Indien de schuldige zich verkeerde in de toestand, bedoeld in artikel 227, dan wel na het feit niet heeft voldaan aan een bevel, kunnen de in het eerste en tweede lid bepaalde gevangenisstraffen met de helft worden verhoogd.   
+
+**Artikel 247**
+1. Overtreding van artikel 224 wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van vierde categorie.   
+2. Overtreding van de artikelen 226, artikel 227 en artikel 228 wordt gestraft met een gevangenisstraf van ten hoogste een jaar of een geldboete van de vierde categorie.   
+3. Overtreding van artikel 230 wordt gestraft met een gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.   
+
+**Artikel 248**
+1. Overtreding van artikel 229 wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.   
+2. Als toegevoegde sanctie op lid 1 kan hierbij het voertuig en/of rijbewijs ingevorderd worden.   
+
+**Artikel 249 - Overige sancties**   
+1. Naast de in de bovenstaande artikelen 246, 247 en 248 beschreven sancties kunnen de overige, niet benoemde artikelen uit het hoofdstuk 6 waarbij niet van zichzelf al een sanctie bij staat, kan door een agent beboet worden.    
+2. Overige bijkomende sancties kunnen opgelegd worden aan de hand van het sanctievormen en boetebedragen artikel.   
+   
+<h3 id="h6.9"><strong>6.9 - Civiele aansprakelijkheid</strong></h3>   
+
+**Artikel 250 - Civiele Aansprakelijkheid**   
+1. Indien een motorrijtuig waarmee op de weg wordt gereden, betrokken is bij een verkeersongeval waardoor schade wordt toegebracht aan, niet door dat motorrijtuig vervoerde, personen of zaken, is de eigenaar van het motorrijtuig of - indien er een houder van het motorrijtuig is - de houder verplicht om die schade te vergoeden, tenzij aannemelijk is dat het ongeval is te wijten aan overmacht, daaronder begrepen het geval dat het is veroorzaakt door iemand, voor wie onderscheidenlijk de eigenaar of de houder niet aansprakelijk is.   
+2. De eigenaar of houder die het motorrijtuig niet zelf bestuurt, is aansprakelijk voor de gedragingen van degene door wie hij dat motorrijtuig doet of laat rijden.   
+3. Het eerste en het tweede lid vinden geen toepassing ten aanzien van schade, door een motorrijtuig toegebracht aan loslopende dieren, aan een ander motorrijtuig in beweging of aan personen en zaken die daarmee worden vervoerd.   
+4. Dit artikel laat onverkort de uit andere wettelijke bepalingen voortvloeiende aansprakelijkheid.   
+  
 <i>
 Zoals opgesteld in juli 2022 door het Ministerie van Justitie en Veiligheid en ondertekend door:<br />   
 Dear Leader, 	toenmalig interim Minister van Justitie en Veiligheid   <br />
