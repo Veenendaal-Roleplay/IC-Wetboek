@@ -333,7 +333,7 @@ Hij die het misdrijf van smaad of smaadschrift pleegt, wetende dat het te last g
 2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 90 maanden of geldboete van de vijfde categorie.   
 3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste 120 maanden of geldboete van de vijfde categorie.   
 4. De in dit artikel bepaalde straffen zijn ook van toepassing op hem die opzettelijk tot de wederrechtelijke vrijheidsberoving een plaats verschaft.   
-5. Een uitzondering op dit artikel wordt gemaakt wanneer een opsporingsinstantie zoals aangegeven in artikel 9, een persoon wilt of heeft gesanctioneerd op een overtreding van artikel 252.    
+5. Een uitzondering op dit artikel wordt gemaakt wanneer een opsporingsinstantie zoals aangegeven in artikel 9, een persoon wilt of heeft gesanctioneerd op een overtreding van artikel 253.    
 
 **Artikel 41 - Bedreiging**   
 1. Bedreiging met openlijk in vereniging geweld plegen tegen personen of goederen, met geweld tegen een internationaal beschermd persoon of diens beschermde goederen, met enig misdrijf waardoor gevaar voor de algemene veiligheid van personen of goederen of gemeen gevaar voor de verlening van diensten ontstaat, met verkrachting, met feitelijke aanranding van de eerbaarheid, met enig misdrijf tegen het leven gericht, met gijzeling, met zware mishandeling of met brandstichting, wordt gestraft met gevangenisstraf van ten hoogste 30 maanden of geldboete van de vierde categorie.
