@@ -96,6 +96,15 @@ Indien enige gegeven sanctie door de Nationale Politie, Ministerie van Justitie 
 **Artikel 7 - Nulla poena-beginsel**   
 Men kan alleen bestraft worden volgens de bestaande regelgeving op het moment van de gepleegde feiten.
 
+**Artikel 7bis - Dubio pro reo**   
+Voordeel van de twijfel in het strafrecht. Men kan enkel een sanctie opgelegd krijgen door een rechter wanneer deze overtuigd is van het strafbare feit. Indien de rechter twijfels heeft zal de verdachte daarom ook het voordeel van de twijfel krijgen.    
+
+**Artikel 7ter - Lites finiri oportet**   
+Het lites finiri oportet houdt in dat een rechtsstrijd op afzienbare termijn tot een einde moet komen. Dit is de vastgelegde termijn die opgesteld is door de daartoe bevoegde persoon, in dit geval de leidinggevende van de rechtssprekende instantie of officier van justitie, bij het opstarten van de rechtszaak. Deze termijn is vaak een maand, maar kan afhankelijk van de zaak ook een week, of een half jaar zijn.   
+
+**Artikel 7quater - Onschuldpresumptie**   
+Een ieder die wegens een strafbaar feit wordt vervolgd wordt voor onschuldig gehouden, totdat zijn schuld volgens de wet is bewezen.    
+
 **Artikel 8 - Definitie privé sfeer**   
 Met privé sfeer, wordt bedoeld een gesprek, hetzij één op één, hetzij met een groepje, binnen het grondgebied waar dit wetboek op geldig is, maar buiten de vaste chatkanalen of channels om. 
 
@@ -105,7 +114,10 @@ Met privé sfeer, wordt bedoeld een gesprek, hetzij één op één, hetzij met e
 	b. Het Ministerie van Justitie en Veiligheid   
 	c. Het Ministerie van Defensie   
 	d. als onderdeel van het Ministerie van Defensie, in het specifiek: de Koninklijke Marechaussee.    
-2. Een orgaan of persoon kan aangewezen worden als buitengewoon opsporingsambtenaar door de staat of een rechter van het ministerie van justitie. Deze persoon of dit orgaan zal dan onder de definitie vallen van een opsporingsinstantie gedurende de duur van de aanstelling. 
+2. Een orgaan of persoon kan aangewezen worden als buitengewoon opsporingsambtenaar door de staat of een rechter van het ministerie van justitie. Deze persoon of dit orgaan zal dan onder de definitie vallen van een opsporingsinstantie gedurende de duur van de aanstelling.   
+
+**Artikel 9bis - Medewerkingsplicht onderzoek**    
+Tijdens een onderzoek van een onderzoeksinstantie zoals beschreven in artikel 9, is men verplicht om mee te werken aan dit onderzoek. Indien men niet meewerkt aan dit onderzoek kan men bestraft worden met belemmering van de rechtsgang.    
 
 **Artikel 10 - Ne bis in idem beginsel**   
 Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zijn, kan niemand andermaal worden vervolgd wegens een feit waarover door een rechter of strafopleggings ambtenaar onherroepelijk is beslist.
@@ -317,10 +329,11 @@ Hij die het misdrijf van smaad of smaadschrift pleegt, wetende dat het te last g
 2. Indien dit misdrijf tegen een bepaald persoon gepleegd is, wordt het slechts vervolgd op diens klacht.
 
 **Artikel 40 - Wederrechtelijke vrijheidsberoving**   
-1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt, wordt gestraft met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie.
-2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 90 maanden of geldboete van de vijfde categorie.
-3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste 120 maanden of geldboete van de vijfde categorie.
-4. De in dit artikel bepaalde straffen zijn ook van toepassing op hem die opzettelijk tot de wederrechtelijke vrijheidsberoving een plaats verschaft.
+1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt, wordt gestraft met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie.   
+2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 90 maanden of geldboete van de vijfde categorie.   
+3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste 120 maanden of geldboete van de vijfde categorie.   
+4. De in dit artikel bepaalde straffen zijn ook van toepassing op hem die opzettelijk tot de wederrechtelijke vrijheidsberoving een plaats verschaft.   
+5. Een uitzondering op dit artikel wordt gemaakt wanneer een opsporingsinstantie zoals aangegeven in artikel 9, een persoon wilt of heeft gesanctioneerd op een overtreding van artikel 252.    
 
 **Artikel 41 - Bedreiging**   
 1. Bedreiging met openlijk in vereniging geweld plegen tegen personen of goederen, met geweld tegen een internationaal beschermd persoon of diens beschermde goederen, met enig misdrijf waardoor gevaar voor de algemene veiligheid van personen of goederen of gemeen gevaar voor de verlening van diensten ontstaat, met verkrachting, met feitelijke aanranding van de eerbaarheid, met enig misdrijf tegen het leven gericht, met gijzeling, met zware mishandeling of met brandstichting, wordt gestraft met gevangenisstraf van ten hoogste 30 maanden of geldboete van de vierde categorie.
@@ -401,7 +414,15 @@ Hij die een beroep of een gewoonte maakt van het kopen van goederen met het oogm
 	b.hij die een voorwerp verwerft, voorhanden heeft, overdraagt of omzet of van een
 	voorwerp gebruik maakt, terwijl hij weet dat het voorwerp – onmiddellijk of middellijk
 	– afkomstig is uit enig misdrijf.   
-2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
+2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.   
+
+**Artikel 252 - Belemmering van de rechtsgang**   
+Het opzettelijk belemmeren van de rechtsgang kan bestraft worden met een maximale celstraf van 120 maanden of een geldboete van de zesde categorie.   
+
+**Artikel 253 - Wanbetaling**   
+1. Het niet tijdig betalen van facturen, boetes of andere credietsommen kan leiden tot een maximale celstraf van 40 maanden of een geldboete ter hoogte van maximaal de helft van het nog te betalen bedrag.   
+2. Een opsporingsinstantie heeft de mogelijkheid om de persoon vast te houden, te gijzelen, tot deze som betaald is. Kan dit niet, zal deze persoon dit aan moeten geven en zal die afgevoerd worden om zijn tijd te zitten in de gevangenis conform lid 1 van dit artikel.       
+
 
 <h4 id="h2.5.1"><strong>2.5.1 - Opiumwet</strong></h4>    
 
