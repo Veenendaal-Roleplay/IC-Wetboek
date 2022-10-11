@@ -17,3 +17,6 @@ Wanneer men in hoger beroep gaat tegen een besluit wordt er nogmaals door een an
 De derde categorie van procedures is de categorie die betrekking heeft met de hoge raad van justitie. Deze behandelen enkel cassatie of beoordelen de geldigheid van de uitspraak. Deze kunnen enkel straffen ongeldig verklaren op basis van vooraf gestelde feiten in het wetboek en gaan niet over de strafmaat. Dit betreft de volgende procedures:   
 - Cassatie (HRvJ)
 - Aanvraag Hoge Raad (HRvJ)
+
+Een vierde categorie is bestemd voor klachten over de politie, ambulance of andere hulpdiensten. Dit formulier wordt behandeld door de daartoe bevoegde personen, hetzij de politieleiding of in het geval van conflict van interesses de hulpdienst coördinator.   
+- Klachtenformulier
