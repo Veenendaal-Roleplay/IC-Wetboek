@@ -1,4 +1,8 @@
-# IC-Wetboek
+LET OP, OUTDATED!!!!!!!!! 
+
+NIET GEBRUIKEN!!!!!!
+
+# IC-Wetboek 
 Het Veenendaal Wetboek, te gebruiken in-character in de server.   
 
 Wegenverkeerswet 1994 origineel (iets beter): https://wetten.overheid.nl/BWBR0006622/2022-05-20   
